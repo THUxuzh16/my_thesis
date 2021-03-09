@@ -1,0 +1,94 @@
+
+%\section{Multiquark states containing strangness}
+%\label{section:comments_in_introduction}
+%
+%The theoretical predictions for strangeness $Z$ states are discussed in  Ref.~\supercite{Chen:2013wca,Ferretti:2020ewe,Lee:2008uy,Voloshin:2019ilw,Dias:2013qga}.
+%
+%
+%\section{Open charm multiquark states}
+%\label{section:comments_in_introduction}
+%
+%The theoretical predictions for strangeness $Z$ states are discussed in  Ref.~\supercite{Chen:2013wca,Ferretti:2020ewe,Lee:2008uy,Voloshin:2019ilw,Dias:2013qga}.
+
+
+
+\section{Theoretical models of multiquark states}
+
+Many theoretical models are constructed to explain the exotic hadrons observed in experiments\supercite{LIU2019237}.
+The first-principle strategy to treat these observations is lattice QCD,
+where the path integral is achieved by transcribing the relevant integrals to a lattice of discrete space-time points.
+This is a rigorous method to test the consistency between experimental discoveries and QCD principle,
+but the realistic lattice QCD computations require extreme computational resources,
+which makes it very hard to perform lattice QCD computing.
+Some simplified models are introduced below.
+
+
+\subsection{Multiquark states as molecules}
+
+The molecule model thinks the multiquark states are meson-meson or meson-baryon molecule-like systems 
+that are bound via Yukawa-like nuclear forces, 
+and bound states comprised of quarkonium cores surrounded by clouds of light quarks and gluons.
+Later, the coupled-channel effect, various hyperfine interactions and recoil corrections were introduced into the one-boson-exchange model step by step. 
+Within this model, 
+the hidden-charm molecular type pentaquarks were predicted. 
+In 2019, 
+LHCb collaboration updated their analysis with a ten times larger data sample, 
+which strongly supports the molecular pentaquarks. 
+At present, 
+the idea with one boson exchanged between meson-meson or meson-baryon is an popular way to treat many exotic hadronic interactions.
+Nevertheless,
+this model sometimes lacks the definite predictive power
+as too many unknown parameters such as the coupling constants and cutoff parameter\supercite{LIU2019237}. 
+%The original one-boson-exchange model was proposed for the nuclear force where there exists plenty of experimental data such as the deuteron binding energy and enough nucleon nucleon scattering data, which can be used to fix all the unknown model parameters. 
+%In contrast, 
+%except the pionic couplings, 
+%most of the light meson and heavy hadron interaction vertices remain unknown. 
+%Especially, 
+%the bound state or resonance solution is very sensitive to the cutoff parameter in the form factor which is introduced to suppress the ultraviolet contribution.
+
+\subsection{Chromomagnetic interaction}
+In hadron spectroscopy,
+the hyperfine structure is from the spin-related interaction between quarks or between quarks and antiquarks.
+The one-gluon-exchange potential auses the mass splittings of the conventional hadrons,
+whose color configuration is unique. 
+Then,
+the Hamiltonian of this model can be constructed with the quark masses included,
+which can be used to calculate the exotic hadrons' masses effectively.
+The chromomagnetic interaction models play an important role in understanding the multiquark systems,
+since this model do catch the basic features of spectra and the mass splittings of hadrons reply on the basic controlling symmetries of the quark world.
+
+\subsection{Hadrocharmonium}
+In hadrocharmonium picture, 
+a compact color-singlet $Q\bar{Q}$ charmonium core state is treated as “blob” of light hadronic matter. 
+These two components interact via QCD versions of the Van der Waals force,
+and the mutual forces in this configuration are strong enough to form bound states 
+if the light hadronic matter is in a highly excited resonant state. 
+In this model, 
+decays to the hidden charmonium core state are enhanced to a level 
+where they are competitive with the mode decaying to open-charm final particles\supercite{DUBYNSKIY200982}. 
+
+
+
+\subsection{Rescattering-induced kinematic effects}
+
+
+While the classic signal for the presence of an unstable hadron resonance is a peak in the invariant mass distribution of its decay products, 
+not all mass-spectrum peaks are genuine hadron states,
+since some peaks are produced by near-threshold kinematic effects.
+These include threshold cusps and anomalous triangle singularities\supercite{RevModPhys.90.015003}.
+The threshold cusp may be observed when  the intermediate two particles must rescatter into final states with a lower threshold.
+On the the other hand,
+the triangle singularity appears in three-body decay,
+when the three virtual particles that form the triangle are all simultaneously on the mass shell\supercite{GUO2020103757}.
+
+
+
+
+
+
+
+
+
+
+
+

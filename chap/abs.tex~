@@ -1,0 +1,79 @@
+% Copyright (c) 2014,2016 Casper Ti. Vector
+% Public domain.
+
+\begin{cabstract}
+	%\pkuthssffaq % 中文测试文字。
+
+
+\end{cabstract}
+
+\begin{eabstract}
+
+Exotic hadrons, 
+with quark configurations other than three quarks or quark-antiquark,
+are capable of revealing new or hidden aspects of the dynamics of the strong interactions,
+which is discribed by quantum chromodynamics.
+This dissertation examines the experimental evidences of exotic states over the decades,
+especially some results and potential studies at \lhcb.
+Besides,
+some theoretical explanations to exotic hadrons are also simply investigated.
+
+
+More than twenty non-standard hadrons that contain $\ccbar$ or $\bbbar$ quarks have been found and studied,
+among which charged states like $Z_c(3900)^+$ and $Z_c(4430)^+$ are smoking-gun evidence for tetraquark exotic states, 
+because light quarks are apparent to account for the non-zero electric charge, 
+in addition to the heavy quarkonium. 
+Previously, only the \uquark or \dquark were observed to constitute the light quarks in such charged exotic states. 
+For the first time, 
+we observe two $Z_{cs}^+$ states decaying into $\jpsi K^+$ and  and several $X$ states decaying into $\jpsi \phi$ 
+from a 6-dimentional amplitude analysis of $\Bp\to\jpsi \phi K^+$ decays 
+by using the data sample collected at \lhcb during Run 1 and Run 2. 
+The most significant states are $1^+$ $Z_{cs}(4000)^+$ hadron with a width of $131\pm15\pm26$\mev and $1^{++}$ $X(4685)$ state,
+and both states present a significance over 15$\sigma$. 
+It should also be mentioned 
+that four $X\to\jpsi\phi$ states previously observed by LHCb and their $J^{PC}$ measurements are also confirmed.
+
+
+Open-charm pentaquark will open a major new window in exotic hadron study,
+thus searching for this kind of state is performed in $\Lb\to\Lc\Kp\Km\pim$ decay
+through a data sample of proton-proton collisions at centre-of-mass energies of $\sqs=7$ and 8\tev collected by the \lhcb detector.
+However,
+no obvious open-charm pentaquark structure appeared,
+so this dissertation reports the first observtion of $\Lb\to\Lc\Kp\Km\pim$ decay.
+The ratio of branching fractions between the $\Lb\to\Lc\Kp\Km\pim$ and the $\Lb\to\Lc\Dsm$ decays is measured to be 
+$\BR( \Lb\to\Lc\Kp\Km\pim )\slash\BR( \Lb\to\Lc\Dsm)=(9.26 \pm 0.29 \pm 0.46 \pm 0.26)\times10^{-2}$,
+where the first uncertainty is statistical, 
+the second systematic and the third is due to the knowledge of the $\Dsm\to\Kp\Km\pim$ branching fraction. 
+
+
+The \lhcb spectrometer will run in uttermost high luminosity situation after \upgradetwo, 
+which will provide the opportunity to investigate many open questions in flavour physics.
+However,
+high luminosity will deteriorate particle recontruction ability of \lhcb detectors,
+especially for \ecal.
+In view of this situation,
+a parameterized simualtion tool was developed to study the impact of high lumonisity in several physics decay channels containing $\g$ or \piz.
+It was found that small cell size and precision timing can not only play an important role in counteracting the overlapping effect,
+but also improve the mass resolution and reconstruction efficiency for B-mesons.
+Subsequently,
+a standalone simulaiton framework for multi-layer silicon-tungsten (Si-W) \ecal was constructed.
+Via the simulation,
+the Si-W \ecal performs well in some physics channels with high luminosity situation,
+and conclusions obtained from parameterized simulaiton were verified as well.
+In consideration of the cost,
+the idea to measure time using 3 Si-W layers is also proposed.   
+
+
+
+\end{eabstract}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,55 @@
+\chapter{\ecal simualtion study for \upgradetwo}
+\label{chap:ecal}
+
+%\section{Silicon tungsten \ecal simulation study}
+\section{Introduction}
+\label{sec:Introduction}
+
+It is generally agreed within the LHCb collaboration 
+and the community of flavour physics that an upgrade of the LHCb detector to make full exploitation of the High-Luminosity LHC (HLLHC), 
+which provides an opportunity to investigate the open questions in flavour physics\supercite{LHCb-PII-EoI,LHCb-PII-Physics,Strategy:2019vxc}. 
+This proposed upgrade is referred to as the LHCb \upgradetwo, 
+which should be capable of taking data at an instananeous luminosity of up to $1.5\times10^{34}\cm^{-2}\cdot\mathrm{sec}^{-1}$. 
+The goal is to collect a data sample of an integrated luminosity of $300\invfb$ after Run 6\supercite{LHCb-PII-EoI}.
+Among the biggest challenges for the Upgrade are the large number of proton-proton interactions in a single bunch crossing (pile-up) 
+and the large amount of radiation that the detector has to tolerate. 
+%A plethora of efforts have been put by the LHCb collaboration since several years ago.
+
+The present \ecal has good performance with run1 and run2 luminosity. 
+There is not a certaiy answer if it can handle a very high luminosity, 
+it is necessary to take a look at the performance of current \ecal with high luminosity in the parameterized simulation first. 
+From the parameterized simulaiton,
+the possible methods are studied to optimize the detector and let it conquer the pile-up effect.
+There are many factors that could affect the ECAL performance, 
+like intrinsic energy resolution and so on.
+By improving these factors, 
+the performance of \ecal might be promoted.
+Besides,
+it is commonly agreed that high precision time information is needed to deal with the pile-up,
+which is the major item studied in the simulation.
+And high granularity is another requirement for the Upgrade ECAL, 
+which can greatly help reducing the occupancy due to the high luminosity.
+
+%We try to   which one has the largest impact. 
+%So we can study the effect when changing the geometry and different shower shape when we use a different material.
+
+For the calorimeter, 
+the main idea is that it should allow for the reconstruction and analyses of the decay modes involving neutral particles.
+This chapter will discuss the requirements to \ecal for \upgradetwo in the parameterized simulation first.
+A detailed silicion-tungsten (SiW) \ecal is discussed then, 
+\ie a sampling ECAL with silicon as the active material and tungsten as the absorbers.
+
+%The CALICE collaboration has been making the R\&D of the techniques of SiW ECAL has been extensively studied by the CALICE collaboration since almost twenty years ago.
+%Its first design and electronic commissioning of the physics prototype was published in 2008\supercite{Anduze:2008hq}, 
+%and the recent results are the study of the effects of hadronic shower in the SiW ECAL physics prototype\supercite{Eigen:2019ccp}. 
+%This technique was adopted by CMS for the CMS phase-2 upgrade endcap calorimeter called HGCAL\supercite{CERN-LHCC-2017-023}. 
+%A lot of R\&D activities are carried out because the HLLHC introduces challenges in radiation resistance and good time resolution. 
+%The first beam tests of the prototype silicon modules for the CMS HGCAL show promising results\supercite{Akchurin:2018rpm}. 
+%This indicates that a similar technique could be used for the LHCb detector, which detect particles in the forward region. 
+%The first simulation results of the SiW ECAL for the LHCb Upgrade II are shown in this note.
+
+
+
+
+
+

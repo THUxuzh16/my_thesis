@@ -1,0 +1,357 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {Chapter\ 1\hspace {.3em}}Introduction}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Derivation}{1}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}The standard model}{1}{subsection.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Quark model and QCD}{2}{subsection.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.2.1}Quark model}{2}{subsubsection.1.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.2.2}QCD}{4}{subsubsection.1.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.2.3}The QCD dilemma}{5}{subsubsection.1.1.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.3}Multiquark states}{6}{subsection.1.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Experimental evidences of heavy-flavour multiquark candidates}{7}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Neutral $X$ and $Y$ multiquark candidates}{7}{subsection.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1.1}First tetraquark candidate {\ensuremath {\ensuremath {\chi }\xspace _{c1}(3872)}}\xspace }{7}{subsubsection.1.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1.2}$X(3915)$}{9}{subsubsection.1.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1.3}$X(4140)$ and other ${\ensuremath {{\ensuremath {J}\xspace \mskip -3mu/\mskip -2mu\ensuremath {\psi }\xspace }}}\xspace \phi $ states}{11}{subsubsection.1.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1.4}$X$ states in ${\ensuremath {\ensuremath {e}\xspace ^+}}\xspace {\ensuremath {\ensuremath {e}\xspace ^-}}\xspace $ collision }{13}{subsubsection.1.2.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1.5}$Y$ states with $J^{PC}=1^{--}$}{17}{subsubsection.1.2.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Charged multiquark candidates $Z_{c}$ and $Z_{cs}$}{18}{subsection.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2.1}$Z_{c}$ in $B$ decay }{18}{subsubsection.1.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2.2}$Z_{c}$ in ${\ensuremath {\ensuremath {e}\xspace ^+}}\xspace {\ensuremath {\ensuremath {e}\xspace ^-}}\xspace $ collision}{20}{subsubsection.1.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2.3}Observation of $Z_{cs}$ states}{21}{subsubsection.1.2.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Pentaquark candidates}{23}{subsection.1.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Theoretical models of multiquark states}{26}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Multiquark states as molecules}{26}{subsection.1.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Chromomagnetic interaction}{27}{subsection.1.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.3}Hadrocharmonium}{27}{subsection.1.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.4}Rescattering-induced kinematic effects}{27}{subsection.1.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {Chapter\ 2\hspace {.3em}}LHC and \mbox {LHCb}\xspace }{29}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}The large hadron collider}{29}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}The \mbox {LHCb}\xspace detector}{32}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Tracking}{34}{subsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.1}Vertex Locater}{34}{subsubsection.2.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.2}Dipole Magnets}{36}{subsubsection.2.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.3}Silicon Tracker}{36}{subsubsection.2.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.4}Outer Tracker}{39}{subsubsection.2.2.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Particle identification}{40}{subsection.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2.1}RICH\xspace }{40}{subsubsection.2.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2.2}Calorimeters}{42}{subsubsection.2.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2.3}Moun system}{43}{subsubsection.2.2.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Trigger}{45}{subsection.2.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3.1}L0\xspace trigger}{45}{subsubsection.2.2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3.2}HLT1\xspace trigger}{46}{subsubsection.2.2.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3.3}HLT2\xspace trigger}{47}{subsubsection.2.2.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3.4}Trigger system after \mbox {Upgrade\nobreakspace {}I}\xspace }{48}{subsubsection.2.2.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {Chapter\ 3\hspace {.3em}}Observation of $Z_{cs}$ states in ${\ensuremath {{\ensuremath {{\ensuremath {\ensuremath {B}\xspace }}\xspace ^+}}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {J}\xspace \mskip -3mu/\mskip -2mu\ensuremath {\psi }\xspace }}}\xspace \phi {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^+}}\xspace $ decay}{51}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Study motivation}{51}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Previous studies}{51}{subsection.3.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}This analysis}{51}{subsection.3.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Selection}{52}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Dataset}{52}{subsection.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Reconstruction and pre-selection}{52}{subsection.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Multivariate analysis}{55}{subsection.3.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Invariant $B$ mass fit and Dalitz plot distributions}{57}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Signal yields}{57}{subsection.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Non-$\phi $ background fraction}{60}{subsection.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}The amplitude fitting formula}{65}{section.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}Helicity formalism and notation}{65}{subsection.3.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}Matrix element for the $K^{*+}\ensuremath {\rightarrow }\xspace \phi K^+$ decay chain}{69}{subsection.3.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.3}Matrix element for the $Z^+ \ensuremath {\rightarrow }\xspace \psi K^+$ chain}{73}{subsection.3.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.4}Matrix element for the $X \ensuremath {\rightarrow }\xspace \psi \phi $ chain}{75}{subsection.3.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.5}Usage of $LS$ couplings}{78}{subsection.3.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.6}$cFit$ technique}{80}{subsection.3.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}The amplitude fitting results}{85}{section.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.1}Kaon excitations in $\ensuremath {{\ensuremath {{\ensuremath {{\ensuremath {\ensuremath {B}\xspace }}\xspace ^+}}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {J}\xspace \mskip -3mu/\mskip -2mu\ensuremath {\psi }\xspace }}}\xspace \phi {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^+}}\xspace }\xspace $}{85}{subsection.3.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.2}Changes to the previous amplitude model}{85}{subsection.3.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.3}Nominal amplitude model}{90}{subsection.3.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.4}Extended $K^*$ model}{91}{subsection.3.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.5}Flatt\'e function for the $X(4140)$ and $Z_{cs}(4000)$ components}{97}{subsection.3.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Spin and parity study}{102}{section.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Argand diagrams}{105}{section.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.8}Systematic uncertainties}{105}{section.3.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.9}Conclusions}{109}{section.3.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {Chapter\ 4\hspace {.3em}}Open-charm pentaquark search in ${\ensuremath {{\ensuremath {\PLambda }}\xspace ^0_{\ensuremath {\ensuremath {b}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {\PLambda }}\xspace ^+_{\ensuremath {\ensuremath {c}\xspace }}\xspace }}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^+}}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^-}}\xspace {\ensuremath {{\ensuremath {\ensuremath {\pi }\xspace }}\xspace ^-}}\xspace $ decay}{115}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Study motivation}{115}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}\relax \mathweight {bold}Selection}{116}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Dataset}{116}{subsection.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Preselection}{117}{subsection.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Removal of internal track clone candidates}{120}{subsection.4.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4}Multiple candidates}{121}{subsection.4.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.5}Multivariate Analysis}{121}{subsection.4.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.6}Potential Resonances}{126}{subsection.4.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Signal extraction}{126}{section.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Fit description}{126}{subsection.4.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Signal shape}{127}{subsection.4.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Physics background}{128}{subsection.4.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3.1}Background from ${\ensuremath {{\ensuremath {\PLambda }}\xspace ^0_{\ensuremath {\ensuremath {b}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {\PLambda }}\xspace ^+_{\ensuremath {\ensuremath {c}\xspace }}\xspace }}\xspace D_{s}^{*}$ in normalization channel}{128}{subsubsection.4.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3.2}\ensuremath {{\ensuremath {{\ensuremath {\PLambda }}\xspace ^0_{\ensuremath {\ensuremath {b}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {\PLambda }}\xspace ^+_{\ensuremath {\ensuremath {c}\xspace }}\xspace }}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^+}}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^-}}\xspace {\ensuremath {{\ensuremath {\ensuremath {\pi }\xspace }}\xspace ^-}}\xspace }\xspace background in normalization channel}{128}{subsubsection.4.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3.3}${\ensuremath {{\ensuremath {\PLambda }}\xspace ^0_{\ensuremath {\ensuremath {b}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace \Sigma _{c} K^+ K^- \pi ^-$ background in signal channel}{129}{subsubsection.4.3.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.4}Combinatorial background}{129}{subsection.4.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.5}Fit results}{130}{subsection.4.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Tuning MC sample}{131}{section.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}IP smearing}{131}{subsection.4.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}$\ensuremath {p_{\mathrm {T}}}\xspace , \nobreakspace {}y$, nTracks reweight}{131}{subsection.4.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.3}{\ensuremath {{\ensuremath {\PLambda }}\xspace ^+_{\ensuremath {\ensuremath {c}\xspace }}\xspace }}\xspace Dalitz reweight}{133}{subsection.4.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.4}{\ensuremath {{\ensuremath {\PLambda }}\xspace ^+_{\ensuremath {\ensuremath {c}\xspace }}\xspace }}\xspace polarization}{133}{subsection.4.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.5}Resonances in \ensuremath {{\ensuremath {{\ensuremath {\PLambda }}\xspace ^0_{\ensuremath {\ensuremath {b}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {\PLambda }}\xspace ^+_{\ensuremath {\ensuremath {c}\xspace }}\xspace }}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^+}}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^-}}\xspace {\ensuremath {{\ensuremath {\ensuremath {\pi }\xspace }}\xspace ^-}}\xspace }\xspace }{135}{subsection.4.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.6}Check the Reweight}{137}{subsection.4.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Efficiency}{138}{section.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.1}Geometrical acceptance}{139}{subsection.4.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.2}Reconstruction, selection and HLT efficiency}{139}{subsection.4.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.3}Tracking efficiency}{140}{subsection.4.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.4}L0\xspace Trigger efficiency}{140}{subsection.4.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.5}PID selection efficiency}{140}{subsection.4.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}Branching fraction}{140}{section.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.7}Systematic}{141}{section.4.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.1}Background model}{141}{subsection.4.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.2}Signal model}{141}{subsection.4.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.3}MC statistics}{142}{subsection.4.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.4}$\ensuremath {p_{\mathrm {T}}}\xspace , \nobreakspace {}y$ and nTracks reweight}{142}{subsection.4.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.5}Dalitz reweight}{143}{subsection.4.7.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.6}Trigger efficiency}{143}{subsection.4.7.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.7}PID efficiency}{143}{subsection.4.7.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.8}${\ensuremath {{\ensuremath {\PLambda }}\xspace ^+_{\ensuremath {\ensuremath {c}\xspace }}\xspace }}\xspace \pi $, ${\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^+}}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^-}}\xspace $ and ${\ensuremath {{\ensuremath {\PLambda }}\xspace ^+_{\ensuremath {\ensuremath {c}\xspace }}\xspace }}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^+}}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^-}}\xspace $ mass inconsistency and {\ensuremath {{\ensuremath {\PLambda }}\xspace ^0_{\ensuremath {\ensuremath {b}\xspace }}\xspace }}\xspace IP smearing}{144}{subsection.4.7.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.9}Physical background effect }{144}{subsection.4.7.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.10} \ensuremath {{\ensuremath {{\ensuremath {\PLambda }}\xspace ^0_{\ensuremath {\ensuremath {b}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {\PLambda }}\xspace ^+_{\ensuremath {\ensuremath {c}\xspace }}\xspace }}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^+}}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^-}}\xspace {\ensuremath {{\ensuremath {\ensuremath {\pi }\xspace }}\xspace ^-}}\xspace }\xspace in normalization channel }{145}{subsection.4.7.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.11}Fraction of different MC sample}{145}{subsection.4.7.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.8}Conclusion}{145}{section.4.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {Chapter\ 5\hspace {.3em}}ECAL\xspace simualtion study for \mbox {Upgrade\nobreakspace {}II}\xspace }{147}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Introduction}{147}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Parameterized simulation}{147}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Parameterization of shower}{148}{subsection.5.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Reconstuction and calibration}{149}{subsection.5.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Neutral particle identification}{150}{subsection.5.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.3.1}Removal of charged particles}{150}{subsubsection.5.2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.3.2}Characteristics of $\gamma , {\ensuremath {{\ensuremath {\ensuremath {\pi }\xspace }}\xspace ^0}}\xspace $ and overlapping cluster}{151}{subsubsection.5.2.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.3.3}$\gamma , {\ensuremath {{\ensuremath {\ensuremath {\pi }\xspace }}\xspace ^0}}\xspace $ and overlapping cluster separation}{152}{subsubsection.5.2.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.4}Performance in ${\ensuremath {{\ensuremath {\ensuremath {B}\xspace }}\xspace ^0_{\ensuremath {\ensuremath {s}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace \phi {\ensuremath {\ensuremath {\gamma }\xspace }}\xspace $ decay}{155}{subsection.5.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.4.1}Luminosity effect}{156}{subsubsection.5.2.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.4.2}Smaller cell size to remove overlapping effect}{157}{subsubsection.5.2.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.4.3}Precision timing to remove pile-up effect}{157}{subsubsection.5.2.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.5}Performance in ${\ensuremath {{\ensuremath {\ensuremath {B}\xspace }}\xspace ^0_{\ensuremath {\ensuremath {s}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {J}\xspace \mskip -3mu/\mskip -2mu\ensuremath {\psi }\xspace }}}\xspace {\ensuremath {{\ensuremath {\ensuremath {\pi }\xspace }}\xspace ^0}}\xspace $ decay}{160}{subsection.5.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.5.1}Luminosity effect}{160}{subsubsection.5.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.5.2}Smaller cell size to improve the reconstruction efficiency}{161}{subsubsection.5.2.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.5.3}Precision timing to remove pile-up effect}{162}{subsubsection.5.2.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.6}From parameterized simulation to \mbox {\textsc {Geant4}}\xspace simulation}{163}{subsection.5.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Silicon-tungsten ECAL\xspace simulation}{164}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Simulation model in \mbox {\textsc {Geant4}}\xspace }{164}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.1.1}Geometry}{164}{subsubsection.5.3.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.1.2}Detection efficiency of sensors}{165}{subsubsection.5.3.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.1.3}Parameterized silicon sensor time resolution}{165}{subsubsection.5.3.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Reconstruction and calibration}{167}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.1}Shower reconstruction}{167}{subsubsection.5.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.2}Energy calibration}{168}{subsubsection.5.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.3}Position calibration}{170}{subsubsection.5.3.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.4}Timing calibration}{170}{subsubsection.5.3.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.3}Physical performance with silicon of different thickness}{173}{subsection.5.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.3.1}${\ensuremath {{\ensuremath {\ensuremath {B}\xspace }}\xspace ^0_{\ensuremath {\ensuremath {s}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace \phi \gamma $ performance}{174}{subsubsection.5.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.3.2}${\ensuremath {{\ensuremath {\ensuremath {B}\xspace }}\xspace ^0_{\ensuremath {\ensuremath {s}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {J}\xspace \mskip -3mu/\mskip -2mu\ensuremath {\psi }\xspace }}}\xspace {\ensuremath {{\ensuremath {\ensuremath {\pi }\xspace }}\xspace ^0}}\xspace $ performance}{174}{subsubsection.5.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.4}Bremsstrahlung recovery and ${\ensuremath {{\ensuremath {\ensuremath {B}\xspace }}\xspace ^0}}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^*}}\xspace {\ensuremath {\ensuremath {e}\xspace ^-}}\xspace {\ensuremath {\ensuremath {e}\xspace ^+}}\xspace $ performance}{175}{subsection.5.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Conclusions}{177}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {Chapter\ 6\hspace {.3em}}Summary and Implication}{179}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Exotic hadrons study at \mbox {LHCb}\xspace }{179}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}ECAL\xspace simulation for \mbox {Upgrade\nobreakspace {}II}\xspace at \mbox {LHCb}\xspace }{180}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {Appendix A\hspace {.3em}}Hiddern-charm pentaquark states in ${\ensuremath {{\ensuremath {\PLambda }}\xspace ^0_{\ensuremath {\ensuremath {b}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {J}\xspace \mskip -3mu/\mskip -2mu\ensuremath {\psi }\xspace }}}\xspace {\ensuremath {\ensuremath {p}\xspace }}\xspace {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^-}}\xspace $ decay}{181}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Selection}{181}{section.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.1}Reconstruction and pre-selection}{181}{subsection.A.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.2}Multivariate analysis}{182}{subsection.A.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}One dimentional fit and mass resolution}{184}{section.A.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {Appendix B\hspace {.3em}}Evidence of pentaquark states in ${\ensuremath {{\ensuremath {\PLambda }}\xspace ^0_{\ensuremath {\ensuremath {b}\xspace }}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {J}\xspace \mskip -3mu/\mskip -2mu\ensuremath {\psi }\xspace }}}\xspace {\ensuremath {\ensuremath {p}\xspace }}\xspace {\ensuremath {{\ensuremath {\ensuremath {\pi }\xspace }}\xspace ^-}}\xspace $ decay}{187}{appendix.B}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.1}Study motivation}{187}{section.B.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.2}Selection}{188}{section.B.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.2.1}Dataset}{188}{subsection.B.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.2.2}Reconstruction and pre-selection}{189}{subsection.B.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.2.3}Reflections vetoing}{191}{subsection.B.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.2.4}Multivariate analysis}{191}{subsection.B.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.3}Invariant $B$ mass fit and Dalitz plot distributions}{193}{section.B.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.4}Amplitude analysis}{195}{section.B.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.4.1}Likelihood construction with sPlot technique}{197}{subsection.B.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.4.2}{$N^*$ resonances }}{198}{subsection.B.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.4.3}{Parameters describing the $P_c^+$ states}}{200}{subsection.B.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {Appendix C\hspace {.3em}}$Z_{cs}$ states in ${\ensuremath {{\ensuremath {{\ensuremath {\ensuremath {B}\xspace }}\xspace ^+}}\xspace }}\xspace \ensuremath {\rightarrow }\xspace {\ensuremath {{\ensuremath {J}\xspace \mskip -3mu/\mskip -2mu\ensuremath {\psi }\xspace }}}\xspace \phi {\ensuremath {{\ensuremath {\ensuremath {K}\xspace }}\xspace ^+}}\xspace $ decay}{201}{appendix.C}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.1}Angular moments}{201}{section.C.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.2}Model-independent}{201}{section.C.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.3}Check on the non-$\phi $ sideband}{207}{section.C.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.4}Kmatix model}{208}{section.C.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.5}Check of the background PDF on $B$ mass sidebands}{209}{section.C.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{213}{appendix*.236}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acknowledgements}{223}{appendix*.237}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Vita}{225}{appendix*.238}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Declaration}{227}{appendix*.239}%

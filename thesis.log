@@ -1,0 +1,4552 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.27)  9 MAR 2021 10:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis
+(./thesis.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pkuthss/pkuthss.cls
+Document Class: pkuthss 2019/11/17 v1.8.2 Peking University dissertation docume
+nt class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen134
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen135
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count163
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count164
+\leftroot@=\count165
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count166
+\DOTSCASE@=\count167
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen136
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count168
+\c@MaxMatrixCols=\count169
+\dotsspace@=\muskip16
+\c@parentequation=\count170
+\dspbrk@lvl=\count171
+\tag@help=\toks16
+\row@=\count172
+\column@=\count173
+\maxfields@=\count174
+\andhelp@=\toks17
+\eqnshift@=\dimen137
+\alignsep@=\dimen138
+\tagshift@=\dimen139
+\tagwidth@=\dimen140
+\totwidth@=\dimen141
+\lineht@=\dimen142
+\@envbody=\toks18
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/ctexbook.cls
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count175
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count176
+\g__pdf_backend_annotation_int=\count177
+))
+Document Class: ctexbook 2019/05/29 v2.4.16 Chinese adapter for class book (CTE
+X)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count178
+\g__xparse_grabber_int=\count179
+\l__xparse_m_args_int=\count180
+\l__xparse_v_nesting_int=\count181
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count182
+\l__ctex_tmp_box=\box48
+\l__ctex_tmp_dim=\dimen143
+\g__ctex_section_depth_int=\count183
+\g__ctex_font_size_int=\count184
+ (./ctexopts.cfg
+File: ctex  
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\bibindent=\dimen144
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2019/05/29 v2.4.16 XeLaTeX adapter (CTEX)
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2020/02/18 v3.8.2 Typesetting CJK scripts with XeLaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
+Package: xtemplate 2020-03-06 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen145
+\l__xtemplate_tmp_int=\count194
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip52
+)
+\l__xeCJK_tmp_int=\count195
+\l__xeCJK_tmp_box=\box49
+\l__xeCJK_tmp_dim=\dimen146
+\l__xeCJK_tmp_skip=\skip53
+\g__xeCJK_space_factor_int=\count196
+\l__xeCJK_begin_int=\count197
+\l__xeCJK_end_int=\count198
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip54
+\g__xeCJK_node_int=\count199
+\c__xeCJK_CJK_node_dim=\dimen147
+\c__xeCJK_CJK-space_node_dim=\dimen148
+\c__xeCJK_default_node_dim=\dimen149
+\c__xeCJK_default-space_node_dim=\dimen150
+\c__xeCJK_CJK-widow_node_dim=\dimen151
+\c__xeCJK_normalspace_node_dim=\dimen152
+\l__xeCJK_ccglue_skip=\skip55
+\l__xeCJK_ecglue_skip=\skip56
+\l__xeCJK_punct_kern_skip=\skip57
+\l__xeCJK_last_penalty_int=\count266
+\l__xeCJK_last_bound_dim=\dimen153
+\l__xeCJK_last_kern_dim=\dimen154
+\l__xeCJK_widow_penalty_int=\count267
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2302.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen155
+\l__xeCJK_mixed_punct_width_dim=\dimen156
+\l__xeCJK_middle_punct_width_dim=\dimen157
+\l__xeCJK_fixed_margin_width_dim=\dimen158
+\l__xeCJK_mixed_margin_width_dim=\dimen159
+\l__xeCJK_middle_margin_width_dim=\dimen160
+\l__xeCJK_bound_punct_width_dim=\dimen161
+\l__xeCJK_bound_margin_width_dim=\dimen162
+\l__xeCJK_margin_minimum_dim=\dimen163
+\l__xeCJK_kerning_total_width_dim=\dimen164
+\l__xeCJK_same_align_margin_dim=\dimen165
+\l__xeCJK_different_align_margin_dim=\dimen166
+\l__xeCJK_kerning_margin_width_dim=\dimen167
+\l__xeCJK_kerning_margin_minimum_dim=\dimen168
+\l__xeCJK_bound_dim=\dimen169
+\l__xeCJK_reverse_bound_dim=\dimen170
+\l__xeCJK_margin_dim=\dimen171
+\l__xeCJK_minimum_bound_dim=\dimen172
+\l__xeCJK_kerning_margin_dim=\dimen173
+\g__xeCJK_family_int=\count268
+\l__xeCJK_fam_int=\count269
+\g__xeCJK_fam_allocation_int=\count270
+\l__xeCJK_verb_case_int=\count271
+\l__xeCJK_verb_exspace_skip=\skip58
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count272
+\l__fontspec_language_int=\count273
+\l__fontspec_strnum_int=\count274
+\l__fontspec_tmp_int=\count275
+\l__fontspec_tmpa_int=\count276
+\l__fontspec_tmpb_int=\count277
+\l__fontspec_tmpc_int=\count278
+\l__fontspec_em_int=\count279
+\l__fontspec_emdef_int=\count280
+\l__fontspec_strong_int=\count281
+\l__fontspec_strongdef_int=\count282
+\l__fontspec_tmpa_dim=\dimen174
+\l__fontspec_tmpb_dim=\dimen175
+\l__fontspec_tmpc_dim=\dimen176
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2020/02/18 v3.8.2 Configuration file for xeCJK package
+))
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2020/02/18 v3.8.2 xeCJK font effect
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box50
+\UL@hyphenbox=\box51
+\UL@skip=\skip59
+\UL@hook=\toks20
+\UL@height=\dimen177
+\UL@pe=\count283
+\UL@pixel=\dimen178
+\ULC@box=\box52
+Package: ulem 2019/11/18
+\ULdepth=\dimen179
+)
+\l__xeCJK_space_skip=\skip60
+\c__xeCJK_ulem-begin_node_dim=\dimen180
+\c__xeCJK_null_box=\box53
+\l__xeCJK_fntef_box=\box54
+\l__xeCJK_under_symbol_box=\box55
+\c__xeCJK_filll_skip=\skip61
+)
+\ccwd=\dimen181
+\l__ctex_ccglue_skip=\skip62
+)
+\l__ctex_ziju_dim=\dimen182
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count284
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip63
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-b
+ook.def
+File: ctex-scheme-chinese-book.def 2019/05/29 v2.4.16 Chinese scheme for book (
+CTEX)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/05/29 v2.4.16 Caption with encoding UTF8 (CTEX)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/ctex-cs4size.clo
+File: ctex-cs4size.clo 2019/05/29 v2.4.16 cs4size option (CTEX)
+)
+(./ctex-fontset-pkuthss.def
+File: ctex  
+
+
+Package fontspec Warning: Font "STSong" does not contain requested Script
+(fontspec)                "CJK".
+
+
+Package fontspec Info: Could not resolve font "STKaiti/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "STHeiti/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "STSong/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'STSong(0)' created for font 'STSong' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={STHeiti},ItalicFont={STKaiti}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"STSong/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"STHeiti/OT:language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"STKaiti/OT:language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen183
+\Gin@req@width=\dimen184
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
+\Gm@bindingoffset=\dimen185
+\Gm@wd@mp=\dimen186
+\Gm@odd@mp=\dimen187
+\Gm@even@mp=\dimen188
+\Gm@layoutwidth=\dimen189
+\Gm@layoutheight=\dimen190
+\Gm@layouthoffset=\dimen191
+\Gm@layoutvoffset=\dimen192
+\Gm@dimlist=\toks22
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip64
+\f@nch@O@elh=\skip65
+\f@nch@O@erh=\skip66
+\f@nch@O@olh=\skip67
+\f@nch@O@orh=\skip68
+\f@nch@O@elf=\skip69
+\f@nch@O@erf=\skip70
+\f@nch@O@olf=\skip71
+\f@nch@O@orf=\skip72
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pkuthss/pkuthss-utf8.def
+File: pkuthss-utf8.def 2019/11/17 v1.8.2 Labels and captions in UTF-8 encoding 
+for the pkuthss document class
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2020/03/02 v1.625
+
+`newtxtext' v1.625, 2020/03/02 Text macros taking advantage of TeX-Gyre Termes 
+fonts (msharpe)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+\ntx@fs=\dimen193
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count288
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count289
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
+ 112.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.045pt on input line 112.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
+)
+\ntxt@cntz=\count290
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 263.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/newtxmath.sty
+Package: newtxmath 2020/03/02 v1.625
+
+`newtxmath' v1.625, 2020/03/02 Math macros based originally on txfonts (msharpe
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count291
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count292
+\tx@IsAlNum=\count293
+\tx@tA=\toks25
+\tx@tB=\toks26
+\tx@su=\read2
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ntxtlf/m/n on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/m/n on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/ntxtlf/m/n --> OT1/ntxtlf/b/n on input line 318.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 326.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/qhv/m/n on input line 326.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/qhv/m/n on input line 326.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 327.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ntxtlf/m/it on input line 327.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ntxtlf/m/it on input line 327.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 328.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 328.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 328.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/ntxtlf/m/it --> OT1/ntxtlf/b/it on input line 331.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 332.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/ntxtt/m/n --> T1/ntxtt/b/n on input line 333.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 423.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 476.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 497.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 497.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 498.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 521.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 542.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 555.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 5
+55.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 555.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 555
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 555.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 556.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 570.
+\tx@sbptoks=\toks27
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 792.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 793.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 794.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 795.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 796.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 797.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 798.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 800.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 804.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 805.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 851.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 876.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 877.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1940.
+\ntx@numstart=\count294
+\ntx@UCstart=\count295
+\ntx@lcstart=\count296
+\ntx@tmpc=\count297
+\ntx@imath=\count298
+\ntx@jmath=\count299
+LaTeX Info: Redefining \Bbbk on input line 2449.
+LaTeX Info: Redefining \not on input line 2598.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen194
+\pgfutil@tempdimb=\dimen195
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box56
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen196
+\pgf@y=\dimen197
+\pgf@xa=\dimen198
+\pgf@ya=\dimen199
+\pgf@xb=\dimen256
+\pgf@yb=\dimen257
+\pgf@xc=\dimen258
+\pgf@yc=\dimen259
+\pgf@xd=\dimen260
+\pgf@yd=\dimen261
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count300
+\c@pgf@countb=\count301
+\c@pgf@countc=\count302
+\c@pgf@countd=\count303
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count304
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
+File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
+File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)
+\pgfsys@objnum=\count305
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count306
+\pgfsyssoftpath@bigbuffer@items=\count307
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen262
+\pgfmath@count=\count308
+\pgfmath@box=\box57
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count309
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen263
+\pgf@picmaxx=\dimen264
+\pgf@picminy=\dimen265
+\pgf@picmaxy=\dimen266
+\pgf@pathminx=\dimen267
+\pgf@pathmaxx=\dimen268
+\pgf@pathminy=\dimen269
+\pgf@pathmaxy=\dimen270
+\pgf@xx=\dimen271
+\pgf@xy=\dimen272
+\pgf@yx=\dimen273
+\pgf@yy=\dimen274
+\pgf@zx=\dimen275
+\pgf@zy=\dimen276
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen277
+\pgf@path@lasty=\dimen278
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen279
+\pgf@shorten@start@additional=\dimen280
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count310
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen281
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen282
+\pgf@pt@y=\dimen283
+\pgf@pt@temp=\dimen284
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen285
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen286
+\pgf@sys@shading@range@num=\count311
+\pgf@shadingcount=\count312
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box61
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box62
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen287
+\pgf@nodesepend=\dimen288
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen289
+\pgffor@skip=\dimen290
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count313
+\pgfplotmarksize=\dimen291
+)
+\tikz@lastx=\dimen292
+\tikz@lasty=\dimen293
+\tikz@lastxsaved=\dimen294
+\tikz@lastysaved=\dimen295
+\tikz@lastmovetox=\dimen296
+\tikz@lastmovetoy=\dimen297
+\tikzleveldistance=\dimen298
+\tikzsiblingdistance=\dimen299
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count314
+\tikznumberofchildren=\count315
+\tikznumberofcurrentchild=\count316
+\tikz@fig@count=\count317
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count318
+\pgfmatrixcurrentcolumn=\count319
+\pgf@matrix@numberofcolumns=\count320
+)
+\tikz@expandcount=\count321
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2020/01/24 v3.29 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+))))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip73
+\cftbeforetoctitleskip=\skip74
+\cftaftertoctitleskip=\skip75
+\cftbeforepartskip=\skip76
+\cftpartnumwidth=\skip77
+\cftpartindent=\skip78
+\cftbeforechapskip=\skip79
+\cftchapindent=\skip80
+\cftchapnumwidth=\skip81
+\cftbeforesecskip=\skip82
+\cftsecindent=\skip83
+\cftsecnumwidth=\skip84
+\cftbeforesubsecskip=\skip85
+\cftsubsecindent=\skip86
+\cftsubsecnumwidth=\skip87
+\cftbeforesubsubsecskip=\skip88
+\cftsubsubsecindent=\skip89
+\cftsubsubsecnumwidth=\skip90
+\cftbeforeparaskip=\skip91
+\cftparaindent=\skip92
+\cftparanumwidth=\skip93
+\cftbeforesubparaskip=\skip94
+\cftsubparaindent=\skip95
+\cftsubparanumwidth=\skip96
+\cftbeforeloftitleskip=\skip97
+\cftafterloftitleskip=\skip98
+\cftbeforefigskip=\skip99
+\cftfigindent=\skip100
+\cftfignumwidth=\skip101
+\c@lofdepth=\count322
+\c@lotdepth=\count323
+\cftbeforelottitleskip=\skip102
+\cftafterlottitleskip=\skip103
+\cftbeforetabskip=\skip104
+\cfttabindent=\skip105
+\cfttabnumwidth=\skip106
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen300
+\captionmargin@=\dimen301
+\captionwidth=\dimen302
+\caption@tempdima=\dimen303
+\caption@indent=\dimen304
+\caption@parindent=\dimen305
+\caption@hangindent=\dimen306
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count324
+\c@continuedfloat=\count325
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count326
+\c@subtable=\count327
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip107
+\enit@outerparindent=\dimen307
+\enit@toks=\toks40
+\enit@inbox=\box67
+\enit@count@id=\count328
+\enitdp@description=\count329
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen308
+\Hy@linkcounter=\count330
+\Hy@pagecounter=\count331
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count332
+Package hyperref Info: Option `unicode' set `true' on input line 4421.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count333
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen309
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count334
+\Field@Width=\dimen310
+\Fld@charsize=\dimen311
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count335
+\c@Item=\count336
+\c@Hfootnote=\count337
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box68
+\c@Hy@AnnotLevel=\count338
+\HyField@AnnotCount=\count339
+\Fld@listcount=\count340
+\c@bookmark@seq@number=\count341
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip108
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count342
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count343
+\c@listtotal=\count344
+\c@listcount=\count345
+\c@liststart=\count346
+\c@liststop=\count347
+\c@citecount=\count348
+\c@citetotal=\count349
+\c@multicitecount=\count350
+\c@multicitetotal=\count351
+\c@instcount=\count352
+\c@maxnames=\count353
+\c@minnames=\count354
+\c@maxitems=\count355
+\c@minitems=\count356
+\c@citecounter=\count357
+\c@maxcitecounter=\count358
+\c@savedcitecounter=\count359
+\c@uniquelist=\count360
+\c@uniquename=\count361
+\c@refsection=\count362
+\c@refsegment=\count363
+\c@maxextratitle=\count364
+\c@maxextratitleyear=\count365
+\c@maxextraname=\count366
+\c@maxextradate=\count367
+\c@maxextraalpha=\count368
+\c@abbrvpenalty=\count369
+\c@highnamepenalty=\count370
+\c@lownamepenalty=\count371
+\c@maxparens=\count372
+\c@parenlevel=\count373
+\blx@tempcnta=\count374
+\blx@tempcntb=\count375
+\blx@tempcntc=\count376
+\blx@maxsection=\count377
+\blx@maxsegment@0=\count378
+\blx@notetype=\count379
+\blx@parenlevel@text=\count380
+\blx@parenlevel@foot=\count381
+\blx@sectionciteorder@0=\count382
+\blx@entrysetcounter=\count383
+\labelnumberwidth=\skip109
+\labelalphawidth=\skip110
+\biblabelsep=\skip111
+\bibitemsep=\skip112
+\bibnamesep=\skip113
+\bibinitsep=\skip114
+\bibparsep=\skip115
+\bibhang=\skip116
+\blx@bcfin=\read4
+\blx@bcfout=\write4
+\blx@langwohyphens=\language86
+\c@mincomprange=\count384
+\c@maxcomprange=\count385
+\c@mincompwidth=\count386
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'caspervector.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count387
+\c@savedafterword=\count388
+\c@annotator=\count389
+\c@savedannotator=\count390
+\c@author=\count391
+\c@savedauthor=\count392
+\c@bookauthor=\count393
+\c@savedbookauthor=\count394
+\c@commentator=\count395
+\c@savedcommentator=\count396
+\c@editor=\count397
+\c@savededitor=\count398
+\c@editora=\count399
+\c@savededitora=\count400
+\c@editorb=\count401
+\c@savededitorb=\count402
+\c@editorc=\count403
+\c@savededitorc=\count404
+\c@foreword=\count405
+\c@savedforeword=\count406
+\c@holder=\count407
+\c@savedholder=\count408
+\c@introduction=\count409
+\c@savedintroduction=\count410
+\c@namea=\count411
+\c@savednamea=\count412
+\c@nameb=\count413
+\c@savednameb=\count414
+\c@namec=\count415
+\c@savednamec=\count416
+\c@translator=\count417
+\c@savedtranslator=\count418
+\c@shortauthor=\count419
+\c@savedshortauthor=\count420
+\c@shorteditor=\count421
+\c@savedshorteditor=\count422
+\c@labelname=\count423
+\c@savedlabelname=\count424
+\c@institution=\count425
+\c@savedinstitution=\count426
+\c@lista=\count427
+\c@savedlista=\count428
+\c@listb=\count429
+\c@savedlistb=\count430
+\c@listc=\count431
+\c@savedlistc=\count432
+\c@listd=\count433
+\c@savedlistd=\count434
+\c@liste=\count435
+\c@savedliste=\count436
+\c@listf=\count437
+\c@savedlistf=\count438
+\c@location=\count439
+\c@savedlocation=\count440
+\c@organization=\count441
+\c@savedorganization=\count442
+\c@origlocation=\count443
+\c@savedoriglocation=\count444
+\c@origpublisher=\count445
+\c@savedorigpublisher=\count446
+\c@publisher=\count447
+\c@savedpublisher=\count448
+\c@language=\count449
+\c@savedlanguage=\count450
+\c@origlanguage=\count451
+\c@savedoriglanguage=\count452
+\c@pageref=\count453
+\c@savedpageref=\count454
+\shorthandwidth=\skip117
+\shortjournalwidth=\skip118
+\shortserieswidth=\skip119
+\shorttitlewidth=\skip120
+\shortauthorwidth=\skip121
+\shorteditorwidth=\skip122
+\locallabelnumberwidth=\skip123
+\locallabelalphawidth=\skip124
+\localshorthandwidth=\skip125
+\localshortjournalwidth=\skip126
+\localshortserieswidth=\skip127
+\localshorttitlewidth=\skip128
+\localshortauthorwidth=\skip129
+\localshorteditorwidth=\skip130
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count455
+\c@textcitetotal=\count456
+\c@textcitemaxnames=\count457
+\c@biburlbigbreakpenalty=\count458
+\c@biburlbreakpenalty=\count459
+\c@biburlnumpenalty=\count460
+\c@biburlucpenalty=\count461
+\c@biburllcpenalty=\count462
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count463
+)
+Package biblatex Info: Trying to load bibliography style 'caspervector'...
+Package biblatex Info: ... file 'caspervector.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-caspervector/caspervecto
+r.bbx
+File: caspervector.bbx 2019/11/13 v0.3.4 Casper Ti. Vector's numeric biblatex b
+ibstyle
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count464
+\c@bbx:relatedtotal=\count465
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-caspervector/blx-casperv
+ector-base.def
+File: blx-caspervector-base.def 2019/11/13 v0.3.4 Casper Ti. Vector's biblatex 
+library
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'textcite' already 
+defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'textcite' alread
+y defined, overwriting.
+))
+Package biblatex Info: Trying to load citation style 'caspervector'...
+Package biblatex Info: ... file 'caspervector.cbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-caspervector/caspervecto
+r.cbx
+File: caspervector.cbx 2019/11/13 v0.3.4 Casper Ti. Vector's numeric biblatex c
+itestyle
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count466
+\c@cbx@tempcntb=\count467
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\supercite'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-caspervector/blx-casperv
+ector-utf8.def
+File: blx-caspervector-utf8.def 2019/11/13 v0.3.4 Chinese punctuations and capt
+ions in UTF-8
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/arydshln/arydshln.sty
+Package: arydshln 2019/02/21 v1.76 
+\dashlinedash=\dimen312
+\dashlinegap=\dimen313
+\adl@box=\box69
+\adl@height=\dimen314
+\adl@heightsave=\dimen315
+\adl@depth=\dimen316
+\adl@depthsave=\dimen317
+\adl@finaldepth=\dimen318
+\adl@columns=\count468
+\adl@ncol=\count469
+\adl@currentcolumn=\count470
+\adl@currentcolumnsave=\count471
+\adl@totalheight=\count472
+\adl@totalheightsave=\count473
+\adl@dash=\count474
+\adl@gap=\count475
+\adl@cla=\count476
+\adl@clb=\count477
+\adl@everyvbox=\toks41
+\adl@LTpagetotal=\dimen319
+)
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { chapter = { name={Chapter\ },number={\arabic
+(ctex)                {chapter}} } } is set.
+
+(./lhcb-symbols-def.tex
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \upalpha on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \upbeta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \upgamma on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \updelta on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \upepsilon on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \upzeta on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \upeta on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \uptheta on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \upiota on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \upkappa on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \uplambda on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \upmu on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \upnu on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \upxi on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \uprho on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \upsigma on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \uptau on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \upupsilon on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \upphi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \upchi on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \uppsi on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \upomega on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \upvarepsilon on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \upvartheta on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \upvarpi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \upvarphi on input line 68.
+)) (./mydefine.tex (/usr/local/texlive/2020/texmf-dist/tex/latex/multirow/multi
+row.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip131
+\multirow@cntb=\count478
+\multirow@dima=\skip132
+\bigstrutjot=\dimen320
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen321
+\lightrulewidth=\dimen322
+\cmidrulewidth=\dimen323
+\belowrulesep=\dimen324
+\belowbottomsep=\dimen325
+\aboverulesep=\dimen326
+\abovetopsep=\dimen327
+\cmidrulesep=\dimen328
+\cmidrulekern=\dimen329
+\defaultaddspace=\dimen330
+\@cmidla=\count479
+\@cmidlb=\count480
+\@aboverulesep=\dimen331
+\@belowrulesep=\dimen332
+\@thisruleclass=\count481
+\@lastruleclass=\count482
+\@thisrulewidth=\dimen333
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count483
+\rotFPtop=\skip133
+\rotFPbot=\skip134
+\rot@float@box=\box70
+\rot@mess@toks=\toks42
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+))
+\@quotelevel=\count484
+\@quotereset=\count485
+
+
+Package biblatex Warning: Conflicting options.
+(biblatex)                'date=iso' requires 'seconds=true'.
+(biblatex)                Setting 'seconds=true' on input line 133.
+
+(./thesis.aux (./chap/newTitle.aux) (./chap/copy.aux) (./chap/abs.aux)
+
+LaTeX Warning: Label `tab:JpsiSelection' multiply defined.
+
+
+LaTeX Warning: Label `tab:PreSelection' multiply defined.
+
+
+LaTeX Warning: Label `sec:MassFit' multiply defined.
+
+
+LaTeX Warning: Label `fig:MVAvairables' multiply defined.
+
+
+LaTeX Warning: Label `fig:MVAMonitor' multiply defined.
+
+
+LaTeX Warning: Label `SUPeq:breitwigner' multiply defined.
+
+(./chap/ack.aux) (./chap/resume.aux) (./chap/origin.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 133.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 133.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 133.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+133.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 133.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 133.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 133.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 133.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 133.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(73.97733pt, 449.55322pt, 73.97733pt)
+* v-part:(T,H,B)=(83.08199pt, 675.75305pt, 86.2118pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=449.55322pt
+* \textheight=675.75305pt
+* \oddsidemargin=1.70734pt
+* \evensidemargin=1.70734pt
+* \topmargin=-18.77867pt
+* \headheight=12.80365pt
+* \headsep=16.78702pt
+* \topskip=12.0pt
+* \footskip=29.87547pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count486
+\c@mv@boldtabular=\count487
+ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box71
+Package hyperref Info: Link coloring OFF on input line 133.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count488
+)
+LaTeX Info: Redefining \ref on input line 133.
+LaTeX Info: Redefining \pageref on input line 133.
+LaTeX Info: Redefining \nameref on input line 133.
+ (./thesis.out) (./thesis.out)
+\@outlinefile=\write5
+\openout5 = `thesis.out'.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'UTF-8' specified.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'UTF-8'.
+\openout4 = `thesis.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'thesis.bbl' found.
+
+(./thesis.bbl
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.53937pt on input line 58.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Armstrong:1982tw
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Frame:1985ka
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Godfrey:1985xj
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kokoski:1985is
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kwon:1993xb
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Li:2017uvv
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                PAPER-2020-011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                i
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+
+Package biblatex Warning: citation 'PAPER-2020-011' was not found at all in the
+ .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Godfrey:1985xj' was not found at all in the
+ .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Armstrong:1982tw' was not found at all in t
+he .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Frame:1985ka' was not found at all in the .
+bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Kwon:1993xb' was not found at all in the .b
+bl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Kokoski:1985is' was not found at all in the
+ .bbl, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'Li:2017uvv' was not found at all in the .bb
+l, bibliography labels cannot be generated, please correct the citation.
+
+
+Package biblatex Warning: citation 'i' was not found at all in the .bbl, biblio
+graphy labels cannot be generated, please correct the citation.
+
+Package biblatex Info: Reference section=0 on input line 133.
+Package biblatex Info: Reference segment=0 on input line 133.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 142.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 142.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 142.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 26.09749pt on input line 144.
+File: pkulogo.pdf Graphic file (type pdf)
+<use pkulogo.pdf>
+File: pkuword.pdf Graphic file (type pdf)
+<use pkuword.pdf>
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 26.09749pt on input line 144.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 22.08249pt on input line 144.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 22.08249pt on input line 144.
+\thss@tmp@linecount=\count489
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 16.06pt on input line 144.
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
+e 144.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 16.06pt on input line 144.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.05249pt on input line 144.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.53937pt on input line 144.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+144.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+144.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+144.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 16.06pt on input line 144.
+
+
+Package fontspec Warning: Font "STFangsong" does not contain requested Script
+(fontspec)                "CJK".
+
+
+Package fontspec Info: Could not resolve font "STFangsong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "STFangsong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "STFangsong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'STFangsong(0)' created for font
+(fontspec)             'STFangsong' with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"STFangsong/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+\thss@tmp@linecount=\count490
+\thss@tmp@linecount=\count491
+\thss@tmp@linecount=\count492
+\thss@tmp@linecount=\count493
+\thss@tmp@linecount=\count494
+\thss@tmp@linecount=\count495
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 18.06749pt on input line 144.
+[1
+
+
+
+
+]
+\openout2 = `chap/newTitle.aux'.
+
+ (./chap/newTitle.tex [2
+
+
+]
+File: pkulogo.pdf Graphic file (type pdf)
+<use pkulogo.pdf>
+File: pkuword.pdf Graphic file (type pdf)
+<use pkuword.pdf>
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 18.06749pt on input line 75.
+ [1]) [2
+
+
+]
+\openout2 = `chap/copy.aux'.
+
+ (./chap/copy.tex) [3
+
+
+] [4
+
+
+]
+\openout2 = `chap/abs.aux'.
+
+ (./chap/abs.tex
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.045pt on input line 8.
+[1
+
+
+
+] [2
+
+]
+
+Package fontspec Warning: Font "STHeiti" does not contain requested Script
+(fontspec)                "CJK".
+
+
+Package fontspec Info: Could not resolve font "STHeiti/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "STHeiti/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "STHeiti/I" (it probably doesn't
+(fontspec)             exist).
+
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 10
+.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 10.84042pt on input line 10.
+
+Package fontspec Info: Font family 'STHeiti(0)' created for font 'STHeiti'
+(fontspec)             with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"STHeiti/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 16.26062pt on input line 10.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.045pt on input line 22.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 22.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 22.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 31.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 31.
+ [3
+
+]) [4]
+(./thesis.toc [5
+
+
+
+] [6] [7]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
+(Font)              scaled to size 12.045pt on input line 267.
+ [8])
+\tf@toc=\write6
+\openout6 = `thesis.toc'.
+
+ [9] [10
+
+] (./thesis.lof
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.0pt on input line 19.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.0pt on input line 19.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.0pt on input line 19.
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 2726) has occurred while \output is active []
+
+ [13]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.045pt on input line 113.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.0pt on input line 131.
+
+Overfull \hbox (32.149pt too wide) in paragraph at lines 131--131
+ [][] [][]\T1/ntxtlf/m/n/10.53937 Parameterized ef-fi-ciency $\OML/ntxmi/m/it/1
+0.53937 ^^O[]\LMS/ntxsy/m/n/10.53937 ¹[] \OML/ntxmi/m/it/10.53937 ^^R[]\LMS/ntx
+sy/m/n/10.53937 j\OML/ntxmi/m/it/10.53937 m[]\LMS/ntxsy/m/n/10.53937 º$\T1/ntxt
+lf/m/n/10.53937 , $\OML/ntxmi/m/it/10.53937 ^^O[]\LMS/ntxsy/m/n/10.53937 ¹[] \O
+ML/ntxmi/m/it/10.53937 ^^R[]\LMS/ntxsy/m/n/10.53937 j\OML/ntxmi/m/it/10.53937 m
+[]\LMS/ntxsy/m/n/10.53937 º$\T1/ntxtlf/m/n/10.53937 , $\OML/ntxmi/m/it/10.53937
+ ^^O[]\LMS/ntxsy/m/n/10.53937 ¹\U/ntxmia/m/it/10.53937 ^^A\OML/ntxmi/m/it/10.53
+937 ^^^[]\LMS/ntxsy/m/n/10.53937 j\OML/ntxmi/m/it/10.53937 m[]\LMS/ntxsy/m/n/10
+.53937 º$\T1/ntxtlf/m/n/10.53937 , $\OML/ntxmi/m/it/10.53937 ^^O[]\LMS/ntxsy/m/
+n/10.53937 ¹\U/ntxmia/m/it/10.53937 ^^A\OML/ntxmi/m/it/10.53937 ^^^[]\LMS/ntxsy
+/m/n/10.53937 j\OML/ntxmi/m/it/10.53937 m[]\LMS/ntxsy/m/n/10.53937 º$ 
+ []
+
+
+Overfull \hbox (7.85982pt too wide) in paragraph at lines 135--135
+ [][] [][]\T1/ntxtlf/m/n/12.045 Parameterized back-ground func-tions: $\OML/ntx
+mi/m/it/12.045 P[]\LMS/ntxsy/m/n/12.045 ¹[] \OML/ntxmi/m/it/12.045 ^^R[]\LMS/nt
+xsy/m/n/12.045 j\OML/ntxmi/m/it/12.045 m[]\LMS/ntxsy/m/n/12.045 º$\T1/ntxtlf/m/
+n/12.045 , $\OML/ntxmi/m/it/12.045 P[]\LMS/ntxsy/m/n/12.045 ¹[] \OML/ntxmi/m/it
+/12.045 ^^R[]\LMS/ntxsy/m/n/12.045 j\OML/ntxmi/m/it/12.045 m[]\LMS/ntxsy/m/n/12
+.045 º$\T1/ntxtlf/m/n/12.045 , 
+ []
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 8.0pt on input line 137.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Overfull \hbox (10.5481pt too wide) in paragraph at lines 151--151
+ [][] [][]\T1/ntxtlf/m/n/12.045 Fit pro-jec-tions of (a) $\OML/ntxmi/m/it/12.04
+5 m[]$\T1/ntxtlf/m/n/12.045 , (b) $\OML/ntxmi/m/it/12.045 m[]$\T1/ntxtlf/m/n/12
+.045 , (c) $\OML/ntxmi/m/it/12.045 m[]$ \T1/ntxtlf/m/n/12.045 from the Ex-tende
+d K+5X+2X+2Z 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Overfull \hbox (3.513pt too wide) in paragraph at lines 215--215
+ [][] [][]\T1/ntxtlf/m/n/12.045 The in-vari-ant mass dis-tri-bu-tion of three b
+ody com-bi-na-tion for $[] \LMS/ntxsy/m/n/12.045 ! [][][][]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+[23]
+Overfull \hbox (5.94685pt too wide) in paragraph at lines 357--357
+ [][] [][]\T1/ntxtlf/m/n/12.045 Fit pro-jec-tions of (a) $\OML/ntxmi/m/it/12.04
+5 m[]$\T1/ntxtlf/m/n/12.045 , (b) $\OML/ntxmi/m/it/12.045 m[]$\T1/ntxtlf/m/n/12
+.045 , (c) $\OML/ntxmi/m/it/12.045 m[]$ \T1/ntxtlf/m/n/12.045 from the nom-i-na
+l K+5X+2X+2Z 
+ []
+
+
+Overfull \hbox (83.22748pt too wide) in paragraph at lines 359--359
+ [][] [][]\T1/ntxtlf/m/n/12.045 Fit pro-jec-tions of (a) $\OML/ntxmi/m/it/12.04
+5 m[]$\T1/ntxtlf/m/n/12.045 , (b) $\OML/ntxmi/m/it/12.045 m[]$\T1/ntxtlf/m/n/12
+.045 , (c) $\OML/ntxmi/m/it/12.045 m[]$ \T1/ntxtlf/m/n/12.045 from the nom-i-na
+l 2K(KMatrix)+7K+5X+2X+2Z 
+ []
+
+)
+\tf@lof=\write7
+\openout7 = `thesis.lof'.
+
+ [24] (./thesis.lot
+
+Package fontspec Warning: Font "STFangsong" does not contain requested Script
+(fontspec)                "CJK".
+
+LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
+29.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+File: t1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 12.045pt on input line 29.
+
+Overfull \hbox (59.38542pt too wide) in paragraph at lines 29--29
+ [][] [][]\T1/ntxtlf/m/n/12.045 Stripping se-lec-tions of $[]$ can-di-dates in 
+the line \T1/ntxtt/m/n/12.045 FullDSTDiMuonJpsi2MuMuDetachedLine\T1/ntxtlf/m/n/
+12.045 .[] []  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Overfull \hbox (59.38542pt too wide) in paragraph at lines 115--115
+ [][] [][]\T1/ntxtlf/m/n/12.045 Stripping se-lec-tions of $[]$ can-di-dates in 
+the line \T1/ntxtt/m/n/12.045 FullDSTDiMuonJpsi2MuMuDetachedLine\T1/ntxtlf/m/n/
+12.045 .[] []  
+ []
+
+
+Overfull \hbox (59.38542pt too wide) in paragraph at lines 123--123
+ [][] [][]\T1/ntxtlf/m/n/12.045 Stripping se-lec-tions of $[]$ can-di-dates in 
+the line \T1/ntxtt/m/n/12.045 FullDSTDiMuonJpsi2MuMuDetachedLine\T1/ntxtlf/m/n/
+12.045 .[] []  
+ []
+
+)
+\tf@lot=\write8
+\openout8 = `thesis.lot'.
+
+ [28] (./chap/01_introduction.tex
+Chapter\ 1
+) (./chap/01_physics.tex
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 15.05624pt on input line 7.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 15.05624pt on input line 7.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.05249pt on input line 10.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.05249pt on input line 10.
+File: Figures/01_Introduction/Physics/Standand_model.png Graphic file (type bmp
+)
+<Figures/01_Introduction/Physics/Standand_model.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+]
+File: Figures/01_Introduction/Physics/Particle_Zoo.png Graphic file (type bmp)
+<Figures/01_Introduction/Physics/Particle_Zoo.png>
+
+[2] [3]
+File: Figures/01_Introduction/Physics/QCD_asymptotic.png Graphic file (type bmp
+)
+<Figures/01_Introduction/Physics/QCD_asymptotic.png>
+ [4] [5]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/sl' will be
+(Font)              scaled to size 12.045pt on input line 271.
+ [6]
+File: Figures/01_Introduction/Exotic/charmoniumExotic.pdf Graphic file (type pd
+f)
+<use Figures/01_Introduction/Exotic/charmoniumExotic.pdf>
+) (./chap/01_exotic_physics.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.52812pt on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+[7]
+File: Figures/01_Introduction/Exotic/X3872_BELLE.png Graphic file (type bmp)
+<Figures/01_Introduction/Exotic/X3872_BELLE.png>
+File: Figures/01_Introduction/Exotic/X3872_Spin.png Graphic file (type bmp)
+<Figures/01_Introduction/Exotic/X3872_Spin.png>
+ [8]
+File: Figures/01_Introduction/Exotic/X3915_BELLE.png Graphic file (type bmp)
+<Figures/01_Introduction/Exotic/X3915_BELLE.png>
+File: Figures/01_Introduction/Exotic/X3915_BABAR.png Graphic file (type bmp)
+<Figures/01_Introduction/Exotic/X3915_BABAR.png>
+ [9]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.03374pt on input line 170.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.03374pt on input line 170.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+File: Figures/01_Introduction/Exotic/neutral_particle/CDF_4140.png Graphic file
+ (type bmp)
+<Figures/01_Introduction/Exotic/neutral_particle/CDF_4140.png>
+File: Figures/01_Introduction/Physics/from_Zcs/newFig3.pdf Graphic file (type p
+df)
+<use Figures/01_Introduction/Physics/from_Zcs/newFig3.pdf>
+File: Figures/01_Introduction/Exotic/neutral_particle/D0_4140.png Graphic file 
+(type bmp)
+<Figures/01_Introduction/Exotic/neutral_particle/D0_4140.png>
+
+[11]
+File: Figures/01_Introduction/Physics/from_Zcs/newbase_PhiKh.pdf Graphic file (
+type pdf)
+<use Figures/01_Introduction/Physics/from_Zcs/newbase_PhiKh.pdf>
+File: Figures/01_Introduction/Physics/from_Zcs/newbase_JpsiPhih.pdf Graphic fil
+e (type pdf)
+<use Figures/01_Introduction/Physics/from_Zcs/newbase_JpsiPhih.pdf>
+ [12]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.045pt on input line 310.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 8.0pt on input line 310.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 6.0pt on input line 310.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.53937pt on input line 386.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 7.0pt on input line 386.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 5.0pt on input line 386.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.52812pt on input line 502.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 7.52812pt on input line 505.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figures/01_Introduction/Exotic/neutral_particle/X3940.png Graphic file (t
+ype bmp)
+<Figures/01_Introduction/Exotic/neutral_particle/X3940.png>
+File: Figures/01_Introduction/Exotic/neutral_particle/belle_x3860.pdf Graphic f
+ile (type pdf)
+<use Figures/01_Introduction/Exotic/neutral_particle/belle_x3860.pdf>
+[13] [14]
+File: Figures/01_Introduction/Exotic/neutral_particle/X4260.png Graphic file (t
+ype bmp)
+<Figures/01_Introduction/Exotic/neutral_particle/X4260.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+
+LaTeX Warning: Text page 16 contains only floats.
+
+[16]
+File: Figures/01_Introduction/Exotic/neutral_particle/babar-belle_y4360.pdf Gra
+phic file (type pdf)
+<use Figures/01_Introduction/Exotic/neutral_particle/babar-belle_y4360.pdf>
+File: Figures/01_Introduction/Exotic/neutral_particle/Bes_Y4260.eps Graphic fil
+e (type eps)
+<Figures/01_Introduction/Exotic/neutral_particle/Bes_Y4260.eps>
+ [17]
+Overfull \hbox (33.6506pt too wide) in paragraph at lines 652--654
+[]\T1/ntxtlf/m/n/12.045 The nar-row $\OML/ntxmi/m/it/12.045 X\LMS/ntxsy/m/n/12.
+045 ¹\OT1/ntxtlf/m/n/12.045 6900\LMS/ntxsy/m/n/12.045 º$ \T1/ntxtlf/m/n/12.045 
+was ob-served by [] in the $[]$-pair mass spec-trum re-cently$[]$,
+ []
+
+) (./chap/01_exotic_charged.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 14.05249pt on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+File: Figures/01_Introduction/Exotic/charged_particle/Belle_Z4430.eps Graphic f
+ile (type eps)
+<Figures/01_Introduction/Exotic/charged_particle/Belle_Z4430.eps>
+File: Figures/01_Introduction/Exotic/charged_particle/LHCb_Z4430.pdf Graphic fi
+le (type pdf)
+<use Figures/01_Introduction/Exotic/charged_particle/LHCb_Z4430.pdf>
+File: Figures/01_Introduction/Exotic/charged_particle/Argand-Z.pdf Graphic file
+ (type pdf)
+<use Figures/01_Introduction/Exotic/charged_particle/Argand-Z.pdf>
+File: Figures/01_Introduction/Exotic/charged_particle/Belle-Zc4200-Argand.pdf G
+raphic file (type pdf)
+<use Figures/01_Introduction/Exotic/charged_particle/Belle-Zc4200-Argand.pdf>
+[18] [19]
+File: Figures/01_Introduction/Exotic/charged_particle/bes3_zc3900.pdf Graphic f
+ile (type pdf)
+<use Figures/01_Introduction/Exotic/charged_particle/bes3_zc3900.pdf>
+File: Figures/01_Introduction/Exotic/charged_particle/bes3_Z3900_DD.png Graphic
+ file (type bmp)
+<Figures/01_Introduction/Exotic/charged_particle/bes3_Z3900_DD.png>
+
+Overfull \hbox (0.49973pt too wide) in paragraph at lines 86--101
+[]\T1/ntxtlf/m/n/12.045 Subsequently, [] ex-plored the $[][]$ in-vari-ant mass 
+dis-tri-bu-tion in $[][] \LMS/ntxsy/m/n/12.045 ! [][][]$
+ []
+
+[20]
+File: Figures/01_Introduction/Exotic/charged_particle/bes3_zc4020_pihc.pdf Grap
+hic file (type pdf)
+<use Figures/01_Introduction/Exotic/charged_particle/bes3_zc4020_pihc.pdf>
+File: Figures/01_Introduction/Exotic/Zcs/data_4680_Simulfit_withsig-eps-convert
+ed-to.pdf Graphic file (type pdf)
+<use Figures/01_Introduction/Exotic/Zcs/data_4680_Simulfit_withsig-eps-converte
+d-to.pdf>
+File: Figures/01_Introduction/Exotic/Zcs/data_4626_Simulfit_withsig-eps-convert
+ed-to.pdf Graphic file (type pdf)
+<use Figures/01_Introduction/Exotic/Zcs/data_4626_Simulfit_withsig-eps-converte
+d-to.pdf>
+ [21]
+File: Figures/01_Introduction/Exotic/Zcs/mphik2_mjpsiphi2.pdf Graphic file (typ
+e pdf)
+<use Figures/01_Introduction/Exotic/Zcs/mphik2_mjpsiphi2.pdf>
+File: Figures/01_Introduction/Exotic/Zcs/mjpsik2_mjpsiphi2.pdf Graphic file (ty
+pe pdf)
+<use Figures/01_Introduction/Exotic/Zcs/mjpsik2_mjpsiphi2.pdf>
+ [22]
+File: Figures/01_Introduction/Exotic/Zcs/jpsik_projection.pdf Graphic file (typ
+e pdf)
+<use Figures/01_Introduction/Exotic/Zcs/jpsik_projection.pdf>
+File: Figures/01_Introduction/Exotic/Zcs/Z1_argand.pdf Graphic file (type pdf)
+<use Figures/01_Introduction/Exotic/Zcs/Z1_argand.pdf>
+ [23]
+File: Figures/01_Introduction/Exotic/Pc_states/2015-lhcb-Lb2jpsipK-dalitz.pdf G
+raphic file (type pdf)
+<use Figures/01_Introduction/Exotic/Pc_states/2015-lhcb-Lb2jpsipK-dalitz.pdf>
+File: Figures/01_Introduction/Exotic/Pc_states/2019-Dalitz_plot_pc.pdf Graphic 
+file (type pdf)
+<use Figures/01_Introduction/Exotic/Pc_states/2019-Dalitz_plot_pc.pdf>
+ [24]
+File: Figures/01_Introduction/Exotic/Pc_states/2015-lhcb-Lb2jpsipK-mjpsip-defau
+lt-slo.pdf Graphic file (type pdf)
+<use Figures/01_Introduction/Exotic/Pc_states/2015-lhcb-Lb2jpsipK-mjpsip-defaul
+t-slo.pdf>
+File: Figures/01_Introduction/Exotic/Pc_states/2019-pentaquarks_nominal_fit_and
+_thresholds.pdf Graphic file (type pdf)
+<use Figures/01_Introduction/Exotic/Pc_states/2019-pentaquarks_nominal_fit_and_
+thresholds.pdf>
+File: Figures/01_Introduction/Exotic/Pc_states/lhcb-Lb2jpsippi-mjpsip-inset-slo
+.pdf Graphic file (type pdf)
+<use Figures/01_Introduction/Exotic/Pc_states/lhcb-Lb2jpsippi-mjpsip-inset-slo.
+pdf>
+File: Figures/01_Introduction/Exotic/Pc_states/lhcb-Lb2jpsippi-mppi-slo.pdf Gra
+phic file (type pdf)
+<use Figures/01_Introduction/Exotic/Pc_states/lhcb-Lb2jpsippi-mppi-slo.pdf>
+) (./chap/01_exotic_thoery.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 1881) has occurred while \output is active []
+
+ [26])
+(./chap/02_detector.tex [27] [28
+
+]
+Chapter\ 2
+File: Figures/02_Detector/LHC.png Graphic file (type bmp)
+<Figures/02_Detector/LHC.png>
+[29] [30]
+File: Figures/02_Detector/CMS.png Graphic file (type bmp)
+<Figures/02_Detector/CMS.png>
+ [31]
+File: Figures/02_Detector/LHCb.png Graphic file (type bmp)
+<Figures/02_Detector/LHCb.png>
+File: Figures/02_Detector/BBbar.png Graphic file (type bmp)
+<Figures/02_Detector/BBbar.png>
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
+(Font)              scaled to size 10.53937pt on input line 148.
+ [32] [33]
+File: Figures/02_Detector/Tracking.png Graphic file (type bmp)
+<Figures/02_Detector/Tracking.png>
+File: Figures/02_Detector/VELO.png Graphic file (type bmp)
+<Figures/02_Detector/VELO.png>
+ [34] [35]
+File: Figures/02_Detector/MAG.png Graphic file (type bmp)
+<Figures/02_Detector/MAG.png>
+ [36]
+File: Figures/02_Detector/UT.png Graphic file (type bmp)
+<Figures/02_Detector/UT.png>
+File: Figures/02_Detector/IT.png Graphic file (type bmp)
+<Figures/02_Detector/IT.png>
+ [37] [38]
+Missing character: There is no − in font ntx-Regular-tlf-t1!
+Missing character: There is no − in font ntx-Regular-tlf-t1!
+Missing character: There is no − in font ntx-Regular-tlf-t1!
+File: Figures/02_Detector/TT.png Graphic file (type bmp)
+<Figures/02_Detector/TT.png>
+ [39] [40]
+File: Figures/02_Detector/RICH.png Graphic file (type bmp)
+<Figures/02_Detector/RICH.png>
+ [41]
+File: Figures/02_Detector/CALO.png Graphic file (type bmp)
+<Figures/02_Detector/CALO.png>
+
+Overfull \hbox (19.47092pt too wide) in paragraph at lines 488--502
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figures/02_Detector/Shashlik.png Graphic file (type bmp)
+<Figures/02_Detector/Shashlik.png>
+[42] [43]
+File: Figures/02_Detector/MUON.png Graphic file (type bmp)
+<Figures/02_Detector/MUON.png>
+ [44]) (./chap/02_detector_trigger.tex
+File: Figures/02_Detector/TRIGGER.png Graphic file (type bmp)
+<Figures/02_Detector/TRIGGER.png>
+File: Figures/02_Detector/L0_trigger.png Graphic file (type bmp)
+<Figures/02_Detector/L0_trigger.png>
+ [45] [46]
+File: Figures/02_Detector/Hltone.png Graphic file (type bmp)
+<Figures/02_Detector/Hltone.png>
+File: Figures/02_Detector/Hlttwo.png Graphic file (type bmp)
+<Figures/02_Detector/Hlttwo.png>
+ [47]
+File: Figures/02_Detector/upgrade_trigger.png Graphic file (type bmp)
+<Figures/02_Detector/upgrade_trigger.png>
+)
+(./chap/03_motivation_Zcs.tex [48] [49] [50
+
+]
+Chapter\ 3
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\psi' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\phi' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 18.06749pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 15.05624pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 18.06749pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 15.05624pt on input line 3.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figures/01_Introduction/Physics/from_Zcs/newbase_JpsiKh.pdf Graphic file 
+(type pdf)
+<use Figures/01_Introduction/Physics/from_Zcs/newbase_JpsiKh.pdf>
+File: Figures/01_Introduction/Physics/from_Zcs/Z_JpsiKh.pdf Graphic file (type 
+pdf)
+<use Figures/01_Introduction/Physics/from_Zcs/Z_JpsiKh.pdf>
+) (./chap/03_Dataset_Selection.tex [51]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[52]
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 10.53937pt on input line 59.
+ [53] [54]
+File: Figures/03_Zcs/04_Selection/variables_id_c1_run1.eps Graphic file (type e
+ps)
+<Figures/03_Zcs/04_Selection/variables_id_c1_run1.eps>
+File: Figures/03_Zcs/04_Selection/variables_id_c2_run1-1.pdf Graphic file (type
+ pdf)
+<use Figures/03_Zcs/04_Selection/variables_id_c2_run1-1.pdf>
+File: Figures/03_Zcs/04_Selection/variables_id_c1_run2.pdf Graphic file (type p
+df)
+<use Figures/03_Zcs/04_Selection/variables_id_c1_run2.pdf>
+File: Figures/03_Zcs/04_Selection/variables_id_c2_run2-1.pdf Graphic file (type
+ pdf)
+<use Figures/03_Zcs/04_Selection/variables_id_c2_run2-1.pdf>
+ [55] [56]
+File: Figures/03_Zcs/04_Selection/rejBvsS_run1.eps Graphic file (type eps)
+<Figures/03_Zcs/04_Selection/rejBvsS_run1.eps>
+File: Figures/03_Zcs/04_Selection/overtrain_BDTG_run1.eps Graphic file (type ep
+s)
+<Figures/03_Zcs/04_Selection/overtrain_BDTG_run1.eps>
+File: Figures/03_Zcs/04_Selection/rejBvsS_run2.eps Graphic file (type eps)
+<Figures/03_Zcs/04_Selection/rejBvsS_run2.eps>
+File: Figures/03_Zcs/04_Selection/overtrain_BDTG_run2.eps Graphic file (type ep
+s)
+<Figures/03_Zcs/04_Selection/overtrain_BDTG_run2.eps>
+File: Figures/03_Zcs/04_Selection/significance_run1.pdf Graphic file (type pdf)
+
+<use Figures/03_Zcs/04_Selection/significance_run1.pdf>
+File: Figures/03_Zcs/04_Selection/significance_run2.pdf Graphic file (type pdf)
+
+<use Figures/03_Zcs/04_Selection/significance_run2.pdf>
+File: Figures/03_Zcs/04_Selection/FOM/BDTG_FOM_BDTGfixed0.15_run1.pdf Graphic f
+ile (type pdf)
+<use Figures/03_Zcs/04_Selection/FOM/BDTG_FOM_BDTGfixed0.15_run1.pdf>
+File: Figures/03_Zcs/04_Selection/FOM/BDTG_FOM_BDTGfixed-0.14_run2.pdf Graphic 
+file (type pdf)
+<use Figures/03_Zcs/04_Selection/FOM/BDTG_FOM_BDTGfixed-0.14_run2.pdf>
+File: Figures/03_Zcs/04_Selection/FOM/BDTG_FOM_ghostfixed0.4_run1.pdf Graphic f
+ile (type pdf)
+<use Figures/03_Zcs/04_Selection/FOM/BDTG_FOM_ghostfixed0.4_run1.pdf>
+File: Figures/03_Zcs/04_Selection/FOM/BDTG_FOM_ghostfixed0.47_run2.pdf Graphic 
+file (type pdf)
+<use Figures/03_Zcs/04_Selection/FOM/BDTG_FOM_ghostfixed0.47_run2.pdf>
+) (./chap/03_Mass_fit.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 9.03374pt on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+File: Figures/03_Zcs/04_Selection/fitall_mass_JpsiKKK_sbkg_run1.pdf Graphic fil
+e (type pdf)
+<use Figures/03_Zcs/04_Selection/fitall_mass_JpsiKKK_sbkg_run1.pdf>
+File: Figures/03_Zcs/04_Selection/fitall_mass_JpsiKKK_sbkg_run2.pdf Graphic fil
+e (type pdf)
+<use Figures/03_Zcs/04_Selection/fitall_mass_JpsiKKK_sbkg_run2.pdf>
+[57] [58] [59]
+File: Figures/03_Zcs/04_Selection/fitall_mass_JpsiKKK_sbkg_run1_log.pdf Graphic
+ file (type pdf)
+<use Figures/03_Zcs/04_Selection/fitall_mass_JpsiKKK_sbkg_run1_log.pdf>
+File: Figures/03_Zcs/04_Selection/fitall_mass_JpsiKKK_sbkg_run2_log.pdf Graphic
+ file (type pdf)
+<use Figures/03_Zcs/04_Selection/fitall_mass_JpsiKKK_sbkg_run2_log.pdf>
+File: Figures/03_Zcs/04_Selection/mjpsik2_mjpsiphi2.pdf Graphic file (type pdf)
+
+<use Figures/03_Zcs/04_Selection/mjpsik2_mjpsiphi2.pdf>
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.53937pt on input line 59.
+File: Figures/03_Zcs/04_Selection/mphik2_mjpsiphi2.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/04_Selection/mphik2_mjpsiphi2.pdf>
+File: Figures/03_Zcs/04_Selection/mjpsik2_mphik2.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/04_Selection/mjpsik2_mphik2.pdf>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 85.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\phi' on input line 85.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 85.
+
+File: Figures/03_Zcs/04_Selection/app_2Dfit_mphi_mB.pdf Graphic file (type pdf)
+
+<use Figures/03_Zcs/04_Selection/app_2Dfit_mphi_mB.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./chap/03_likelihood.tex [60] [61] [62] [63] [64]
+File: Figures/03_Zcs/05_Likelihood/Cartoon/helicity.png Graphic file (type bmp)
+
+<Figures/03_Zcs/05_Likelihood/Cartoon/helicity.png>
+Missing character: There is no − in font ntx-Regular-tlf-t1!
+ [65] [66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 274.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 274.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 274.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\phi' on input line 274.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 274.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 274.
+
+[69] [70]
+File: Figures/03_Zcs/05_Likelihood/Cartoon/B2PsiKstar.png Graphic file (type bm
+p)
+<Figures/03_Zcs/05_Likelihood/Cartoon/B2PsiKstar.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 436.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 436.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 436.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\psi' on input line 436.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 436.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 436.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72]
+File: Figures/03_Zcs/05_Likelihood/Cartoon/B2ZPhi.png Graphic file (type bmp)
+<Figures/03_Zcs/05_Likelihood/Cartoon/B2ZPhi.png>
+
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 567.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 567.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\psi' on input line 567.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\phi' on input line 567.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 567.
+
+
+Underfull \vbox (badness 5431) has occurred while \output is active []
+
+ [75]
+File: Figures/03_Zcs/05_Likelihood/Cartoon/B2XK.png Graphic file (type bmp)
+<Figures/03_Zcs/05_Likelihood/Cartoon/B2XK.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76]
+Underfull \vbox (badness 4792) has occurred while \output is active []
+
+ [77]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 696.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 696.
+
+[78]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 791.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 791.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79]
+
+LaTeX Warning: Reference `SUPPsec:matrixelement' on page 80 undefined on input 
+line 815.
+
+[80] [81]
+File: Figures/03_Zcs/05_Likelihood/effm1m2.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/05_Likelihood/effm1m2.pdf>
+File: Figures/03_Zcs/05_Likelihood/effAngles.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/05_Likelihood/effAngles.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 948--948
+[]\T1/ntxtlf/m/n/10.53937 Figure 3.20 |Pa-ram-e-ter-ized ef-fi-ciency $\OML/ntx
+mi/m/it/10.53937 ^^O[]\LMS/ntxsy/m/n/10.53937 ¹[] \OML/ntxmi/m/it/10.53937 ^^R[
+]\LMS/ntxsy/m/n/10.53937 j\OML/ntxmi/m/it/10.53937 m[]\LMS/ntxsy/m/n/10.53937 º
+$\T1/ntxtlf/m/n/10.53937 , $\OML/ntxmi/m/it/10.53937 ^^O[]\LMS/ntxsy/m/n/10.539
+37 ¹[] \OML/ntxmi/m/it/10.53937 ^^R[]\LMS/ntxsy/m/n/10.53937 j\OML/ntxmi/m/it/1
+0.53937 m[]\LMS/ntxsy/m/n/10.53937 º$\T1/ntxtlf/m/n/10.53937 , $\OML/ntxmi/m/it
+/10.53937 ^^O[]\LMS/ntxsy/m/n/10.53937 ¹\U/ntxmia/m/it/10.53937 ^^A\OML/ntxmi/m
+/it/10.53937 ^^^[]\LMS/ntxsy/m/n/10.53937 j\OML/ntxmi/m/it/10.53937 m[]\LMS/ntx
+sy/m/n/10.53937 º$\T1/ntxtlf/m/n/10.53937 ,
+ []
+
+File: Figures/03_Zcs/05_Likelihood/bkgm1m2.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/05_Likelihood/bkgm1m2.pdf>
+File: Figures/03_Zcs/05_Likelihood/bkgAngles.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/05_Likelihood/bkgAngles.pdf>
+
+Underfull \hbox (badness 6658) in paragraph at lines 991--991
+[]\T1/ntxtlf/m/n/10.53937 Figure 3.22 |Pa-ram-e-ter-ized back-ground func-tions
+: $\OML/ntxmi/m/it/10.53937 P[]\LMS/ntxsy/m/n/10.53937 ¹[] \OML/ntxmi/m/it/10.5
+3937 ^^R[]\LMS/ntxsy/m/n/10.53937 j\OML/ntxmi/m/it/10.53937 m[]\LMS/ntxsy/m/n/1
+0.53937 º$\T1/ntxtlf/m/n/10.53937 , $\OML/ntxmi/m/it/10.53937 P[]\LMS/ntxsy/m/n
+/10.53937 ¹[] \OML/ntxmi/m/it/10.53937 ^^R[]\LMS/ntxsy/m/n/10.53937 j\OML/ntxmi
+/m/it/10.53937 m[]\LMS/ntxsy/m/n/10.53937 º$\T1/ntxtlf/m/n/10.53937 ,
+ []
+
+) (./chap/03_amplitude.tex [82] [83] [84]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 15.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 15.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 15.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 15.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 15.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\psi' on input line 15.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\phi' on input line 15.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 15.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 15.
+
+File: Figures/03_Zcs/06_Amplitude/kstars-nores.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/06_Amplitude/kstars-nores.pdf>
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 7.0pt on input line 43.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.045pt on input line 57.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 8.0pt on input line 57.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 6.0pt on input line 57.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
+e 112.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.045pt on input line 112.
+ [85
+
+] [86]
+[87] [88]
+File: Figures/03_Zcs/06_Amplitude/fit0/mphik-Test0NoZ.pdf Graphic file (type pd
+f)
+<use Figures/03_Zcs/06_Amplitude/fit0/mphik-Test0NoZ.pdf>
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.53937pt on input line 163.
+File: Figures/03_Zcs/06_Amplitude/fit0/mjpsiphi-Test0NoZ.pdf Graphic file (type
+ pdf)
+<use Figures/03_Zcs/06_Amplitude/fit0/mjpsiphi-Test0NoZ.pdf>
+File: Figures/03_Zcs/06_Amplitude/fit0/mjpsik-Test0NoZ.pdf Graphic file (type p
+df)
+<use Figures/03_Zcs/06_Amplitude/fit0/mjpsik-Test0NoZ.pdf>
+ [89] [90]
+File: Figures/03_Zcs/06_Amplitude/fitx2m/mphik-X2mZ1P.pdf Graphic file (type pd
+f)
+<use Figures/03_Zcs/06_Amplitude/fitx2m/mphik-X2mZ1P.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitx2m/mjpsiphi-X2mZ1P.pdf Graphic file (type
+ pdf)
+<use Figures/03_Zcs/06_Amplitude/fitx2m/mjpsiphi-X2mZ1P.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitx2m/mjpsik-X2mZ1P.pdf Graphic file (type p
+df)
+<use Figures/03_Zcs/06_Amplitude/fitx2m/mjpsik-X2mZ1P.pdf>
+File: Figures/03_Zcs/06_Amplitude/dalitz/toy/mjpsik2_mjpsiphi2.pdf Graphic file
+ (type pdf)
+<use Figures/03_Zcs/06_Amplitude/dalitz/toy/mjpsik2_mjpsiphi2.pdf>
+File: Figures/03_Zcs/06_Amplitude/dalitz/toy/mphik2_mjpsiphi2.pdf Graphic file 
+(type pdf)
+<use Figures/03_Zcs/06_Amplitude/dalitz/toy/mphik2_mjpsiphi2.pdf>
+File: Figures/03_Zcs/06_Amplitude/dalitz/toy/mjpsik2_mphik2.pdf Graphic file (t
+ype pdf)
+<use Figures/03_Zcs/06_Amplitude/dalitz/toy/mjpsik2_mphik2.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitx2m/mjpsik-1.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/06_Amplitude/fitx2m/mjpsik-1.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitx2m/mjpsik-2.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/06_Amplitude/fitx2m/mjpsik-2.pdf>
+File: Figures/03_Zcs/06_Amplitude/fit0/mjpsik-1.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/06_Amplitude/fit0/mjpsik-1.pdf>
+File: Figures/03_Zcs/06_Amplitude/fit0/mjpsik-2.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/06_Amplitude/fit0/mjpsik-2.pdf>
+File: Figures/03_Zcs/06_Amplitude/Dalitz-band2.png Graphic file (type bmp)
+<Figures/03_Zcs/06_Amplitude/Dalitz-band2.png>
+File: Figures/03_Zcs/06_Amplitude/fit0/mjpsik-NoZ.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/06_Amplitude/fit0/mjpsik-NoZ.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitx2m/phi_K.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/06_Amplitude/fitx2m/phi_K.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitx2m/phi_psiKst.pdf Graphic file (type pdf)
+
+<use Figures/03_Zcs/06_Amplitude/fitx2m/phi_psiKst.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitx2m/cosTheta_Kst.pdf Graphic file (type pd
+f)
+<use Figures/03_Zcs/06_Amplitude/fitx2m/cosTheta_Kst.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitx2m/cosTheta_phi.pdf Graphic file (type pd
+f)
+<use Figures/03_Zcs/06_Amplitude/fitx2m/cosTheta_phi.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitx2m/cosTheta_psi.pdf Graphic file (type pd
+f)
+<use Figures/03_Zcs/06_Amplitude/fitx2m/cosTheta_psi.pdf>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 393.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 393.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 393.
+
+File: Figures/03_Zcs/06_Amplitude/fitallk/mphik-AllKZ1P.pdf Graphic file (type 
+pdf)
+<use Figures/03_Zcs/06_Amplitude/fitallk/mphik-AllKZ1P.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitallk/mjpsiphi-AllKZ1P.pdf Graphic file (ty
+pe pdf)
+<use Figures/03_Zcs/06_Amplitude/fitallk/mjpsiphi-AllKZ1P.pdf>
+File: Figures/03_Zcs/06_Amplitude/fitallk/mjpsik-AllKZ1P.pdf Graphic file (type
+ pdf)
+<use Figures/03_Zcs/06_Amplitude/fitallk/mjpsik-AllKZ1P.pdf>
+[91] [92] [93] [94] [95] [96]
+File: Figures/03_Zcs/06_Amplitude/noX_plots/resmap_test_norminal.pdf Graphic fi
+le (type pdf)
+<use Figures/03_Zcs/06_Amplitude/noX_plots/resmap_test_norminal.pdf>
+File: Figures/03_Zcs/06_Amplitude/noX_plots/resmap_test_noX.pdf Graphic file (t
+ype pdf)
+<use Figures/03_Zcs/06_Amplitude/noX_plots/resmap_test_noX.pdf>
+File: Figures/03_Zcs/06_Amplitude/noX_plots/new_pull_norminal_2.pdf Graphic fil
+e (type pdf)
+<use Figures/03_Zcs/06_Amplitude/noX_plots/new_pull_norminal_2.pdf>
+File: Figures/03_Zcs/06_Amplitude/noX_plots/new_pull_noX_2.pdf Graphic file (ty
+pe pdf)
+<use Figures/03_Zcs/06_Amplitude/noX_plots/new_pull_noX_2.pdf>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\xeCJK_text_composite_patch:' on input line
+ 602.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 602.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 602.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 602.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 602.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 602.
+
+
+LaTeX Warning: Reference `SUPPsec:threshold' on page 97 undefined on input line
+ 605.
+
+[97] [98] [99] [100]
+File: Figures/03_Zcs/06_Amplitude/Flatte/mjpsiphi-4140FL-Z1M.pdf Graphic file (
+type pdf)
+<use Figures/03_Zcs/06_Amplitude/Flatte/mjpsiphi-4140FL-Z1M.pdf>
+File: Figures/03_Zcs/06_Amplitude/Flatte/mjpsiphi-4140FL-Z1P.pdf Graphic file (
+type pdf)
+<use Figures/03_Zcs/06_Amplitude/Flatte/mjpsiphi-4140FL-Z1P.pdf>
+File: Figures/03_Zcs/06_Amplitude/Flatte/mjpsiphi-AllKFL-Z1M.pdf Graphic file (
+type pdf)
+<use Figures/03_Zcs/06_Amplitude/Flatte/mjpsiphi-AllKFL-Z1M.pdf>
+File: Figures/03_Zcs/06_Amplitude/Flatte/mjpsiphi-AllKFL-Z1P.pdf Graphic file (
+type pdf)
+<use Figures/03_Zcs/06_Amplitude/Flatte/mjpsiphi-AllKFL-Z1P.pdf>
+File: Figures/03_Zcs/06_Amplitude/Flatte/FlatteX.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/06_Amplitude/Flatte/FlatteX.pdf>
+ [101]
+File: Figures/03_Zcs/06_Amplitude/Flatte/mjpsik-Z1PZFL.pdf Graphic file (type p
+df)
+<use Figures/03_Zcs/06_Amplitude/Flatte/mjpsik-Z1PZFL.pdf>
+) (./chap/03_spin_analysis.tex [102]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.53937pt on input line 69.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 7.0pt on input line 69.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 5.0pt on input line 69.
+
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+ [103]
+[104]
+File: Figures/03_Zcs/06_Amplitude/Z1_argand.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/06_Amplitude/Z1_argand.pdf>
+) (./chap/03_systematic.tex [105] [106] [107]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [108]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 7.52812pt on input line 98.
+)
+(./chap/03_conclusion.tex [109] [110] [111] [112] [113])
+(./chap/05_open_penta_motivation.tex [114]
+Chapter\ 4
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\pi' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 9.
+
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 18.06749pt on input line 9.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 15.05624pt on input line 9.
+File: Figures/05_open_charm/01_introduction/Fig1.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/01_introduction/Fig1.pdf>
+
+Underfull \vbox (badness 1028) has occurred while \output is active []
+
+ [115
+
+])
+(./chap/05_selection.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 9.03374pt on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\fontaxes@edoc' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\fontaxes@last@\math@version' on input line
+ 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\fontaxes@math@weight' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\fontaxes@code' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\fontaxes@last@\math@version' on input line
+ 2.
+
+[116]
+Overfull \hbox (4.12761pt too wide) in paragraph at lines 55--97
+ [][] 
+ []
+
+[117]
+Underfull \vbox (badness 2591) has occurred while \output is active []
+
+ [118]
+[119]
+File: Figures/05_open_charm/02_selection/veto.png Graphic file (type bmp)
+<Figures/05_open_charm/02_selection/veto.png>
+ [120]
+File: Figures/05_open_charm/02_selection/clone_track.pdf Graphic file (type pdf
+)
+<use Figures/05_open_charm/02_selection/clone_track.pdf>
+ [121]
+File: Figures/05_open_charm/02_selection/variables_id_c1.pdf Graphic file (type
+ pdf)
+<use Figures/05_open_charm/02_selection/variables_id_c1.pdf>
+
+Overfull \hbox (5.74838pt too wide) in paragraph at lines 315--315
+ [][] 
+ []
+
+File: Figures/05_open_charm/02_selection/variables_id_c2.png Graphic file (type
+ bmp)
+<Figures/05_open_charm/02_selection/variables_id_c2.png>
+
+Overfull \hbox (1.9133pt too wide) in paragraph at lines 317--318
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 5.43498pt on input line 321.
+
+File: Figures/05_open_charm/02_selection/CorrelationMatrixB.pdf Graphic file (t
+ype pdf)
+<use Figures/05_open_charm/02_selection/CorrelationMatrixB.pdf>
+File: Figures/05_open_charm/02_selection/CorrelationMatrixS.pdf Graphic file (t
+ype pdf)
+<use Figures/05_open_charm/02_selection/CorrelationMatrixS.pdf>
+File: Figures/05_open_charm/02_selection/overtrain_BDTG.pdf Graphic file (type 
+pdf)
+<use Figures/05_open_charm/02_selection/overtrain_BDTG.pdf>
+File: Figures/05_open_charm/02_selection/overtrain_MLP.pdf Graphic file (type p
+df)
+<use Figures/05_open_charm/02_selection/overtrain_MLP.pdf>
+File: Figures/05_open_charm/02_selection/mvaeffs_BDTG.pdf Graphic file (type pd
+f)
+<use Figures/05_open_charm/02_selection/mvaeffs_BDTG.pdf>
+File: Figures/05_open_charm/02_selection/mvaeffs_MLP.pdf Graphic file (type pdf
+)
+<use Figures/05_open_charm/02_selection/mvaeffs_MLP.pdf>
+
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+ [122]
+[123]
+File: Figures/05_open_charm/02_selection/rejBvsS.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/02_selection/rejBvsS.pdf>
+ [124]
+Underfull \vbox (badness 2057) has occurred while \output is active []
+
+ [125]
+File: Figures/05_open_charm/02_selection/kkpi_kpi.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/02_selection/kkpi_kpi.pdf>
+File: Figures/05_open_charm/02_selection/lckp_kpi.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/02_selection/lckp_kpi.pdf>
+File: Figures/05_open_charm/02_selection/lckm_kpi.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/02_selection/lckm_kpi.pdf>
+)
+(./chap/05_signal_yield.tex [126]
+File: Figures/05_open_charm/03_yiels/MC/Lb_LcKKPi.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/03_yiels/MC/Lb_LcKKPi.pdf>
+File: Figures/05_open_charm/03_yiels/MC/Lb_LcDs.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/03_yiels/MC/Lb_LcDs.pdf>
+
+Overfull \hbox (5.73969pt too wide) in paragraph at lines 41--42
+ [][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [127]
+File: Figures/05_open_charm/03_yiels/MC/physic_bkg.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/03_yiels/MC/physic_bkg.pdf>
+
+
+LaTeX Warning: Reference `appendix:sideband' on page 128 undefined on input lin
+e 81.
+
+File: Figures/05_open_charm/03_yiels/Data/LcDs_kkpi/Lb_LcDs.pdf Graphic file (t
+ype pdf)
+<use Figures/05_open_charm/03_yiels/Data/LcDs_kkpi/Lb_LcDs.pdf>
+
+Underfull \vbox (badness 6825) has occurred while \output is active []
+
+ [128]
+File: Figures/05_open_charm/03_yiels/MC/Sigmakkpi/physic_bkg.pdf Graphic file (
+type pdf)
+<use Figures/05_open_charm/03_yiels/MC/Sigmakkpi/physic_bkg.pdf>
+
+[129]
+File: Figures/05_open_charm/03_yiels/Data/Lb_KKPi_plot/Lb_LcKKPi.pdf Graphic fi
+le (type pdf)
+<use Figures/05_open_charm/03_yiels/Data/Lb_KKPi_plot/Lb_LcKKPi.pdf>
+File: Figures/05_open_charm/03_yiels/Data/Lb_KKPi_plot/Lb_LcKKPi_pull.pdf Graph
+ic file (type pdf)
+<use Figures/05_open_charm/03_yiels/Data/Lb_KKPi_plot/Lb_LcKKPi_pull.pdf>
+File: Figures/05_open_charm/03_yiels/Data/Lb_LcDs_plot/Lb_LcDs.pdf Graphic file
+ (type pdf)
+<use Figures/05_open_charm/03_yiels/Data/Lb_LcDs_plot/Lb_LcDs.pdf>
+File: Figures/05_open_charm/03_yiels/Data/Lb_LcDs_plot/Lb_LcDs_pull.pdf Graphic
+ file (type pdf)
+<use Figures/05_open_charm/03_yiels/Data/Lb_LcDs_plot/Lb_LcDs_pull.pdf>
+) (./chap/05_tuneMC.tex
+Underfull \vbox (badness 3977) has occurred while \output is active []
+
+ [130]
+File: Figures/05_open_charm/04_tune/Lckkpi_smear/before/Lb_IPCHI2_OWNPV.pdf Gra
+phic file (type pdf)
+<use Figures/05_open_charm/04_tune/Lckkpi_smear/before/Lb_IPCHI2_OWNPV.pdf>
+File: Figures/05_open_charm/04_tune/Lckkpi_smear/after/Lb_IPCHI2_OWNPV.pdf Grap
+hic file (type pdf)
+<use Figures/05_open_charm/04_tune/Lckkpi_smear/after/Lb_IPCHI2_OWNPV.pdf>
+File: Figures/05_open_charm/04_tune/LcDs_smear/before/Lb_IPCHI2_OWNPV.pdf Graph
+ic file (type pdf)
+<use Figures/05_open_charm/04_tune/LcDs_smear/before/Lb_IPCHI2_OWNPV.pdf>
+File: Figures/05_open_charm/04_tune/LcDs_smear/after/Lb_IPCHI2_OWNPV.pdf Graphi
+c file (type pdf)
+<use Figures/05_open_charm/04_tune/LcDs_smear/after/Lb_IPCHI2_OWNPV.pdf>
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.05249pt on input line 31.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 31.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 31.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 31.
+
+[131]
+File: Figures/05_open_charm/04_tune/pt_y/ratio_pty.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/04_tune/pt_y/ratio_pty.pdf>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 66.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 66.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 66.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [132]
+File: Figures/05_open_charm/04_tune/dalitz/mkp.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/04_tune/dalitz/mkp.pdf>
+File: Figures/05_open_charm/04_tune/dalitz/mkpi.pdf Graphic file (type pdf)
+<use Figures/05_open_charm/04_tune/dalitz/mkpi.pdf>
+File: Figures/05_open_charm/04_tune/dalitz/signal_channel/mkp.pdf Graphic file 
+(type pdf)
+<use Figures/05_open_charm/04_tune/dalitz/signal_channel/mkp.pdf>
+File: Figures/05_open_charm/04_tune/dalitz/signal_channel/mkpi.pdf Graphic file
+ (type pdf)
+<use Figures/05_open_charm/04_tune/dalitz/signal_channel/mkpi.pdf>
+File: Figures/05_open_charm/04_tune/dalitz/ratio_dalitz_ds.pdf Graphic file (ty
+pe pdf)
+<use Figures/05_open_charm/04_tune/dalitz/ratio_dalitz_ds.pdf>
+File: Figures/05_open_charm/04_tune/dalitz/ratio_dalitz_kkpi.pdf Graphic file (
+type pdf)
+<use Figures/05_open_charm/04_tune/dalitz/ratio_dalitz_kkpi.pdf>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 110.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 110.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 110.
+
+File: Figures/05_open_charm/04_tune/poli/pi_poli/cosTheta.pdf Graphic file (typ
+e pdf)
+<use Figures/05_open_charm/04_tune/poli/pi_poli/cosTheta.pdf>
+File: Figures/05_open_charm/04_tune/poli/pi_poli/phi.pdf Graphic file (type pdf
+)
+<use Figures/05_open_charm/04_tune/poli/pi_poli/phi.pdf>
+File: Figures/05_open_charm/04_tune/poli/pi_poli/cosTheta_pk.pdf Graphic file (
+type pdf)
+<use Figures/05_open_charm/04_tune/poli/pi_poli/cosTheta_pk.pdf>
+File: Figures/05_open_charm/04_tune/poli/pi_poli/phi_pk.pdf Graphic file (type 
+pdf)
+<use Figures/05_open_charm/04_tune/poli/pi_poli/phi_pk.pdf>
+[133]
+File: Figures/05_open_charm/04_tune/poli/kkpi_poli/cosTheta.pdf Graphic file (t
+ype pdf)
+<use Figures/05_open_charm/04_tune/poli/kkpi_poli/cosTheta.pdf>
+File: Figures/05_open_charm/04_tune/poli/kkpi_poli/phi.pdf Graphic file (type p
+df)
+<use Figures/05_open_charm/04_tune/poli/kkpi_poli/phi.pdf>
+File: Figures/05_open_charm/04_tune/poli/kkpi_poli/cosTheta_pk.pdf Graphic file
+ (type pdf)
+<use Figures/05_open_charm/04_tune/poli/kkpi_poli/cosTheta_pk.pdf>
+File: Figures/05_open_charm/04_tune/poli/kkpi_poli/phi_pk.pdf Graphic file (typ
+e pdf)
+<use Figures/05_open_charm/04_tune/poli/kkpi_poli/phi_pk.pdf>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\pi' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 156.
+
+File: Figures/05_open_charm/04_tune/component/LbKpKmPi.pdf Graphic file (type p
+df)
+<use Figures/05_open_charm/04_tune/component/LbKpKmPi.pdf>
+File: Figures/05_open_charm/04_tune/component/LbKpPi.pdf Graphic file (type pdf
+)
+<use Figures/05_open_charm/04_tune/component/LbKpPi.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134]
+File: Figures/05_open_charm/04_tune/new_for_note/LbKmPi_M.pdf Graphic file (typ
+e pdf)
+<use Figures/05_open_charm/04_tune/new_for_note/LbKmPi_M.pdf>
+File: Figures/05_open_charm/04_tune/new_for_note/LbKpKm_M.pdf Graphic file (typ
+e pdf)
+<use Figures/05_open_charm/04_tune/new_for_note/LbKpKm_M.pdf>
+File: Figures/05_open_charm/04_tune/new_for_note/LbKpPi_M.pdf Graphic file (typ
+e pdf)
+<use Figures/05_open_charm/04_tune/new_for_note/LbKpPi_M.pdf>
+File: Figures/05_open_charm/04_tune/new_for_note/LcLbKp_M_con.pdf Graphic file 
+(type pdf)
+<use Figures/05_open_charm/04_tune/new_for_note/LcLbKp_M_con.pdf>
+File: Figures/05_open_charm/04_tune/new_for_note/LcLbPi_M_con.pdf Graphic file 
+(type pdf)
+<use Figures/05_open_charm/04_tune/new_for_note/LcLbPi_M_con.pdf>
+File: Figures/05_open_charm/04_tune/new_for_note/LcLbKm_M_con.pdf Graphic file 
+(type pdf)
+<use Figures/05_open_charm/04_tune/new_for_note/LcLbKm_M_con.pdf>
+File: Figures/05_open_charm/04_tune/new_for_note/LcLbKmPi_M_con.pdf Graphic fil
+e (type pdf)
+<use Figures/05_open_charm/04_tune/new_for_note/LcLbKmPi_M_con.pdf>
+File: Figures/05_open_charm/04_tune/new_for_note/LcLbKpKm_M_con.pdf Graphic fil
+e (type pdf)
+<use Figures/05_open_charm/04_tune/new_for_note/LcLbKpKm_M_con.pdf>
+File: Figures/05_open_charm/04_tune/new_for_note/LcLbKpPi_M_con.pdf Graphic fil
+e (type pdf)
+<use Figures/05_open_charm/04_tune/new_for_note/LcLbKpPi_M_con.pdf>
+File: Figures/05_open_charm/04_tune/new_for_note/LbKpKmPi_M.pdf Graphic file (t
+ype pdf)
+<use Figures/05_open_charm/04_tune/new_for_note/LbKpKmPi_M.pdf>
+
+[135]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [136]
+File: Figures/05_open_charm/04_tune/after_weight_ds/mkp.pdf Graphic file (type 
+pdf)
+<use Figures/05_open_charm/04_tune/after_weight_ds/mkp.pdf>
+File: Figures/05_open_charm/04_tune/after_weight_ds/mkpi.pdf Graphic file (type
+ pdf)
+<use Figures/05_open_charm/04_tune/after_weight_ds/mkpi.pdf>
+File: Figures/05_open_charm/04_tune/after_weight_kkpi/mkp.pdf Graphic file (typ
+e pdf)
+<use Figures/05_open_charm/04_tune/after_weight_kkpi/mkp.pdf>
+File: Figures/05_open_charm/04_tune/after_weight_kkpi/mkpi.pdf Graphic file (ty
+pe pdf)
+<use Figures/05_open_charm/04_tune/after_weight_kkpi/mkpi.pdf>
+)
+(./chap/05_efficiency.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [137]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [138]
+[139]) (./chap/05_branching.tex [140]) (./chap/05_systematic.tex [141]
+File: Figures/05_open_charm/systematic/signal_model/Lb_LcKKPi.pdf Graphic file 
+(type pdf)
+<use Figures/05_open_charm/systematic/signal_model/Lb_LcKKPi.pdf>
+File: Figures/05_open_charm/systematic/signal_model/Lb_LcDs.pdf Graphic file (t
+ype pdf)
+<use Figures/05_open_charm/systematic/signal_model/Lb_LcDs.pdf>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 85.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 85.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 85.
+
+[142] [143]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\pi' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 154.
+
+File: Figures/05_open_charm/systematic/change_region/Lb_LcKKPi.pdf Graphic file
+ (type pdf)
+<use Figures/05_open_charm/systematic/change_region/Lb_LcKKPi.pdf>
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\pi' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 193.
+
+[144]) (./chap/05_conclusion.tex [145]) (./chap/06_simulation.tex [146]
+Chapter\ 5
+) (./chap/06_fast_sim.tex [147
+
+]
+File: Figures/06_ECAL/fast_sim/process_fast.png Graphic file (type bmp)
+<Figures/06_ECAL/fast_sim/process_fast.png>
+ [148]
+File: Figures/06_ECAL/fast_sim/for_fast_cali/energy_cali/energy_cali/middle_ene
+rgy.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/fast_sim/for_fast_cali/energy_cali/energy_cali/middle_ener
+gy.pdf>
+File: Figures/06_ECAL/fast_sim/for_fast_cali/energy_cali/res_ene.pdf Graphic fi
+le (type pdf)
+<use Figures/06_ECAL/fast_sim/for_fast_cali/energy_cali/res_ene.pdf>
+
+
+LaTeX Warning: Reference `fig:ene_cali' on page 149 undefined on input line 103
+.
+
+[149]
+
+LaTeX Warning: Reference `fig:pos_cali' on page 150 undefined on input line 113
+.
+
+File: Figures/06_ECAL/fast_sim/for_fast_cali/S_correction/before/middle_cor.pdf
+ Graphic file (type pdf)
+<use Figures/06_ECAL/fast_sim/for_fast_cali/S_correction/before/middle_cor.pdf>
+
+File: Figures/06_ECAL/fast_sim/for_fast_cali/S_correction/after/middle_cor.pdf 
+Graphic file (type pdf)
+<use Figures/06_ECAL/fast_sim/for_fast_cali/S_correction/after/middle_cor.pdf>
+[150]
+File: Figures/06_ECAL/pi0_plots/distance_E.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/pi0_plots/distance_E.pdf>
+File: Figures/06_ECAL/pi0_plots/distance_E_1D.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/pi0_plots/distance_E_1D.pdf>
+ [151] [152]
+File: Figures/06_ECAL/fast_sim/Identification/gamma_piz/with_time/variables_id_
+c1.png Graphic file (type bmp)
+<Figures/06_ECAL/fast_sim/Identification/gamma_piz/with_time/variables_id_c1.pn
+g>
+File: Figures/06_ECAL/fast_sim/Identification/gamma_piz/with_time/new_variables
+_id_c2.png Graphic file (type bmp)
+<Figures/06_ECAL/fast_sim/Identification/gamma_piz/with_time/new_variables_id_c
+2.png>
+File: Figures/06_ECAL/fast_sim/Identification/gamma_piz/with_time/overtrain_BDT
+G.eps Graphic file (type eps)
+<Figures/06_ECAL/fast_sim/Identification/gamma_piz/with_time/overtrain_BDTG.eps
+>
+File: Figures/06_ECAL/fast_sim/Identification/gamma_piz/with_time/rejBvsS.eps G
+raphic file (type eps)
+<Figures/06_ECAL/fast_sim/Identification/gamma_piz/with_time/rejBvsS.eps>
+File: Figures/06_ECAL/fast_sim/Identification/gamma_piz/no_time/rejBvsS.eps Gra
+phic file (type eps)
+<Figures/06_ECAL/fast_sim/Identification/gamma_piz/no_time/rejBvsS.eps>
+File: Figures/06_ECAL/fast_sim/Identification/gamma_combine/with_time/rejBvsS.e
+ps Graphic file (type eps)
+<Figures/06_ECAL/fast_sim/Identification/gamma_combine/with_time/rejBvsS.eps>
+File: Figures/06_ECAL/fast_sim/Identification/gamma_combine/no_time/rejBvsS.eps
+ Graphic file (type eps)
+<Figures/06_ECAL/fast_sim/Identification/gamma_combine/no_time/rejBvsS.eps>
+File: Figures/06_ECAL/fast_sim/Identification/piz_combine/with_time/rejBvsS.eps
+ Graphic file (type eps)
+<Figures/06_ECAL/fast_sim/Identification/piz_combine/with_time/rejBvsS.eps>
+File: Figures/06_ECAL/fast_sim/Identification/piz_combine/no_time/rejBvsS.eps G
+raphic file (type eps)
+<Figures/06_ECAL/fast_sim/Identification/piz_combine/no_time/rejBvsS.eps>
+ [153]
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+ [154])
+(./chap/06_fast_sim_performance.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\phi' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gamma' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+[155]
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/plots/Bs_Big_cell_Lumi_10_32_4.pdf G
+raphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/plots/Bs_Big_cell_Lumi_10_32_4.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/plots/Bs_Big_cell_Lumi_10_33_6.pdf G
+raphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/plots/Bs_Big_cell_Lumi_10_33_6.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/plots/Bs_Big_cell_Lumi_10_33_10.pdf 
+Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/plots/Bs_Big_cell_Lumi_10_33_10.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/plots/Bs_Big_cell_Lumi_10_33_15.pdf 
+Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/plots/Bs_Big_cell_Lumi_10_33_15.pdf>
+ [156]
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/Phillip_segmentation.png Graphic fil
+e (type bmp)
+<Figures/06_ECAL/Fast_sim_Bs_PhiGamma/Phillip_segmentation.png>
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
+(Font)              scaled to size 9.03374pt on input line 170.
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_rej_Phillip_cell
+_Lumi_10_33_10.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_rej_Phillip_cell_
+Lumi_10_33_10.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_rej_Phillip_cell
+_Lumi_10_33_15.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_rej_Phillip_cell_
+Lumi_10_33_15.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_rej_Small_cell_L
+umi_10_33_10.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_rej_Small_cell_Lu
+mi_10_33_10.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_rej_Small_cell_L
+umi_10_33_15.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_rej_Small_cell_Lu
+mi_10_33_15.pdf>
+ [157]
+Underfull \vbox (badness 2334) has occurred while \output is active []
+
+ [158]
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_signi_Phillip_ce
+ll_Lumi_10_33_10.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_signi_Phillip_cel
+l_Lumi_10_33_10.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_signi_Phillip_ce
+ll_Lumi_10_33_15.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_signi_Phillip_cel
+l_Lumi_10_33_15.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_signi_Small_cell
+_Lumi_10_33_10.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_signi_Small_cell_
+Lumi_10_33_10.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_signi_Small_cell
+_Lumi_10_33_15.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_PhiGamma/eff_vs_other/eff_vs_signi_Small_cell_
+Lumi_10_33_15.pdf>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 275.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 275.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 275.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 275.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 275.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 275.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\psi' on input line 275.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\pi' on input line 275.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 275.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 275.
+
+[159]
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/bs0_pdf/Big_cell/Lumi_10_32_4/plot0.p
+df Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/bs0_pdf/Big_cell/Lumi_10_32_4/plot0.pd
+f>
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/bs0_pdf/Big_cell/Lumi_10_33_6/plot0.p
+df Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/bs0_pdf/Big_cell/Lumi_10_33_6/plot0.pd
+f>
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/bs0_pdf/Big_cell/Lumi_10_33_10/plot0.
+pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/bs0_pdf/Big_cell/Lumi_10_33_10/plot0.p
+df>
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/bs0_pdf/Big_cell/Lumi_10_33_15/plot0.
+pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/bs0_pdf/Big_cell/Lumi_10_33_15/plot0.p
+df>
+
+Underfull \vbox (badness 7851) has occurred while \output is active []
+
+ [160]
+[161]
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Phillip_cell_Lumi_10_33_10_ef
+f_bkg.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Phillip_cell_Lumi_10_33_10_eff
+_bkg.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Phillip_cell_Lumi_10_33_15_ef
+f_bkg.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Phillip_cell_Lumi_10_33_15_eff
+_bkg.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Small_cell_Lumi_10_33_10_eff_
+bkg.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Small_cell_Lumi_10_33_10_eff_b
+kg.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Small_cell_Lumi_10_33_15_eff_
+bkg.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Small_cell_Lumi_10_33_15_eff_b
+kg.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Phillip_cell_Lumi_10_33_10_ef
+f_signi.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Phillip_cell_Lumi_10_33_10_eff
+_signi.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Phillip_cell_Lumi_10_33_15_ef
+f_signi.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Phillip_cell_Lumi_10_33_15_eff
+_signi.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Small_cell_Lumi_10_33_10_eff_
+signi.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Small_cell_Lumi_10_33_10_eff_s
+igni.pdf>
+File: Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Small_cell_Lumi_10_33_15_eff_
+signi.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Fast_sim_Bs_JpsiPiz/eff_sig/Small_cell_Lumi_10_33_15_eff_s
+igni.pdf>
+ [162]
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/sc' will be
+(Font)              scaled to size 14.05249pt on input line 472.
+ [163]) (./chap/06_ecal_simulation_method.tex
+File: Figures/06_ECAL/procedure.png Graphic file (type bmp)
+<Figures/06_ECAL/procedure.png>
+File: Figures/06_ECAL/plotsZW/geometrySiW.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/plotsZW/geometrySiW.pdf>
+ [164]
+File: Figures/06_ECAL/detecting_eff/Eff_50.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/detecting_eff/Eff_50.pdf>
+File: Figures/06_ECAL/detecting_eff/Eff_100.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/detecting_eff/Eff_100.pdf>
+File: Figures/06_ECAL/detecting_eff/Eff_200.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/detecting_eff/Eff_200.pdf>
+File: Figures/06_ECAL/detecting_eff/Eff_400.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/detecting_eff/Eff_400.pdf>
+ [165] [166])
+(./chap/06_ecal_simulation_rec.tex [167]
+File: Figures/06_ECAL/energy_res_rela_angle/rela.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/energy_res_rela_angle/rela.pdf>
+File: Figures/06_ECAL/energy_res_rela_angle/res.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/energy_res_rela_angle/res.pdf>
+File: Figures/06_ECAL/energy_res_rela_angle/res_small_energy.pdf Graphic file (
+type pdf)
+<use Figures/06_ECAL/energy_res_rela_angle/res_small_energy.pdf>
+ [168]
+File: Figures/06_ECAL/energy_res_rela_angle/E_fraction_each_layers.pdf Graphic 
+file (type pdf)
+<use Figures/06_ECAL/energy_res_rela_angle/E_fraction_each_layers.pdf>
+File: Figures/06_ECAL/energy_res_rela_angle/E_moliere.pdf Graphic file (type pd
+f)
+<use Figures/06_ECAL/energy_res_rela_angle/E_moliere.pdf>
+File: Figures/06_ECAL/plotsZW/resolutionE_compare_Siwidth_1x1.pdf Graphic file 
+(type pdf)
+<use Figures/06_ECAL/plotsZW/resolutionE_compare_Siwidth_1x1.pdf>
+
+Underfull \vbox (badness 2809) has occurred while \output is active []
+
+ [169]
+File: Figures/06_ECAL/position_res_cali/pos_cali_15.pdf Graphic file (type pdf)
+
+<use Figures/06_ECAL/position_res_cali/pos_cali_15.pdf>
+File: Figures/06_ECAL/position_res_cali/pos_res.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/position_res_cali/pos_res.pdf>
+
+[170]
+File: Figures/06_ECAL/time_cali_res/E_fraction_layers_9.pdf Graphic file (type 
+pdf)
+<use Figures/06_ECAL/time_cali_res/E_fraction_layers_9.pdf>
+File: Figures/06_ECAL/time_cali_res/Time_res_50.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/time_cali_res/Time_res_50.pdf>
+File: Figures/06_ECAL/time_cali_res/Time_res_100.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/time_cali_res/Time_res_100.pdf>
+File: Figures/06_ECAL/time_cali_res/Time_res_200.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/time_cali_res/Time_res_200.pdf>
+File: Figures/06_ECAL/time_cali_res/Time_res_400.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/time_cali_res/Time_res_400.pdf>
+ [171]
+File: Figures/06_ECAL/time_cali_res/before_time_cali.pdf Graphic file (type pdf
+)
+<use Figures/06_ECAL/time_cali_res/before_time_cali.pdf>
+File: Figures/06_ECAL/time_cali_res/after_time_cali.pdf Graphic file (type pdf)
+
+<use Figures/06_ECAL/time_cali_res/after_time_cali.pdf>
+File: Figures/06_ECAL/time_cali_res/rela_layer_time_cali.pdf Graphic file (type
+ pdf)
+<use Figures/06_ECAL/time_cali_res/rela_layer_time_cali.pdf>
+ [172]
+File: Figures/06_ECAL/time_cali_res/shower_time_res_6.pdf Graphic file (type pd
+f)
+<use Figures/06_ECAL/time_cali_res/shower_time_res_6.pdf>
+File: Figures/06_ECAL/time_cali_res/shower_time_res_6_low_energy.pdf Graphic fi
+le (type pdf)
+<use Figures/06_ECAL/time_cali_res/shower_time_res_6_low_energy.pdf>
+) (./chap/06_ecal_simulation_physical.tex [173]
+File: Figures/06_ECAL/Bs_PhiGamma/diff_thickness/low_lumi/plots/Bs_0_2.pdf Grap
+hic file (type pdf)
+<use Figures/06_ECAL/Bs_PhiGamma/diff_thickness/low_lumi/plots/Bs_0_2.pdf>
+File: Figures/06_ECAL/Bs_PhiGamma/diff_thickness/low_lumi/plots/Bs_Cu_0_2.pdf G
+raphic file (type pdf)
+<use Figures/06_ECAL/Bs_PhiGamma/diff_thickness/low_lumi/plots/Bs_Cu_0_2.pdf>
+File: Figures/06_ECAL/Bs_JpsiPi0/Bs_JpsiPiz/low_lumi/0_2/pi0_M.pdf Graphic file
+ (type pdf)
+<use Figures/06_ECAL/Bs_JpsiPi0/Bs_JpsiPiz/low_lumi/0_2/pi0_M.pdf>
+File: Figures/06_ECAL/Bs_JpsiPi0/Bs_JpsiPiz/low_lumi/Cu_0_2/pi0_M.pdf Graphic f
+ile (type pdf)
+<use Figures/06_ECAL/Bs_JpsiPi0/Bs_JpsiPiz/low_lumi/Cu_0_2/pi0_M.pdf>
+File: Figures/06_ECAL/Bs_JpsiPi0/Bs_JpsiPiz/low_lumi/0_2/Bs_JpsiPi0.pdf Graphic
+ file (type pdf)
+<use Figures/06_ECAL/Bs_JpsiPi0/Bs_JpsiPiz/low_lumi/0_2/Bs_JpsiPi0.pdf>
+File: Figures/06_ECAL/Bs_JpsiPi0/Bs_JpsiPiz/low_lumi/Cu_0_2/Bs_JpsiPi0.pdf Grap
+hic file (type pdf)
+<use Figures/06_ECAL/Bs_JpsiPi0/Bs_JpsiPiz/low_lumi/Cu_0_2/Bs_JpsiPi0.pdf>
+ [174]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 135.
+
+File: Figures/06_ECAL/Brem/Electron_E.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Brem/Electron_E.pdf>
+File: Figures/06_ECAL/Brem/Electron_PT.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Brem/Electron_PT.pdf>
+File: Figures/06_ECAL/Brem/x_y_dis.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Brem/x_y_dis.pdf>
+File: Figures/06_ECAL/Brem/x_E_dis.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Brem/x_E_dis.pdf>
+File: Figures/06_ECAL/Brem/t_dis.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Brem/t_dis.pdf>
+File: Figures/06_ECAL/Brem/Bmass_compare.pdf Graphic file (type pdf)
+<use Figures/06_ECAL/Brem/Bmass_compare.pdf>
+[175] [176]) (./chap/06_simulation_summary.tex) (./chap/07_summary.tex [177]
+[178
+
+]
+Chapter\ 6
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [179])
+(./chap/08_motivation.tex [180]
+Appendix A
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\psi' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 4.
+
+) (./chap/08_selection.tex [181
+
+]
+File: Figures/08_JpsipK/mva_plots/variables_id_c1.eps Graphic file (type eps)
+<Figures/08_JpsipK/mva_plots/variables_id_c1.eps>
+File: Figures/08_JpsipK/mva_plots/variables_id_c2.eps Graphic file (type eps)
+<Figures/08_JpsipK/mva_plots/variables_id_c2.eps>
+ [182]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [183]
+File: Figures/08_JpsipK/mva_plots/overtrain_BDTG.eps Graphic file (type eps)
+<Figures/08_JpsipK/mva_plots/overtrain_BDTG.eps>
+)
+(./chap/08_fit_model.tex) (./chap/08_fit_results.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [184]
+Missing character: There is no − in font ntx-Regular-tlf-ot1!
+
+[185]
+
+LaTeX Warning: Reference `' on page 186 undefined on input line 68.
+
+File: Figures/08_JpsipK/plot_mass_res/run2.pdf Graphic file (type pdf)
+<use Figures/08_JpsipK/plot_mass_res/run2.pdf>
+) (./chap/08_systematic.tex) (./chap/08_conclusion.tex)
+(./chap/04_penta_motivation.tex [186]
+Appendix B
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\PLambda' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\psi' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\pi' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+File: Figures/04_Penta/01_introduction/Fenyman.png Graphic file (type bmp)
+<Figures/04_Penta/01_introduction/Fenyman.png>
+File: Figures/04_Penta/01_introduction/intrinsic.pdf Graphic file (type pdf)
+<use Figures/04_Penta/01_introduction/intrinsic.pdf>
+[187
+
+]) (./chap/04_Dataset_Selection.tex [188] [189]
+Overfull \hbox (11.11804pt too wide) in paragraph at lines 68--74
+\T1/ntxtlf/m/n/12.045 the HLT2 level by ei-ther of the \T1/ntxtt/m/n/12.045 Hlt
+2DiMuonDetachedJPsi \T1/ntxtlf/m/n/12.045 and \T1/ntxtt/m/n/12.045 Hlt2TopoMu(2
+,3,4)BodyBBDT
+ []
+
+[190]
+File: Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_P2K.pdf Graphic file 
+(type pdf)
+<use Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_P2K.pdf>
+File: Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_P2Pi.pdf Graphic file
+ (type pdf)
+<use Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_P2Pi.pdf>
+File: Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_PPi2KK.pdf Graphic fi
+le (type pdf)
+<use Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_PPi2KK.pdf>
+File: Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_PPi2KP.pdf Graphic fi
+le (type pdf)
+<use Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_PPi2KP.pdf>
+File: Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_PPi2PiK.pdf Graphic f
+ile (type pdf)
+<use Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_PPi2PiK.pdf>
+File: Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_Pi2K.pdf Graphic file
+ (type pdf)
+<use Figures/04_Penta/02_selection/draw_veto_pic/Lb_mass_Pi2K.pdf>
+
+
+LaTeX Warning: Reference `' on page 191 undefined on input line 257.
+
+[191]
+File: Figures/04_Penta/02_selection/tmva/plots_run1/variables_id_c1.pdf Graphic
+ file (type pdf)
+<use Figures/04_Penta/02_selection/tmva/plots_run1/variables_id_c1.pdf>
+File: Figures/04_Penta/02_selection/tmva/plots_run1/variables_id_c2.png Graphic
+ file (type bmp)
+<Figures/04_Penta/02_selection/tmva/plots_run1/variables_id_c2.png>
+File: Figures/04_Penta/02_selection/tmva/plots_run1/overtrain_BDTG.pdf Graphic 
+file (type pdf)
+<use Figures/04_Penta/02_selection/tmva/plots_run1/overtrain_BDTG.pdf>
+File: Figures/04_Penta/02_selection/tmva/plots_run2/overtrain_BDTG.pdf Graphic 
+file (type pdf)
+<use Figures/04_Penta/02_selection/tmva/plots_run2/overtrain_BDTG.pdf>
+File: Figures/04_Penta/02_selection/tmva/plots_run1/mvaeffs_BDTG.pdf Graphic fi
+le (type pdf)
+<use Figures/04_Penta/02_selection/tmva/plots_run1/mvaeffs_BDTG.pdf>
+File: Figures/04_Penta/02_selection/tmva/plots_run2/mvaeffs_BDTG.pdf Graphic fi
+le (type pdf)
+<use Figures/04_Penta/02_selection/tmva/plots_run2/mvaeffs_BDTG.pdf>
+) (./chap/04_Mass_fit.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Underfull \vbox (badness 5607) has occurred while \output is active []
+
+ [192]
+[193]
+File: Figures/04_Penta/03_mass_fit/phy_bkg.pdf Graphic file (type pdf)
+<use Figures/04_Penta/03_mass_fit/phy_bkg.pdf>
+File: Figures/04_Penta/03_mass_fit/Lb_Jpsippi_run1.pdf Graphic file (type pdf)
+<use Figures/04_Penta/03_mass_fit/Lb_Jpsippi_run1.pdf>
+File: Figures/04_Penta/03_mass_fit/Lb_Jpsippi_run2.pdf Graphic file (type pdf)
+<use Figures/04_Penta/03_mass_fit/Lb_Jpsippi_run2.pdf>
+File: Figures/04_Penta/03_mass_fit/dlz-point.pdf Graphic file (type pdf)
+<use Figures/04_Penta/03_mass_fit/dlz-point.pdf>
+File: Figures/04_Penta/03_mass_fit/dlzk-point.pdf Graphic file (type pdf)
+<use Figures/04_Penta/03_mass_fit/dlzk-point.pdf>
+) (./chap/04_likelihood.tex [194] [195]
+
+LaTeX Warning: Text page 196 contains only floats.
+
+
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [196]
+[197]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 146.
+
+[198]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [199]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 240.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 240.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 240.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 240.
+
+) (./chap/09_Zcs_appendix.tex [200]
+Appendix C
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightarrow' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mskip' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\psi' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\phi' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 3.
+
+File: Figures/03_Zcs/app_moments/shyphi0.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shyphi0.pdf>
+File: Figures/03_Zcs/app_moments/shyphi1.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shyphi1.pdf>
+File: Figures/03_Zcs/app_moments/shyphi2.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shyphi2.pdf>
+File: Figures/03_Zcs/app_moments/shyphi3.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shyphi3.pdf>
+File: Figures/03_Zcs/app_moments/shyphi4.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shyphi4.pdf>
+File: Figures/03_Zcs/app_moments/shyphi5.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shyphi5.pdf>
+File: Figures/03_Zcs/app_moments/shykst0.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shykst0.pdf>
+File: Figures/03_Zcs/app_moments/shykst1.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shykst1.pdf>
+File: Figures/03_Zcs/app_moments/shykst2.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shykst2.pdf>
+File: Figures/03_Zcs/app_moments/shykst3.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shykst3.pdf>
+File: Figures/03_Zcs/app_moments/shykst4.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shykst4.pdf>
+File: Figures/03_Zcs/app_moments/shykst5.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shykst5.pdf>
+File: Figures/03_Zcs/app_moments/shy1z0.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shy1z0.pdf>
+File: Figures/03_Zcs/app_moments/shy1z1.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shy1z1.pdf>
+File: Figures/03_Zcs/app_moments/shy1z2.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shy1z2.pdf>
+File: Figures/03_Zcs/app_moments/shy1z3.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shy1z3.pdf>
+File: Figures/03_Zcs/app_moments/shy1z4.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shy1z4.pdf>
+File: Figures/03_Zcs/app_moments/shy1z5.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_moments/shy1z5.pdf>
+[201
+
+] [202]
+File: Figures/03_Zcs/app_MI/A2_Z1P.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/A2_Z1P.pdf>
+File: Figures/03_Zcs/app_MI/Ph_Z1P.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/Ph_Z1P.pdf>
+File: Figures/03_Zcs/app_MI/Argand_Z1P.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/Argand_Z1P.pdf>
+File: Figures/03_Zcs/app_MI/A2_X1P_same.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/A2_X1P_same.pdf>
+File: Figures/03_Zcs/app_MI/Ph_X1P_same.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/Ph_X1P_same.pdf>
+File: Figures/03_Zcs/app_MI/A2_X0P_same.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/A2_X0P_same.pdf>
+File: Figures/03_Zcs/app_MI/Ph_X0P_same.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/Ph_X0P_same.pdf>
+File: Figures/03_Zcs/app_MI/Argand_X1P_same.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/Argand_X1P_same.pdf>
+File: Figures/03_Zcs/app_MI/Argand_X0P_same.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/Argand_X0P_same.pdf>
+File: Figures/03_Zcs/app_MI/A2_X1M.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/A2_X1M.pdf>
+File: Figures/03_Zcs/app_MI/Ph_X1M.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/Ph_X1M.pdf>
+File: Figures/03_Zcs/app_MI/A2_X2M.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/A2_X2M.pdf>
+File: Figures/03_Zcs/app_MI/Ph_X2M.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/Ph_X2M.pdf>
+File: Figures/03_Zcs/app_MI/Argand_X1M.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/Argand_X1M.pdf>
+File: Figures/03_Zcs/app_MI/Argand_X2M.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_MI/Argand_X2M.pdf>
+ [203] [204] [205] [206]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\phi' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 220.
+
+File: Figures/03_Zcs/app_non_phi/phi_sideband_mjpsik_1d.pdf Graphic file (type 
+pdf)
+<use Figures/03_Zcs/app_non_phi/phi_sideband_mjpsik_1d.pdf>
+File: Figures/03_Zcs/app_non_phi/phi_sideband_mjpsiphi_1d.pdf Graphic file (typ
+e pdf)
+<use Figures/03_Zcs/app_non_phi/phi_sideband_mjpsiphi_1d.pdf>
+File: Figures/03_Zcs/app_non_phi/phi_sideband_mphik_1d.pdf Graphic file (type p
+df)
+<use Figures/03_Zcs/app_non_phi/phi_sideband_mphik_1d.pdf>
+File: Figures/03_Zcs/app_non_phi/mjpsik_in_mjpsiphi_strip.pdf Graphic file (typ
+e pdf)
+<use Figures/03_Zcs/app_non_phi/mjpsik_in_mjpsiphi_strip.pdf>
+File: Figures/03_Zcs/app_non_phi/phi_sideband_mjpsik2_mjpsiphi2.pdf Graphic fil
+e (type pdf)
+<use Figures/03_Zcs/app_non_phi/phi_sideband_mjpsik2_mjpsiphi2.pdf>
+File: Figures/03_Zcs/app_non_phi/phi_sideband_mjpsik2_mphik2.pdf Graphic file (
+type pdf)
+<use Figures/03_Zcs/app_non_phi/phi_sideband_mjpsik2_mphik2.pdf>
+File: Figures/03_Zcs/app_non_phi/phi_sideband_mphik2_mjpsiphi2.pdf Graphic file
+ (type pdf)
+<use Figures/03_Zcs/app_non_phi/phi_sideband_mphik2_mjpsiphi2.pdf>
+[207]
+File: Figures/03_Zcs/app_Kmatrix/mphik-X2mZ1PKM.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_Kmatrix/mphik-X2mZ1PKM.pdf>
+File: Figures/03_Zcs/app_Kmatrix/mjpsiphi-X2mZ1PKM.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_Kmatrix/mjpsiphi-X2mZ1PKM.pdf>
+File: Figures/03_Zcs/app_Kmatrix/mjpsik-X2mZ1PKM.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_Kmatrix/mjpsik-X2mZ1PKM.pdf>
+ [208]
+File: Figures/03_Zcs/app_more_Kmatrix/mphik-GoodNew.pdf Graphic file (type pdf)
+
+<use Figures/03_Zcs/app_more_Kmatrix/mphik-GoodNew.pdf>
+File: Figures/03_Zcs/app_more_Kmatrix/mjpsiphi-GoodNew.pdf Graphic file (type p
+df)
+<use Figures/03_Zcs/app_more_Kmatrix/mjpsiphi-GoodNew.pdf>
+File: Figures/03_Zcs/app_more_Kmatrix/mjpsik-GoodNew.pdf Graphic file (type pdf
+)
+<use Figures/03_Zcs/app_more_Kmatrix/mjpsik-GoodNew.pdf>
+
+Underfull \hbox (badness 7576) in paragraph at lines 337--337
+[]\T1/ntxtlf/m/n/10.53937 Figure C.16 |Fit pro-jec-tions of (a) $\OML/ntxmi/m/i
+t/10.53937 m[]$\T1/ntxtlf/m/n/10.53937 , (b) $\OML/ntxmi/m/it/10.53937 m[]$\T1/
+ntxtlf/m/n/10.53937 , (c) $\OML/ntxmi/m/it/10.53937 m[]$ \T1/ntxtlf/m/n/10.5393
+7 from the nom-i-nal
+ []
+
+) (./chap/09_Zcs_appendix_2.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 4.
+
+[209]
+File: Figures/03_Zcs/app_sideband/mphik.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/mphik.pdf>
+File: Figures/03_Zcs/app_sideband/mjpsiphi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/mjpsiphi.pdf>
+File: Figures/03_Zcs/app_sideband/mjpsik.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/mjpsik.pdf>
+File: Figures/03_Zcs/app_sideband/cosTheta_Kst.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/cosTheta_Kst.pdf>
+File: Figures/03_Zcs/app_sideband/X_cosTheta_X.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/X_cosTheta_X.pdf>
+File: Figures/03_Zcs/app_sideband/Z_cosTheta_Z.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/Z_cosTheta_Z.pdf>
+File: Figures/03_Zcs/app_sideband/cosTheta_psi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/cosTheta_psi.pdf>
+File: Figures/03_Zcs/app_sideband/X_cosTheta_psi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/X_cosTheta_psi.pdf>
+File: Figures/03_Zcs/app_sideband/Z_cosTheta_psi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/Z_cosTheta_psi.pdf>
+File: Figures/03_Zcs/app_sideband/cosTheta_phi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/cosTheta_phi.pdf>
+File: Figures/03_Zcs/app_sideband/X_cosTheta_phi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/X_cosTheta_phi.pdf>
+File: Figures/03_Zcs/app_sideband/Z_cosTheta_phi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/Z_cosTheta_phi.pdf>
+File: Figures/03_Zcs/app_sideband/phi_psiKst.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/phi_psiKst.pdf>
+File: Figures/03_Zcs/app_sideband/X_phi_K.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/X_phi_K.pdf>
+File: Figures/03_Zcs/app_sideband/Z_phi_Zphi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/Z_phi_Zphi.pdf>
+File: Figures/03_Zcs/app_sideband/phi_K.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/phi_K.pdf>
+File: Figures/03_Zcs/app_sideband/X_phi_mu.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/X_phi_mu.pdf>
+File: Figures/03_Zcs/app_sideband/Z_phi_mu.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/Z_phi_mu.pdf>
+
+
+LaTeX Warning: Reference `sec:sys' on page 210 undefined on input line 62.
+
+File: Figures/03_Zcs/app_sideband/mphik.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/mphik.pdf>
+File: Figures/03_Zcs/app_sideband/mjpsiphi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/mjpsiphi.pdf>
+File: Figures/03_Zcs/app_sideband/mjpsik.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/mjpsik.pdf>
+File: Figures/03_Zcs/app_sideband/cosTheta_Kst.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/cosTheta_Kst.pdf>
+File: Figures/03_Zcs/app_sideband/X_cosTheta_X.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/X_cosTheta_X.pdf>
+File: Figures/03_Zcs/app_sideband/Z_cosTheta_Z.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/Z_cosTheta_Z.pdf>
+File: Figures/03_Zcs/app_sideband/cosTheta_psi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/cosTheta_psi.pdf>
+File: Figures/03_Zcs/app_sideband/X_cosTheta_psi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/X_cosTheta_psi.pdf>
+File: Figures/03_Zcs/app_sideband/Z_cosTheta_psi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/Z_cosTheta_psi.pdf>
+File: Figures/03_Zcs/app_sideband/cosTheta_phi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/cosTheta_phi.pdf>
+File: Figures/03_Zcs/app_sideband/X_cosTheta_phi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/X_cosTheta_phi.pdf>
+File: Figures/03_Zcs/app_sideband/Z_cosTheta_phi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/Z_cosTheta_phi.pdf>
+File: Figures/03_Zcs/app_sideband/phi_psiKst.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/phi_psiKst.pdf>
+File: Figures/03_Zcs/app_sideband/X_phi_mu.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/X_phi_mu.pdf>
+File: Figures/03_Zcs/app_sideband/Z_phi_Zphi.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/Z_phi_Zphi.pdf>
+File: Figures/03_Zcs/app_sideband/phi_K.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/phi_K.pdf>
+File: Figures/03_Zcs/app_sideband/X_phi_K.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/X_phi_K.pdf>
+File: Figures/03_Zcs/app_sideband/Z_phi_mu.pdf Graphic file (type pdf)
+<use Figures/03_Zcs/app_sideband/Z_phi_mu.pdf>
+) [210] [211] [212] [213
+
+
+]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 7.0pt on input line 236.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 5.0pt on input line 236.
+ [214]
+Overfull \hbox (46.84946pt too wide) in paragraph at lines 236--236
+\T1/ntxtlf/b/n/10.53937 2007\T1/ntxtlf/m/n/10.53937 , \T1/ntxtlf/m/it/10.53937 
+58\T1/ntxtlf/m/n/10.53937 (2): 351^^U386. []$\T1/ntxtt/m/n/10.53937 http : / / 
+www . sciencedirect . com / science / article / pii / S0146641006000615$[]\T1/n
+txtlf/m/n/10.53937 . 
+ []
+
+[215]
+Overfull \hbox (65.10246pt too wide) in paragraph at lines 236--236
+[]\T1/ntxtlf/m/n/10.53937 Thomas Brit-ton. \T1/ntxtlf/m/it/10.53937 First am-pl
+i-tude anal-y-sis of $\OML/ntxmi/m/it/10.53937 B[] \LMS/ntxsy/m/n/10.53937 ! []
+\OML/ntxmi/m/it/10.53937 ^^^K[]$ \T1/ntxtlf/m/it/10.53937 de-cays \T1/ntxtlf/m/
+n/10.53937 [phdthe-sis]. \T1/ntxtlf/b/n/10.53937 2016\T1/ntxtlf/m/n/10.53937 , 
+[]https://surface.syr.edu/etd/510[]. 
+ []
+
+[216]
+
+Package biblatex Warning: No driver for entry type ''.
+(biblatex)                Using fallback driver on input line 236.
+
+
+Overfull \hbox (7.41518pt too wide) in paragraph at lines 236--236
+[]\T1/ntxtlf/m/n/10.53937 Yubing Dong, Amand Faessler, Thomas Gutsche \T1/ntxtl
+f/m/it/10.53937 et al. \T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 J/$\U
+/eur/m/n/10.53937  $$^^M$ \T1/ntxtlf/m/it/10.53937 and $\U/eur/m/n/10.53937  $\
+T1/ntxtlf/m/it/10.53937 (2S)$\U/eur/m/n/10.53937 ^^M$ \T1/ntxtlf/m/it/10.53937 
+de-cay modes of theX(3872)\T1/ntxtlf/m/n/10.53937 ''.
+ []
+
+
+Package biblatex Warning: No driver for entry type ''.
+(biblatex)                Using fallback driver on input line 236.
+
+[217]
+
+Package biblatex Warning: No driver for entry type ''.
+(biblatex)                Using fallback driver on input line 236.
+
+Missing character: There is no η in font ntx-Italic-tlf-t1!
+[218]
+
+Package biblatex Warning: No driver for entry type ''.
+(biblatex)                Using fallback driver on input line 236.
+
+
+Package biblatex Warning: No driver for entry type ''.
+(biblatex)                Using fallback driver on input line 236.
+
+
+Package biblatex Warning: No driver for entry type ''.
+(biblatex)                Using fallback driver on input line 236.
+
+
+Package biblatex Warning: No driver for entry type ''.
+(biblatex)                Using fallback driver on input line 236.
+
+
+Package biblatex Warning: No driver for entry type ''.
+(biblatex)                Using fallback driver on input line 236.
+
+[219] [220] [221] [222]
+\openout2 = `chap/ack.aux'.
+
+ (./chap/ack.tex) [223
+
+
+]
+\openout2 = `chap/resume.aux'.
+
+ (./chap/resume.tex [224
+
+
+
+])
+[225]
+\openout2 = `chap/origin.aux'.
+
+ (./chap/origin.tex [226
+
+
+
+]) [227]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
+ (./thesis.aux (./chap/newTitle.aux)
+(./chap/copy.aux) (./chap/abs.aux) (./chap/ack.aux) (./chap/resume.aux)
+(./chap/origin.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 247.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 247.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: A90DB05AD60299A395E5DE6399E65990;25982.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package logreq Info: Writing requests to 'thesis.run.xml'.
+\openout1 = `thesis.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 44004 strings out of 479418
+ 963130 string characters out of 5884585
+ 2422410 words of memory out of 5000000
+ 60262 multiletter control sequences out of 15000+600000
+ 708487 words of font info for 251 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 68i,29n,110p,3094b,4846s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on thesis.pdf (261 pages).

@@ -1,0 +1,1193 @@
+
+@article{BETHKE2007351,
+title = "Experimental tests of asymptotic freedom",
+journal = "Progress in Particle and Nuclear Physics",
+volume = "58",
+number = "2",
+pages = "351 - 386",
+year = "2007",
+issn = "0146-6410",
+doi = "https://doi.org/10.1016/j.ppnp.2006.06.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0146641006000615",
+author = "S. Bethke",
+abstract = "Quantum chromodynamics (QCD), the gauge field theory of strong interaction, has specific features, asymptotic freedom and confinement, which determine the behaviour of quarks and gluons in particle reactions at high and low energy scales. QCD predicts that the strong coupling strength αs decreases with increasing energy or momentum transfer, and vanishes at asymptotically high energies. In this review, the history and status of experimental tests of asymptotic freedom are summarized. The world summary of measurements of αs is updated, leading to an unambiguous verification of the running of αs and of asymptotic freedom, in excellent agreement with the predictions of QCD. Averaging a set of measurements balanced between different particle processes and the available energy range, results in a new and improved world average of αs(MZ0)=0.1189±0.0010."
+}
+
+
+%%%% Theta experiment 
+
+@article{PhysRevLett.91.012002,
+  title = {Evidence for a Narrow $S=+1$ Baryon Resonance in Photoproduction from the Neutron},
+  author = {Nakano, T. and Ahn, D. S. and Ahn, J. K. and Akimune, H. and Asano, Y. and Chang, W. C. and Dat\'e, S. and Ejiri, H. and Fujimura, H. and Fujiwara, M. and Hicks, K. and Hotta, T. and Imai, K. and Ishikawa, T. and Iwata, T. and Kawai, H. and Kim, Z. Y. and Kino, K. and Kohri, H. and Kumagai, N. and Makino, S. and Matsumura, T. and Matsuoka, N. and Mibe, T. and Miwa, K. and Miyabe, M. and Miyachi, Y. and Morita, M. and Muramatsu, N. and Niiyama, M. and Nomachi, M. and Ohashi, Y. and Ooba, T. and Ohkuma, H. and Oshuev, D. S. and Rangacharyulu, C. and Sakaguchi, A. and Sasaki, T. and Shagin, P. M. and Shiino, Y. and Shimizu, H. and Sugaya, Y. and Sumihama, M. and Toyokawa, H. and Wakai, A. and Wang, C. W. and Wang, S. C. and Yonehara, K. and Yorita, T. and Yoshimura, M. and Yosoi, M. and Zegers, R. G. T.},
+  journal = {Phys. Rev. Lett.},
+  volume = {91},
+  issue = {1},
+  pages = {012002},
+  numpages = {4},
+  year = {2003},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.91.012002},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.91.012002}
+}
+
+
+@article{doi:10.1142/S0217751X04019676,
+author = {ZHU, SHI-LIN},
+title = {PENTAQUARKS},
+journal = {International Journal of Modern Physics A},
+volume = {19},
+number = {21},
+pages = {3439-3469},
+year = {2004},
+doi = {10.1142/S0217751X04019676},
+
+URL = { 
+        https://doi.org/10.1142/S0217751X04019676
+    
+},
+eprint = { 
+        https://doi.org/10.1142/S0217751X04019676
+    
+}
+,
+    abstract = { Since LEPS collaboration reported the first evidence of Θ+ pentaquark in early 2003, eleven other experimental groups have confirmed this exotic state while many other groups did not see any signal. If this state is further established by future high statistical experiments, its discovery shall be one of the most important events in hadron physics for the past three decades. This exotic baryon with such a low mass and so narrow a width imposes a big challenge to hadron theorists. Up to now, there have appeared more than two hundred theoretical papers trying to interpret this charming state. I will review some important theoretical developments on pentaquarks based on my biased personal views. }
+}
+
+
+
+@article{doi:10.1142/S0217751X14300208,
+author = {Liu, Tianbo and Mao, Yajun and Ma, Bo-Qiang},
+title = {Present status on experimental search for pentaquarks},
+journal = {International Journal of Modern Physics A},
+volume = {29},
+number = {13},
+pages = {1430020},
+year = {2014},
+doi = {10.1142/S0217751X14300208},
+
+URL = { 
+        https://doi.org/10.1142/S0217751X14300208
+    
+},
+eprint = { 
+        https://doi.org/10.1142/S0217751X14300208
+    
+}
+,
+    abstract = { It has been ten years since the first report for a positive strangeness pentaquark-like baryon state. However, the existence of the pentaquark state is still controversial. Some contradictions between the experiments are unsolved. In this paper, we review the experimental search for the pentaquark candidates Θ+, Θ++, Ξ- -, \$\Theta\_c^0\$ and N* in detail. We review the experiments with positive results and compare the experiments with similar conditions but opposite results. }
+}
+
+
+@article{PhysRevLett.105.092001,
+  title = {Novel Interpretation of the ``${\ensuremath{\Theta}}^{+}(1540)$ Pentaquark'' Peak},
+  author = {Mart\'{\i}nez Torres, A. and Oset, E.},
+  journal = {Phys. Rev. Lett.},
+  volume = {105},
+  issue = {9},
+  pages = {092001},
+  numpages = {4},
+  year = {2010},
+  month = {Aug},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.105.092001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.105.092001}
+}
+
+
+@article{PhysRevLett.91.262001,
+  title = {Observation of a Narrow Charmoniumlike State in Exclusive ${B}^{\ifmmode\pm\else\textpm\fi{}}\ensuremath{\rightarrow}{K}^{\ifmmode\pm\else\textpm\fi{}}{\ensuremath{\pi}}^{+}{\ensuremath{\pi}}^{\ensuremath{-}}J/\ensuremath{\psi}$ Decays},
+  author = {Choi, S.-K. and Olsen, S. L. and Abe, K. and Abe, T. and Adachi, I. and Ahn, Byoung Sup and Aihara, H. and Akai, K. and Akatsu, M. and Akemoto, M. and Asano, Y. and Aso, T. and Aulchenko, V. and Aushev, T. and Bakich, A. M. and Ban, Y. and Banerjee, S. and Bondar, A. and Bozek, A. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Brodzicka, J. and Browder, T. E. and Chang, P. and Chao, Y. and Chen, K.-F. and Cheon, B. G. and Chistov, R. and Choi, Y. and Choi, Y. K. and Danilov, M. and Dong, L. Y. and Drutskoy, A. and Eidelman, S. and Eiges, V. and Flanagan, J. and Fukunaga, C. and Furukawa, K. and Gabyshev, N. and Gershon, T. and Golob, B. and Guler, H. and Guo, R. and Hagner, C. and Handa, F. and Hara, T. and Hastings, N. C. and Hayashii, H. and Hazumi, M. and Hinz, L. and Hoshi, Y. and Hou, W.-S. and Hsiung, Y. B. and Huang, H.-C. and Iijima, T. and Inami, K. and Ishikawa, A. and Itoh, R. and Iwasaki, M. and Iwasaki, Y. and Kang, J. H. and Kataoka, S. U. and Katayama, N. and Kawai, H. and Kawasaki, T. and Kichimi, H. and Kikutani, E. and Kim, H. J. and Kim, Hyunwoo and Kim, J. H. and Kim, S. K. and Kinoshita, K. and Koiso, H. and Koppenburg, P. and Korpar, S. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kumar, S. and Kuzmin, A. and Lange, J. S. and Leder, G. and Lee, S. H. and Lesiak, T. and Lin, S.-W. and Liventsev, D. and MacNaughton, J. and Majumder, G. and Mandl, F. and Marlow, D. and Matsumoto, T. and Michizono, S. and Mimashi, T. and Mitaroff, W. and Miyabayashi, K. and Miyake, H. and Mohapatra, D. and Moloney, G. R. and Nagamine, T. and Nagasaka, Y. and Nakadaira, T. and Nakamura, T. T. and Nakao, M. and Natkaniec, Z. and Nishida, S. and Nitoh, O. and Nozaki, T. and Ogawa, S. and Ogawa, Y. and Ohmi, K. and Ohnishi, Y. and Ohshima, T. and Ohuchi, N. and Oide, K. and Okabe, T. and Okuno, S. and Ostrowicz, W. and Ozaki, H. and Palka, H. and Park, H. and Parslow, N. and Piilonen, L. E. and Sagawa, H. and Saitoh, S. and Sakai, Y. and Sarangi, T. R. and Satapathy, M. and Satpathy, A. and Schneider, O. and Schwartz, A. J. and Semenov, S. and Senyo, K. and Seuster, R. and Sevior, M. E. and Shibuya, H. and Shidara, T. and Shwartz, B. and Sidorov, V. and Soni, N. and Stani\ifmmode \check{c}\else \v{c}\fi{}, S. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Sugiyama, A. and Sumiyoshi, T. and Suzuki, S. and Takasaki, F. and Tamai, K. and Tamura, N. and Tanaka, M. and Tawada, M. and Taylor, G. N. and Teramoto, Y. and Tomura, T. and Trabelsi, K. and Tsukamoto, T. and Uehara, S. and Ueno, K. and Unno, Y. and Uno, S. and Varner, G. and Varvell, K. E. and Wang, C. C. and Wang, C. H. and Wang, J. G. and Watanabe, Y. and Won, E. and Yabsley, B. D. and Yamada, Y. and Yamaguchi, A. and Yamashita, Y. and Yanai, H. and Yang, Heyoung and Ying, J. and Yoshida, M. and Zhang, C. C. and Zhang, Z. P. and \ifmmode \check{Z}\else \v{Z}\fi{}ontar, D.},
+  collaboration = {Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {91},
+  issue = {26},
+  pages = {262001},
+  numpages = {6},
+  year = {2003},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.91.262001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.91.262001}
+}
+
+
+@article{Olsen:2017bmm,
+    author = "Olsen, Stephen Lars and Skwarnicki, Tomasz and Zieminska, Daria",
+    title = "{Nonstandard heavy mesons and baryons: Experimental evidence}",
+    eprint = "1708.04012",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    doi = "10.1103/RevModPhys.90.015003",
+    journal = "Rev. Mod. Phys.",
+    volume = "90",
+    number = "1",
+    pages = "015003",
+    year = "2018"
+}
+
+
+@article{LIU2019237,
+title = "Pentaquark and Tetraquark States",
+journal = "Progress in Particle and Nuclear Physics",
+volume = "107",
+pages = "237 - 320",
+year = "2019",
+issn = "0146-6410",
+doi = "https://doi.org/10.1016/j.ppnp.2019.04.003",
+url = "http://www.sciencedirect.com/science/article/pii/S0146641019300304",
+author = "Yan-Rui Liu and Hua-Xing Chen and Wei Chen and Xiang Liu and Shi-Lin Zhu",
+keywords = "Pentaquark, Tetraquark, Multiquark states, Molecular states",
+abstract = "The past seventeen years have witnessed tremendous progress on the experimental and theoretical explorations of the multiquark states. The hidden-charm and hidden-bottom multiquark systems were reviewed extensively in Ref. [1]. In this article, we shall update the experimental and theoretical efforts on the hidden heavy flavor multiquark systems in the past three years. Especially the LHCb collaboration not only confirmed the existence of the hidden-charm pentaquarks but also provided strong evidence of the molecular picture. Besides the well-known XYZ and Pc states, we shall discuss more interesting tetraquark and pentaquark systems either with one, two, three or even four heavy quarks. Some very intriguing states include the fully heavy exotic tetraquark states QQQ̄Q̄ and doubly heavy tetraquark states QQq̄q̄, where Q is a heavy quark. The QQQ̄Q̄ states may be produced at LHC while the QQq̄q̄ system may be searched for at BelleII and LHCb. Moreover, we shall pay special attention to various theoretical schemes such as the chromomagnetic interaction (CMI), constituent quark model, meson exchange model, heavy quark and heavy diquark symmetry, QCD sum rules, Faddeev equation for the three body systems, Skyrme model and the chiral quark-soliton model, and the lattice QCD simulations. We shall emphasize the model-independent predictions of various models which are truly/closely related to Quantum Chromodynamics (QCD). For example, the chromomagnetic interaction arises from the gluon exchange which is fundamental and universal in QCD and responsible for the mixing and mass splitting of the conventional mesons and baryons within the same multiplet. The same CMI mechanism shall also be responsible for the mixing of the different color configurations and mass splittings within the multiplets in the multiquark sector. There have also accumulated many lattice QCD simulations through multiple channel scattering on the lattice in recent years, which provide deep insights into the underlying structure/dynamics of the XYZ states. In terms of the recent Pc states, the lattice simulations of the charmed baryon and anti-charmed meson scattering are badly needed. We shall also discuss some important states which may be searched for at BESIII, BelleII and LHCb in the coming years."
+}
+
+
+@article{SWANSON2004189,
+title = "Short range structure in the X(3872)",
+journal = "Physics Letters B",
+volume = "588",
+number = "3",
+pages = "189 - 195",
+year = "2004",
+issn = "0370-2693",
+doi = "https://doi.org/10.1016/j.physletb.2004.03.033",
+url = "http://www.sciencedirect.com/science/article/pii/S0370269304004599",
+author = "Eric S. Swanson",
+abstract = "It is proposed that the newly discovered X(3872) is a JPC=1++ D0D̄0∗ hadronic resonance stabilized by admixtures of ωJ/ψ and ρJ/ψ. A specific model of the state is constructed and tests of its internal structure are suggested via the predicted decay modes D0D̄0π0, D0D̄0γ, π+π−J/ψ, and π+π−π0J/ψ."
+}
+
+
+@article{SWANSON2004197,
+title = "Diagnostic decays of the X(3872)",
+journal = "Physics Letters B",
+volume = "598",
+number = "3",
+pages = "197 - 202",
+year = "2004",
+issn = "0370-2693",
+doi = "https://doi.org/10.1016/j.physletb.2004.07.059",
+url = "http://www.sciencedirect.com/science/article/pii/S0370269304011463",
+author = "Eric S. Swanson",
+abstract = "The unusual properties of the X(3872) have led to speculation that it is a weakly bound state of mesons, chiefly D0D¯0*. Tests of this hypothesis are investigated and it is proposed that measuring the 3πJ/ψ, γJ/ψ, γψ′, K¯K*, and πρ decay modes of the X will serve as a definitive diagnostic of the molecule hypothesis."
+}
+
+
+@article{Dong_2010,
+	doi = {10.1088/0954-3899/38/1/015001},
+	url = {https://doi.org/10.1088/0954-3899/38/1/015001},
+	year = 2010,
+	month = {nov},
+	publisher = {{IOP} Publishing},
+	volume = {38},
+	number = {1},
+	pages = {015001},
+	author = {Yubing Dong and Amand Faessler and Thomas Gutsche and Valery E Lyubovitskij},
+	title = {J/$\uppsi$$\upgamma$ and $\uppsi$(2S)$\upgamma$ decay modes of {theX}(3872)},
+	journal = {Journal of Physics G: Nuclear and Particle Physics},
+	abstract = {The X(3872) with quantum numbers JPC = 1++ is considered as a composite state containing both molecular hadronic and a component. Based on this structure assumption we first constrain model parameters in order to reproduce the predictions for the radiative decay widths of X(3872) → J/ψγ and X(3872) → ψ(2S)γ as obtained in potential models. Depending on these predictions we find that further inclusion of the molecular component can in principle lead to an improved description of the radiative X(3872) decays. We also show that strong decay modes of the X(3872) and, in particular, the ratio of radiative (J/ψγ) to strong (J/ψπ+π−) decays hint toward a subleading role of the component in the X(3872).}
+}
+
+
+
+@article{PhysRevLett.103.162001,
+  title = {Is the $X(3872)$ Production Cross Section at $\sqrt{s}\mathbf{=}1.96\text{ }\text{ }\mathrm{TeV}$ Compatible with a Hadron Molecule Interpretation?},
+  author = {Bignamini, C. and Grinstein, B. and Piccinini, F. and Polosa, A. D. and Sabelli, C.},
+  journal = {Phys. Rev. Lett.},
+  volume = {103},
+  issue = {16},
+  pages = {162001},
+  numpages = {4},
+  year = {2009},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.103.162001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.103.162001}
+}
+
+@article{PhysRevLett.94.182002,
+  title = {Observation of a Near-Threshold $\ensuremath{\omega}J/\ensuremath{\psi}$ Mass Enhancement in Exclusive $B\ensuremath{\rightarrow}K\ensuremath{\omega}J/\ensuremath{\psi}$ Decays},
+  author = {Choi, S.-K. and Olsen, S. L. and Abe, K. and Abe, K. and Adachi, I. and Aihara, H. and Asano, Y. and Bahinipati, S. and Bakich, A. M. and Ban, Y. and Bedny, I. and Bitenc, U. and Bizjak, I. and Bondar, A. and Bozek, A. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Brodzicka, J. and Browder, T. E. and Chang, M.-C. and Chang, P. and Chen, A. and Chen, W. T. and Cheon, B. G. and Chistov, R. and Choi, Y. and Chuvikov, A. and Cole, S. and Dalseno, J. and Danilov, M. and Dash, M. and Drutskoy, A. and Eidelman, S. and Enari, Y. and Fang, F. and Fratina, S. and Gabyshev, N. and Gershon, T. and Gokhroo, G. and Golob, B. and Hara, T. and Hastings, N. C. and Hayasaka, K. and Hayashii, H. and Hazumi, M. and Hinz, L. and Hokuue, T. and Hoshi, Y. and Hou, S. and Hou, W.-S. and Hsiung, Y. B. and Iijima, T. and Imoto, A. and Inami, K. and Ishikawa, A. and Iwasaki, M. and Iwasaki, Y. and Kang, J. H. and Kang, J. S. and Kataoka, S. U. and Katayama, N. and Kawai, H. and Kawasaki, T. and Khan, H. R. and Kichimi, H. and Kim, H. J. and Kim, S. M. and Kinoshita, K. and Korpar, S. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kuo, C. C. and Kuzmin, A. and Kwon, Y.-J. and Lange, J. S. and Lee, S. E. and Lee, S. H. and Lesiak, T. and Li, J. and Lin, S.-W. and Liventsev, D. and Majumder, G. and Matsumoto, T. and Matyja, A. and Mitaroff, W. and Miyabayashi, K. and Miyata, H. and Mizuk, R. and Mohapatra, D. and Moloney, G. R. and Nakano, E. and Nakao, M. and Nakazawa, H. and Nishida, S. and Nitoh, O. and Ogawa, S. and Ohshima, T. and Okabe, T. and Okuno, S. and Ostrowicz, W. and Palka, H. and Park, C. W. and Parslow, N. and Pestotnik, R. and Piilonen, L. E. and Rozanska, M. and Sagawa, H. and Sakai, Y. and Sato, N. and Schietinger, T. and Schneider, O. and Schwanda, C. and Shibuya, H. and Shwartz, B. and Somov, A. and Soni, N. and Stani\ifmmode \check{c}\else \v{c}\fi{}, S. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Sumiyoshi, T. and Suzuki, S. and Suzuki, S. Y. and Tajima, O. and Takasaki, F. and Tamai, K. and Tamura, N. and Teramoto, Y. and Tian, X. C. and Trabelsi, K. and Uehara, S. and Uglov, T. and Uno, S. and Varner, G. and Varvell, K. E. and Villa, S. and Wang, C. H. and Wang, M.-Z. and Watanabe, M. and Yabsley, B. D. and Yamaguchi, A. and Yamashita, Y. and Yamauchi, M. and Yang, Heyoung and Yuan, Y. and Yusa, Y. and Zhang, C. C. and Zhang, J. and Zhang, L. M. and Zhang, Z. P. and \ifmmode \check{Z}\else \v{Z}\fi{}ontar, D. and Z\"urcher, D.},
+  collaboration = {Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {94},
+  issue = {18},
+  pages = {182002},
+  numpages = {6},
+  year = {2005},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.94.182002},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.94.182002}
+}
+
+
+@article{PhysRevD.82.011101,
+  title = {Evidence for the decay $X(3872)\ensuremath{\rightarrow}J/\ensuremath{\psi}\ensuremath{\omega}$},
+  author = {del Amo Sanchez, P. and Lees, J. P. and Poireau, V. and Prencipe, E. and Tisserand, V. and Garra Tico, J. and Grauges, E. and Martinelli, M. and Palano, A. and Pappagallo, M. and Eigen, G. and Stugu, B. and Sun, L. and Battaglia, M. and Brown, D. N. and Hooberman, B. and Kerth, L. T. and Kolomensky, Yu. G. and Lynch, G. and Osipenkov, I. L. and Tanabe, T. and Hawkes, C. M. and Watson, A. T. and Koch, H. and Schroeder, T. and Asgeirsson, D. J. and Hearty, C. and Mattison, T. S. and McKenna, J. A. and Khan, A. and Randle-Conde, A. and Blinov, V. E. and Buzykaev, A. R. and Druzhinin, V. P. and Golubev, V. B. and Onuchin, A. P. and Serednyakov, S. I. and Skovpen, Yu. I. and Solodov, E. P. and Todyshev, K. Yu. and Yushkov, A. N. and Bondioli, M. and Curry, S. and Kirkby, D. and Lankford, A. J. and Mandelkern, M. and Martin, E. C. and Stoker, D. P. and Atmacan, H. and Gary, J. W. and Liu, F. and Long, O. and Vitug, G. M. and Campagnari, C. and Hong, T. M. and Kovalskyi, D. and Richman, J. D. and Eisner, A. M. and Heusch, C. A. and Kroseberg, J. and Lockman, W. S. and Martinez, A. J. and Schalk, T. and Schumm, B. A. and Seiden, A. and Winstrom, L. O. and Cheng, C. H. and Doll, D. A. and Echenard, B. and Hitlin, D. G. and Ongmongkolkul, P. and Porter, F. C. and Rakitin, A. Y. and Andreassen, R. and Dubrovin, M. S. and Mancinelli, G. and Meadows, B. T. and Sokoloff, M. D. and Bloom, P. C. and Ford, W. T. and Gaz, A. and Nagel, M. and Nauenberg, U. and Smith, J. G. and Wagner, S. R. and Ayad, R. and Toki, W. H. and Karbach, T. M. and Merkel, J. and Petzold, A. and Spaan, B. and Wacker, K. and Kobel, M. J. and Schubert, K. R. and Schwierz, R. and Bernard, D. and Verderi, M. and Clark, P. J. and Playfer, S. and Watson, J. E. and Andreotti, M. and Bettoni, D. and Bozzi, C. and Calabrese, R. and Cecchi, A. and Cibinetto, G. and Fioravanti, E. and Franchini, P. and Luppi, E. and Munerato, M. and Negrini, M. and Petrella, A. and Piemontese, L. and Baldini-Ferroli, R. and Calcaterra, A. and de Sangro, R. and Finocchiaro, G. and Nicolaci, M. and Pacetti, S. and Patteri, P. and Peruzzi, I. M. and Piccolo, M. and Rama, M. and Zallo, A. and Contri, R. and Guido, E. and Lo Vetere, M. and Monge, M. R. and Passaggio, S. and Patrignani, C. and Robutti, E. and Tosi, S. and Bhuyan, B. and Lee, C. L. and Morii, M. and Adametz, A. and Marks, J. and Schenk, S. and Uwer, U. and Bernlochner, F. U. and Ebert, M. and Lacker, H. M. and Lueck, T. and Volk, A. and Dauncey, P. D. and Tibbetts, M. and Behera, P. K. and Mallik, U. and Chen, C. and Cochran, J. and Crawley, H. B. and Dong, L. and Meyer, W. T. and Prell, S. and Rosenberg, E. I. and Rubin, A. E. and Gao, Y. Y. and Gritsan, A. V. and Guo, Z. J. and Arnaud, N. and Davier, M. and Derkach, D. and Firmino da Costa, J. and Grosdidier, G. and Le Diberder, F. and Lutz, A. M. and Malaescu, B. and Perez, A. and Roudeau, P. and Schune, M. H. and Serrano, J. and Sordini, V. and Stocchi, A. and Wang, L. and Wormser, G. and Lange, D. J. and Wright, D. M. and Bingham, I. and Chavez, C. A. and Coleman, J. P. and Fry, J. R. and Gabathuler, E. and Gamet, R. and Hutchcroft, D. E. and Payne, D. J. and Touramanis, C. and Bevan, A. J. and Di Lodovico, F. and Sacco, R. and Sigamani, M. and Cowan, G. and Paramesvaran, S. and Wren, A. C. and Brown, D. N. and Davis, C. L. and Denig, A. G. and Fritsch, M. and Gradl, W. and Hafner, A. and Alwyn, K. E. and Bailey, D. and Barlow, R. J. and Jackson, G. and Lafferty, G. D. and West, T. J. and Anderson, J. and Cenci, R. and Jawahery, A. and Roberts, D. A. and Simi, G. and Tuggle, J. M. and Dallapiccola, C. and Salvati, E. and Cowan, R. and Dujmic, D. and Fisher, P. H. and Sciolla, G. and Zhao, M. and Lindemann, D. and Patel, P. M. and Robertson, S. H. and Schram, M. and Biassoni, P. and Lazzaro, A. and Lombardo, V. and Palombo, F. and Stracka, S. and Cremaldi, L. and Godang, R. and Kroeger, R. and Sonnek, P. and Summers, D. J. and Nguyen, X. and Simard, M. and Taras, P. and De Nardo, G. and Monorchio, D. and Onorato, G. and Sciacca, C. and Raven, G. and Snoek, H. L. and Jessop, C. P. and Knoepfel, K. J. and LoSecco, J. M. and Wang, W. F. and Corwin, L. A. and Honscheid, K. and Kass, R. and Morris, J. P. and Rahimi, A. M. and Blount, N. L. and Brau, J. and Frey, R. and Igonkina, O. and Kolb, J. A. and Rahmat, R. and Sinev, N. B. and Strom, D. and Strube, J. and Torrence, E. and Castelli, G. and Feltresi, E. and Gagliardi, N. and Margoni, M. and Morandin, M. and Posocco, M. and Rotondo, M. and Simonetto, F. and Stroili, R. and Ben-Haim, E. and Bonneaud, G. R. and Briand, H. and Calderini, G. and Chauveau, J. and Hamon, O. and Leruste, Ph. and Marchiori, G. and Ocariz, J. and Prendki, J. and Sitt, S. and Biasini, M. and Manoni, E. and Rossi, A. and Angelini, C. and Batignani, G. and Bettarini, S. and Carpinelli, M. and Casarosa, G. and Cervelli, A. and Forti, F. and Giorgi, M. A. and Lusiani, A. and Neri, N. and Paoloni, E. and Rizzo, G. and Walsh, J. J. and Lopes Pegna, D. and Lu, C. and Olsen, J. and Smith, A. J. S. and Telnov, A. V. and Anulli, F. and Baracchini, E. and Cavoto, G. and Faccini, R. and Ferrarotto, F. and Ferroni, F. and Gaspero, M. and Li Gioi, L. and Mazzoni, M. A. and Piredda, G. and Renga, F. and Hartmann, T. and Leddig, T. and Schr\"oder, H. and Waldi, R. and Adye, T. and Franek, B. and Olaiya, E. O. and Wilson, F. F. and Emery, S. and Hamel de Monchenault, G. and Vasseur, G. and Y\`eche, Ch. and Zito, M. and Allen, M. T. and Aston, D. and Bard, D. J. and Bartoldus, R. and Benitez, J. F. and Cartaro, C. and Convery, M. R. and Dorfan, J. and Dubois-Felsmann, G. P. and Dunwoodie, W. and Field, R. C. and Franco Sevilla, M. and Fulsom, B. G. and Gabareen, A. M. and Graham, M. T. and Grenier, P. and Hast, C. and Innes, W. R. and Kelsey, M. H. and Kim, H. and Kim, P. and Kocian, M. L. and Leith, D. W. G. S. and Li, S. and Lindquist, B. and Luitz, S. and Luth, V. and Lynch, H. L. and MacFarlane, D. B. and Marsiske, H. and Muller, D. R. and Neal, H. and Nelson, S. and O'Grady, C. P. and Ofte, I. and Perl, M. and Pulliam, T. and Ratcliff, B. N. and Roodman, A. and Salnikov, A. A. and Santoro, V. and Schindler, R. H. and Schwiening, J. and Snyder, A. and Su, D. and Sullivan, M. K. and Sun, S. and Suzuki, K. and Thompson, J. M. and Va'vra, J. and Wagner, A. P. and Weaver, M. and West, C. A. and Wisniewski, W. J. and Wittgen, M. and Wright, D. H. and Wulsin, H. W. and Yarritu, A. K. and Young, C. C. and Ziegler, V. and Chen, X. R. and Park, W. and Purohit, M. V. and White, R. M. and Wilson, J. R. and Sekula, S. J. and Bellis, M. and Burchat, P. R. and Edwards, A. J. and Miyashita, T. S. and Ahmed, S. and Alam, M. S. and Ernst, J. A. and Pan, B. and Saeed, M. A. and Zain, S. B. and Guttman, N. and Soffer, A. and Lund, P. and Spanier, S. M. and Eckmann, R. and Ritchie, J. L. and Ruland, A. M. and Schilling, C. J. and Schwitters, R. F. and Wray, B. C. and Izen, J. M. and Lou, X. C. and Bianchi, F. and Gamba, D. and Pelliccioni, M. and Bomben, M. and Lanceri, L. and Vitale, L. and Lopez-March, N. and Martinez-Vidal, F. and Milanes, D. A. and Oyanguren, A. and Albert, J. and Banerjee, Sw. and Choi, H. H. F. and Hamano, K. and King, G. J. and Kowalewski, R. and Lewczuk, M. J. and Nugent, I. M. and Roney, J. M. and Sobie, R. J. and Gershon, T. J. and Harrison, P. F. and Latham, T. E. and Puccio, E. M. T. and Band, H. R. and Chen, X. and Dasu, S. and Flood, K. T. and Pan, Y. and Prepost, R. and Vuosalo, C. O. and Wu, S. L.},
+  collaboration = {The BABAR Collaboration},
+  journal = {Phys. Rev. D},
+  volume = {82},
+  issue = {1},
+  pages = {011101},
+  numpages = {8},
+  year = {2010},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.82.011101},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.82.011101}
+}
+
+
+
+@article{PhysRevLett.104.092001,
+  title = {Observation of a Charmoniumlike Enhancement in the $\ensuremath{\gamma}\ensuremath{\gamma}\ensuremath{\rightarrow}\ensuremath{\omega}J/\ensuremath{\psi}$ Process},
+  author = {Uehara, S. and Aushev, T. and Bakich, A. M. and Belous, K. and Bhardwaj, V. and Bischofberger, M. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Browder, T. E. and Chang, P. and Chen, A. and Chen, P. and Cheon, B. G. and Chiang, C.-C. and Cho, I.-S. and Choi, S.-K. and Choi, Y. and Dalseno, J. and Drutskoy, A. and Eidelman, S. and Epifanov, D. and Feindt, M. and Gabyshev, N. and Ha, H. and Haba, J. and Hayasaka, K. and Hayashii, H. and Hoshi, Y. and Hou, W.-S. and Hsiung, Y. B. and Hyun, H. J. and Inami, K. and Itoh, R. and Iwabuchi, M. and Iwasaki, M. and Iwasaki, Y. and Joshi, N. J. and Kang, J. H. and Kawasaki, T. and Kiesling, C. and Kim, H. J. and Kim, J. H. and Kim, Y. I. and Kim, Y. J. and Ko, B. R. and Kody\ifmmode \check{s}\else \v{s}\fi{}, P. and Korpar, S. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kumita, T. and Kuzmin, A. and Kwon, Y.-J. and Kyeong, S.-H. and Lange, J. S. and Lee, M. J. and Lee, S.-H. and Li, J. and Liu, C. and Liu, Y. and Liventsev, D. and Louvot, R. and Matyja, A. and McOnie, S. and Miyabayashi, K. and Miyata, H. and Miyazaki, Y. and Mizuk, R. and Mussa, R. and Nakano, E. and Nakao, M. and Nakazawa, H. and Natkaniec, Z. and Nishida, S. and Nitoh, O. and Ogawa, S. and Ohshima, T. and Okuno, S. and Olsen, S. L. and Pakhlov, P. and Pakhlova, G. and Park, C. W. and Park, H. and Park, H. K. and Pestotnik, R. and Petri\ifmmode \check{c}\else \v{c}\fi{}, M. and Piilonen, L. E. and R\"ohrken, M. and Ryu, S. and Sahoo, H. and Sakai, Y. and Schneider, O. and Schwanda, C. and Sevior, M. E. and Shapkin, M. and Shen, C. P. and Shiu, J.-G. and Shwartz, B. and Singh, J. B. and Smerkol, P. and Solovieva, E. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Teramoto, Y. and Trabelsi, K. and Unno, Y. and Uno, S. and Urquijo, P. and Varner, G. and Vervink, K. and Wang, C. H. and Wang, P. and Watanabe, Y. and Wedd, R. and Won, E. and Yabsley, B. D. and Yamashita, Y. and Yuan, C. Z. and Zhang, C. C. and Zivko, T. and Zyukova, O.},
+  collaboration = {Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {104},
+  issue = {9},
+  pages = {092001},
+  numpages = {6},
+  year = {2010},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.104.092001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.104.092001}
+}
+
+
+
+
+@article{PhysRevD.69.094019,
+  title = {Charmonium levels near threshold and the narrow state $X(3872)\ensuremath{\rightarrow}{\ensuremath{\pi}}^{+}{\ensuremath{\pi}}^{\ensuremath{-}}J/\ensuremath{\psi}$},
+  author = {Eichten, Estia J. and Lane, Kenneth and Quigg, Chris},
+  journal = {Phys. Rev. D},
+  volume = {69},
+  issue = {9},
+  pages = {094019},
+  numpages = {9},
+  year = {2004},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.69.094019},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.69.094019}
+}
+
+
+@article{PhysRevD.79.094004,
+  title = {Higher charmonia and $X$, $Y$, $Z$ states with screened potential},
+  author = {Li, Bai-Qing and Chao, Kuang-Ta},
+  journal = {Phys. Rev. D},
+  volume = {79},
+  issue = {9},
+  pages = {094004},
+  numpages = {13},
+  year = {2009},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.79.094004},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.79.094004}
+}
+
+
+
+@article{PhysRevD.46.R3703,
+  title = {$P$-wave charmonium production in $B$-meson decays},
+  author = {Bodwin, Geoffrey T. and Braaten, Eric and Yuan, Tzu Chiang and Lepage, G. Peter},
+  journal = {Phys. Rev. D},
+  volume = {46},
+  issue = {9},
+  pages = {R3703--R3707},
+  numpages = {0},
+  year = {1992},
+  month = {Nov},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.46.R3703},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.46.R3703}
+}
+
+
+@article{PhysRevLett.115.022001,
+  title = {Could the $X(3915)$ and the $X(3930)$ Be the Same Tensor State?},
+  author = {Zhou, Zhi-Yong and Xiao, Zhiguang and Zhou, Hai-Qing},
+  journal = {Phys. Rev. Lett.},
+  volume = {115},
+  issue = {2},
+  pages = {022001},
+  numpages = {5},
+  year = {2015},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.115.022001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.115.022001}
+}
+
+@article{PhysRevD.59.114027,
+  title = {Radiative decays, nonet symmetry, and SU(3) breaking},
+  author = {Benayoun, M. and DelBuono, L. and Eidelman, S. and Ivanchenko, V. N. and O'Connell, H. B.},
+  journal = {Phys. Rev. D},
+  volume = {59},
+  issue = {11},
+  pages = {114027},
+  numpages = {19},
+  year = {1999},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.59.114027},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.59.114027}
+}
+
+
+@article{Vinokurova:2015txd,
+    author = "Vinokurova, A. and others",
+    collaboration = "Belle",
+    title = "{Search for B decays to final states with the \ensuremath{\eta}$_{c}$ meson}",
+    eprint = "1501.06351",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    reportNumber = "BELLE-PREPRINT-2015-1, KEK-PREPRINT-2014-42",
+    doi = "10.1007/JHEP06(2015)132",
+    journal = "JHEP",
+    volume = "06",
+    pages = "132",
+    year = "2015",
+    note = "[Erratum: JHEP 02, 088 (2017)]"
+}
+
+
+@article{Aaltonen:2011at,
+    author = "Aaltonen, T. and others",
+    collaboration = "CDF",
+    title = "{Observation of the $Y(4140)$ Structure in the $J/\psi\phi$ Mass Spectrum in $B^\pm\to J/\psi\phi K^\pm$ Decays}",
+    eprint = "1101.6058",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    reportNumber = "FERMILAB-PUB-11-019-E",
+    doi = "10.1142/S0217732317501395",
+    journal = "Mod. Phys. Lett. A",
+    volume = "32",
+    number = "26",
+    pages = "1750139",
+    year = "2017"
+}
+
+@article{PhysRevLett.104.112004,
+  title = {Evidence for a New Resonance and Search for the $Y(4140)$ in the $\ensuremath{\gamma}\ensuremath{\gamma}\ensuremath{\rightarrow}\ensuremath{\phi}J/\ensuremath{\psi}$ Process},
+  author = {Shen, C. P. and Yuan, C. Z. and Aihara, H. and Arinstein, K. and Aushev, T. and Bakich, A. M. and Balagura, V. and Barberio, E. and Bay, A. and Belous, K. and Bhardwaj, V. and Bischofberger, M. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Browder, T. E. and Chang, M.-C. and Chang, P. and Chen, A. and Chen, P. and Cheon, B. G. and Chiang, C.-C. and Cho, I.-S. and Choi, Y. and Dalseno, J. and Das, A. and Dole\ifmmode \check{z}\else \v{z}\fi{}al, Z. and Drutskoy, A. and Eidelman, S. and Epifanov, D. and Gabyshev, N. and Golob, B. and Ha, H. and Haba, J. and Han, B.-Y. and Hayasaka, K. and Hayashii, H. and Horii, Y. and Hoshi, Y. and Hou, W.-S. and Hsiung, Y. B. and Hyun, H. J. and Inami, K. and Itoh, R. and Iwabuchi, M. and Iwasaki, M. and Iwasaki, Y. and Joshi, N. J. and Julius, T. and Kang, J. H. and Kawasaki, T. and Kiesling, C. and Kim, H. J. and Kim, H. O. and Kim, J. H. and Kim, S. K. and Kim, Y. I. and Kim, Y. J. and Ko, B. R. and Kody\ifmmode \check{s}\else \v{s}\fi{}, P. and Korpar, S. and Kreps, M. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kuhr, T. and Kwon, Y.-J. and Kyeong, S.-H. and Lange, J. S. and Lee, M. J. and Lee, S.-H. and Li, J. and Liu, C. and Liu, Y. and Liventsev, D. and Louvot, R. and Matyja, A. and McOnie, S. and Miyabayashi, K. and Miyata, H. and Miyazaki, Y. and Mori, T. and Mussa, R. and Nakano, E. and Nakao, M. and Nakazawa, H. and Natkaniec, Z. and Neubauer, S. and Nishida, S. and Nishimura, K. and Nitoh, O. and Ohshima, T. and Okuno, S. and Olsen, S. L. and Pakhlova, G. and Park, C. W. and Park, H. and Park, H. K. and Pestotnik, R. and Petri\ifmmode \check{c}\else \v{c}\fi{}, M. and Piilonen, L. E. and R\"ohrken, M. and Ryu, S. and Sahoo, H. and Sakai, Y. and Schneider, O. and Senyo, K. and Sevior, M. E. and Shapkin, M. and Shiu, J.-G. and Shwartz, B. and Singh, J. B. and Smerkol, P. and Sokolov, A. and Solovieva, E. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Teramoto, Y. and Trabelsi, K. and Uehara, S. and Uglov, T. and Unno, Y. and Uno, S. and Urquijo, P. and Varner, G. and Vervink, K. and Wang, C. H. and Wang, P. and Wang, X. L. and Watanabe, Y. and Wedd, R. and Won, E. and Yabsley, B. D. and Yamashita, Y. and Zhang, C. C. and Zhang, Z. P. and Zivko, T. and Zyukova, O.},
+  collaboration = {The Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {104},
+  issue = {11},
+  pages = {112004},
+  numpages = {5},
+  year = {2010},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.104.112004},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.104.112004}
+}
+
+
+
+J. Brodzicka, Heavy flavour spectroscopy, Conf. Proc. C0908171 (2009) 299, Proceedings, 24th International Symposium on Lepton-Photon Interactions at High En- ergy (LP09), 2009.
+
+
+@inproceedings{Brodzicka:2010zz,        %引用时缩写
+  title="{Heavy flavour spectroscopy}",
+  author={J. Brodzicka},
+  booktitle={24th International Symposium on Lepton-Photon Interactions at High Energy (LP09), 2009},          %会议名称
+  pages={},                      %页码
+  year={2009}, %年份
+  url = {https://indico.desy.de/event/1761/contributions/27653/}
+}
+
+@article{PhysRevLett.104.112004,
+  title = {Evidence for a New Resonance and Search for the $Y(4140)$ in the $\ensuremath{\gamma}\ensuremath{\gamma}\ensuremath{\rightarrow}\ensuremath{\phi}J/\ensuremath{\psi}$ Process},
+  author = {Shen, C. P. and Yuan, C. Z. and Aihara, H. and Arinstein, K. and Aushev, T. and Bakich, A. M. and Balagura, V. and Barberio, E. and Bay, A. and Belous, K. and Bhardwaj, V. and Bischofberger, M. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Browder, T. E. and Chang, M.-C. and Chang, P. and Chen, A. and Chen, P. and Cheon, B. G. and Chiang, C.-C. and Cho, I.-S. and Choi, Y. and Dalseno, J. and Das, A. and Dole\ifmmode \check{z}\else \v{z}\fi{}al, Z. and Drutskoy, A. and Eidelman, S. and Epifanov, D. and Gabyshev, N. and Golob, B. and Ha, H. and Haba, J. and Han, B.-Y. and Hayasaka, K. and Hayashii, H. and Horii, Y. and Hoshi, Y. and Hou, W.-S. and Hsiung, Y. B. and Hyun, H. J. and Inami, K. and Itoh, R. and Iwabuchi, M. and Iwasaki, M. and Iwasaki, Y. and Joshi, N. J. and Julius, T. and Kang, J. H. and Kawasaki, T. and Kiesling, C. and Kim, H. J. and Kim, H. O. and Kim, J. H. and Kim, S. K. and Kim, Y. I. and Kim, Y. J. and Ko, B. R. and Kody\ifmmode \check{s}\else \v{s}\fi{}, P. and Korpar, S. and Kreps, M. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kuhr, T. and Kwon, Y.-J. and Kyeong, S.-H. and Lange, J. S. and Lee, M. J. and Lee, S.-H. and Li, J. and Liu, C. and Liu, Y. and Liventsev, D. and Louvot, R. and Matyja, A. and McOnie, S. and Miyabayashi, K. and Miyata, H. and Miyazaki, Y. and Mori, T. and Mussa, R. and Nakano, E. and Nakao, M. and Nakazawa, H. and Natkaniec, Z. and Neubauer, S. and Nishida, S. and Nishimura, K. and Nitoh, O. and Ohshima, T. and Okuno, S. and Olsen, S. L. and Pakhlova, G. and Park, C. W. and Park, H. and Park, H. K. and Pestotnik, R. and Petri\ifmmode \check{c}\else \v{c}\fi{}, M. and Piilonen, L. E. and R\"ohrken, M. and Ryu, S. and Sahoo, H. and Sakai, Y. and Schneider, O. and Senyo, K. and Sevior, M. E. and Shapkin, M. and Shiu, J.-G. and Shwartz, B. and Singh, J. B. and Smerkol, P. and Sokolov, A. and Solovieva, E. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Teramoto, Y. and Trabelsi, K. and Uehara, S. and Uglov, T. and Unno, Y. and Uno, S. and Urquijo, P. and Varner, G. and Vervink, K. and Wang, C. H. and Wang, P. and Wang, X. L. and Watanabe, Y. and Wedd, R. and Won, E. and Yabsley, B. D. and Yamashita, Y. and Zhang, C. C. and Zhang, Z. P. and Zivko, T. and Zyukova, O.},
+  collaboration = {The Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {104},
+  issue = {11},
+  pages = {112004},
+  numpages = {5},
+  year = {2010},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.104.112004},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.104.112004}
+}
+
+
+
+@article{PhysRevD.80.017502,
+  title = {$Y(4143)$ is probably a molecular partner of $Y(3930)$},
+  author = {Liu, Xiang and Zhu, Shi-Lin},
+  journal = {Phys. Rev. D},
+  volume = {80},
+  issue = {1},
+  pages = {017502},
+  numpages = {4},
+  year = {2009},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.80.017502},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.80.017502}
+}
+
+
+@article{PhysRevD.80.054019,
+  title = {Hadronic molecule structure of the $Y(3940)$ and $Y(4140)$},
+  author = {Branz, Tanja and Gutsche, Thomas and Lyubovitskij, Valery E.},
+  journal = {Phys. Rev. D},
+  volume = {80},
+  issue = {5},
+  pages = {054019},
+  numpages = {4},
+  year = {2009},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.80.054019},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.80.054019}
+}
+
+
+
+@article{Zhang_2010,
+	doi = {10.1088/0954-3899/37/2/025005},
+	url = {https://doi.org/10.1088/0954-3899/37/2/025005},
+	year = 2010,
+	month = {jan},
+	publisher = {{IOP} Publishing},
+	volume = {37},
+	number = {2},
+	pages = {025005},
+	author = {Jian-Rong Zhang and Ming-Qiu Huang},
+	title = {(Q{\textbackslash}bar$\lbrace$s$\rbrace$){\^{}}$\lbrace$({\ast})$\rbrace$({\textbackslash}bar$\lbrace$Q$\rbrace$s){\^{}}$\lbrace$({\ast})$\rbrace$ molecular states from {QCD} sum rules: a view {onY}(4 1 4 0)},
+	journal = {Journal of Physics G: Nuclear and Particle Physics},
+	abstract = {Masses for the (Q = c or b) molecular states are systematically computed in the framework of QCD sum rules. Technically, contributions of the operators up to dimension 6 are included in operator product expansion (OPE). The numerical result 4.13 ± 0.10 GeV for agrees well with the mass 4143.0 ± 2.9 ± 1.2 MeV for Y(4 1 4 0), which supports the molecular configuration for Y(4 1 4 0).}
+}
+
+
+@article{PhysRevD.80.114013,
+  title = {$Y(3940)$, $Z(3930)$, and the $X(4160)$ as dynamically generated resonances from the vector-vector interaction},
+  author = {Molina, R. and Oset, E.},
+  journal = {Phys. Rev. D},
+  volume = {80},
+  issue = {11},
+  pages = {114013},
+  numpages = {16},
+  year = {2009},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.80.114013},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.80.114013}
+}
+
+
+@article{ALBUQUERQUE2009186,
+title = "A QCD sum rule calculation for the Y(4140) narrow structure",
+journal = "Physics Letters B",
+volume = "678",
+number = "2",
+pages = "186 - 190",
+year = "2009",
+issn = "0370-2693",
+doi = "https://doi.org/10.1016/j.physletb.2009.06.022",
+url = "http://www.sciencedirect.com/science/article/pii/S0370269309006935",
+author = "Raphael M. Albuquerque and Mirian E. Bracco and Marina Nielsen",
+abstract = "We use the QCD sum rules to evaluate the mass of a possible scalar mesonic state that couples to a molecular Ds∗D¯s∗ current. We find a mass mDs∗Ds∗=(4.14±0.09) GeV, which is in an excellent agreement with the recently observed Y(4140) charmonium state. We consider the contributions of condensates up to dimension-eight, we work at leading order in αs and we keep terms which are linear in the strange quark mass ms. We also consider a molecular D∗D¯∗ current and we obtain mD∗D∗=(4.13±0.10), around 200 MeV above the mass of the Y(3930) charmonium state. We conclude that it is possible to describe the Y(4140) structure as a Ds∗D¯s∗ molecular state or even as a mixture of Ds∗D¯s∗ and D∗D¯∗ molecular states."
+}
+
+
+@article{Wang:2009ry,
+    author = "Wang, Zhi-Gang and Liu, Zhi-Cheng and Zhang, Xiao-Hong",
+    title = "{Analysis of the Y(4140) and related molecular states with QCD sum rules}",
+    eprint = "0907.1467",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    doi = "10.1140/epjc/s10052-009-1156-2",
+    journal = "Eur. Phys. J. C",
+    volume = "64",
+    pages = "373--386",
+    year = "2009"
+}
+
+@article{Ding:2009vd,
+    author = "Ding, Gui-Jun",
+    title = "{Possible Molecular States of D*(s) anti-D*(s) System and Y(4140)}",
+    eprint = "0904.1782",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    doi = "10.1140/epjc/s10052-009-1146-4",
+    journal = "Eur. Phys. J. C",
+    volume = "64",
+    pages = "297--308",
+    year = "2009"
+}
+
+
+%%%%%% X(4104) cusp
+@article{PhysRevD.91.034009,
+  title = {${Z}_{b}$ and ${Z}_{c}$ exotic states as coupled channel cusps},
+  author = {Swanson, E. S.},
+  journal = {Phys. Rev. D},
+  volume = {91},
+  issue = {3},
+  pages = {034009},
+  numpages = {7},
+  year = {2015},
+  month = {Feb},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.91.034009},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.91.034009}
+}
+
+
+@article{KARLINER2016365,
+title = "Exotic resonances due to η exchange",
+journal = "Nuclear Physics A",
+volume = "954",
+pages = "365 - 370",
+year = "2016",
+note = "Recent Progress in Strangeness and Charm Hadronic and Nuclear Physics",
+issn = "0375-9474",
+doi = "https://doi.org/10.1016/j.nuclphysa.2016.03.057",
+url = "http://www.sciencedirect.com/science/article/pii/S0375947416300434",
+author = "Marek Karliner and Jonathan L. Rosner",
+keywords = "QCD, Exotic hadrons, Heavy quarks, Quark model",
+abstract = "The meson X(3872) and several related states appear to be in large part hadronic molecules in which a heavy flavored meson (e.g., D0) is bound to another heavy meson (e.g., D¯⁎0). Although not the only contribution to the binding, pion exchange seems to play a crucial role in generating the longest-range force between constituents. Mesons without u and d light quarks (such as Ds) cannot exchange pions, but under suitable conditions can bind as a result of η exchange. Channels in which this mechanism is possible are identified, and suggestions are made for searches for the corresponding molecular states, including a manifestly exotic baryonic ΛcD¯s⁎ resonance decaying into J/ψΛ."
+}
+
+
+
+@article{MAHAJAN2009228,
+title = "Y(4140): Possible options",
+journal = "Physics Letters B",
+volume = "679",
+number = "3",
+pages = "228 - 230",
+year = "2009",
+issn = "0370-2693",
+doi = "https://doi.org/10.1016/j.physletb.2009.07.043",
+url = "http://www.sciencedirect.com/science/article/pii/S0370269309008776",
+author = "Namit Mahajan",
+abstract = "We discuss possible options for interpreting the newly observed state Y(4140) by the CDF Collaboration in B+→J/ψϕK+ decay above the J/ψϕ threshold, and argue that it is more likely to be a Ds∗–Ds∗ molecular state or an exotic (JPC=1−+) hybrid charmonium. We have discussed decay modes which would allow unambiguous identification of the hybrid charmonium option."
+}
+
+
+@article{Stancu_2010,
+	doi = {10.1088/0954-3899/37/7/075017},
+	url = {https://doi.org/10.1088/0954-3899/37/7/075017},
+	year = 2010,
+	month = {jun},
+	publisher = {{IOP} Publishing},
+	volume = {37},
+	number = {7},
+	pages = {075017},
+	author = {Fl Stancu},
+	title = {Can Y(4140) be a c {\textbackslash}bar$\lbrace$c$\rbrace$ s {\textbackslash}bar$\lbrace$s$\rbrace$ tetraquark?},
+	journal = {Journal of Physics G: Nuclear and Particle Physics},
+	abstract = {In this exploratory study the spectrum of tetraquarks of type is calculated within a simple quark model with chromomagnetic interaction and effective quark masses extracted from meson and baryon spectra. It is tempting to see if this spectrum can accommodate the resonance Y(4140), observed by the CDF Collaboration, but not yet confirmed. The results seem to favor the JPC = 1++ sector where the coupling to the VV channel is nearly as small as that of X(3872), when described as a tetraquark. This suggests that Y(4140) could possibly be the strange partner of X(3872) in a tetraquark interpretation. However, the sector JPC = 0++ cannot entirely be excluded. This work questions the practice of extracting effective quark masses containing spin-independent contributions, from mesons and baryons, to be used in multiquark systems as well.}
+}
+
+
+
+
+
+@article{PhysRevD.94.074007,
+  title = {$X(4140)$, $X(4274)$, $X(4500)$, and $X(4700)$ in the relativized quark model},
+  author = {L\"u, Qi-Fang and Dong, Yu-Bing},
+  journal = {Phys. Rev. D},
+  volume = {94},
+  issue = {7},
+  pages = {074007},
+  numpages = {9},
+  year = {2016},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.94.074007},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.94.074007}
+}
+
+
+
+@article{PhysRevD.94.114018,
+  title = {Canonical description of the new LHCb resonances},
+  author = {Ortega, Pablo G. and Segovia, Jorge and Entem, David R. and Fern\'andez, Francisco},
+  journal = {Phys. Rev. D},
+  volume = {94},
+  issue = {11},
+  pages = {114018},
+  numpages = {7},
+  year = {2016},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.94.114018},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.94.114018}
+}
+
+@article{PhysRevLett.104.112004,
+  title = {Evidence for a New Resonance and Search for the $Y(4140)$ in the $\ensuremath{\gamma}\ensuremath{\gamma}\ensuremath{\rightarrow}\ensuremath{\phi}J/\ensuremath{\psi}$ Process},
+  author = {Shen, C. P. and Yuan, C. Z. and Aihara, H. and Arinstein, K. and Aushev, T. and Bakich, A. M. and Balagura, V. and Barberio, E. and Bay, A. and Belous, K. and Bhardwaj, V. and Bischofberger, M. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Browder, T. E. and Chang, M.-C. and Chang, P. and Chen, A. and Chen, P. and Cheon, B. G. and Chiang, C.-C. and Cho, I.-S. and Choi, Y. and Dalseno, J. and Das, A. and Dole\ifmmode \check{z}\else \v{z}\fi{}al, Z. and Drutskoy, A. and Eidelman, S. and Epifanov, D. and Gabyshev, N. and Golob, B. and Ha, H. and Haba, J. and Han, B.-Y. and Hayasaka, K. and Hayashii, H. and Horii, Y. and Hoshi, Y. and Hou, W.-S. and Hsiung, Y. B. and Hyun, H. J. and Inami, K. and Itoh, R. and Iwabuchi, M. and Iwasaki, M. and Iwasaki, Y. and Joshi, N. J. and Julius, T. and Kang, J. H. and Kawasaki, T. and Kiesling, C. and Kim, H. J. and Kim, H. O. and Kim, J. H. and Kim, S. K. and Kim, Y. I. and Kim, Y. J. and Ko, B. R. and Kody\ifmmode \check{s}\else \v{s}\fi{}, P. and Korpar, S. and Kreps, M. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kuhr, T. and Kwon, Y.-J. and Kyeong, S.-H. and Lange, J. S. and Lee, M. J. and Lee, S.-H. and Li, J. and Liu, C. and Liu, Y. and Liventsev, D. and Louvot, R. and Matyja, A. and McOnie, S. and Miyabayashi, K. and Miyata, H. and Miyazaki, Y. and Mori, T. and Mussa, R. and Nakano, E. and Nakao, M. and Nakazawa, H. and Natkaniec, Z. and Neubauer, S. and Nishida, S. and Nishimura, K. and Nitoh, O. and Ohshima, T. and Okuno, S. and Olsen, S. L. and Pakhlova, G. and Park, C. W. and Park, H. and Park, H. K. and Pestotnik, R. and Petri\ifmmode \check{c}\else \v{c}\fi{}, M. and Piilonen, L. E. and R\"ohrken, M. and Ryu, S. and Sahoo, H. and Sakai, Y. and Schneider, O. and Senyo, K. and Sevior, M. E. and Shapkin, M. and Shiu, J.-G. and Shwartz, B. and Singh, J. B. and Smerkol, P. and Sokolov, A. and Solovieva, E. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Teramoto, Y. and Trabelsi, K. and Uehara, S. and Uglov, T. and Unno, Y. and Uno, S. and Urquijo, P. and Varner, G. and Vervink, K. and Wang, C. H. and Wang, P. and Wang, X. L. and Watanabe, Y. and Wedd, R. and Won, E. and Yabsley, B. D. and Yamashita, Y. and Zhang, C. C. and Zhang, Z. P. and Zivko, T. and Zyukova, O.},
+  collaboration = {The Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {104},
+  issue = {11},
+  pages = {112004},
+  numpages = {5},
+  year = {2010},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.104.112004},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.104.112004}
+}
+
+
+
+@article{RevModPhys.90.015003,
+  title = {Nonstandard heavy mesons and baryons: Experimental evidence},
+  author = {Olsen, Stephen Lars and Skwarnicki, Tomasz and Zieminska, Daria},
+  journal = {Rev. Mod. Phys.},
+  volume = {90},
+  issue = {1},
+  pages = {015003},
+  numpages = {58},
+  year = {2018},
+  month = {Feb},
+  publisher = {American Physical Society},
+  doi = {10.1103/RevModPhys.90.015003},
+  url = {https://link.aps.org/doi/10.1103/RevModPhys.90.015003}
+}
+
+
+@article{PhysRevLett.98.082001,
+  title = {Observation of a Charmoniumlike State Produced in Association with a $J/\ensuremath{\psi}$ in ${e}^{+}{e}^{\ensuremath{-}}$ Annihilation at $\sqrt{s}\ensuremath{\approx}10.6\text{ }\text{ }\mathrm{GeV}$},
+  author = {Abe, K. and Adachi, I. and Aihara, H. and Arinstein, K. and Asano, Y. and Aulchenko, V. and Aushev, T. and Aziz, T. and Bakich, A. M. and Balagura, V. and Barbero, M. and Bedny, I. and Bitenc, U. and Bizjak, I. and Bondar, A. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Brodzicka, J. and Browder, T. E. and Chao, Y. and Chen, A. and Cheon, B. G. and Chistov, R. and Choi, S.-K. and Choi, Y. and Choi, Y. K. and Chuvikov, A. and Cole, S. and Dalseno, J. and Danilov, M. and Dash, M. and Drutskoy, A. and Eidelman, S. and Epifanov, D. and Fratina, S. and Gabyshev, N. and Gershon, T. and Gokhroo, G. and Golob, B. and Ha, H. C. and Haba, J. and Hasegawa, Y. and Hayasaka, K. and Hayashii, H. and Hazumi, M. and Hinz, L. and Hoshi, Y. and Hou, S. and Hou, W.-S. and Hsiung, Y. B. and Iijima, T. and Ishikawa, A. and Iwasaki, M. and Iwasaki, Y. and Kapusta, P. and Kawasaki, T. and Khan, H. R. and Kichimi, H. and Kim, H. J. and Kim, S. M. and Kinoshita, K. and Korpar, S. and Krokovny, P. and Kuo, C. C. and Kuzmin, A. and Lange, J. S. and Leder, G. and Lesiak, T. and Limosani, A. and Lin, S.-W. and Liventsev, D. and Mandl, F. and Matsumoto, T. and Matyja, A. and Mikami, Y. and Mitaroff, W. and Miyabayashi, K. and Miyata, H. and Mizuk, R. and Nagasaka, Y. and Nakano, E. and Nakao, M. and Nishida, S. and Nitoh, O. and Ogawa, S. and Ohshima, T. and Okuno, S. and Olsen, S. L. and Ozaki, H. and Pakhlov, P. and Palka, H. and Park, C. W. and Park, H. and Park, K. S. and Peak, L. S. and Piilonen, L. E. and Poluektov, A. and Sakai, Y. and Sato, N. and Schietinger, T. and Schneider, O. and Schwartz, A. J. and Seidl, R. and Senyo, K. and Sevior, M. E. and Shwartz, B. and Sidorov, V. and Somov, A. and Stamen, R. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Sumiyoshi, T. and Suzuki, S. Y. and Takasaki, F. and Tamura, N. and Tanaka, M. and Teramoto, Y. and Tian, X. C. and Trabelsi, K. and Tsukamoto, T. and Uehara, S. and Uglov, T. and Ueno, K. and Unno, Y. and Uno, S. and Urquijo, P. and Varner, G. and Varvell, K. E. and Villa, S. and Wang, C. C. and Wang, C. H. and Wang, M.-Z. and Won, E. and Xie, Q. L. and Yabsley, B. D. and Yamaguchi, A. and Yamashita, Y. and Yamauchi, M. and Ying, J. and Zhang, C. C. and Zhang, J. and Zhang, L. M. and Zhang, Z. P. and Zhilich, V.},
+  collaboration = {Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {98},
+  issue = {8},
+  pages = {082001},
+  numpages = {6},
+  year = {2007},
+  month = {Feb},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.98.082001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.98.082001}
+}
+
+
+
+@article{PhysRevLett.100.202001,
+  title = {Production of New Charmoniumlike States in ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}J/\ensuremath{\psi}{D}^{(*)}{\overline{D}}^{(*)}$ at $\sqrt{s}\ensuremath{\approx}10.6\text{ }\text{ }\mathrm{GeV}$},
+  author = {Pakhlov, P. and Adachi, I. and Aihara, H. and Arinstein, K. and Aushev, T. and Aziz, T. and Bakich, A. M. and Balagura, V. and Barberio, E. and Bedny, I. and Belous, K. and Bhardwaj, V. and Bitenc, U. and Bondar, A. and Bozek, A. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Browder, T. E. and Chao, Y. and Chen, A. and Chen, K.-F. and Chen, W. T. and Cheon, B. G. and Chistov, R. and Choi, Y. and Dalseno, J. and Danilov, M. and Dash, M. and Drutskoy, A. and Eidelman, S. and Golob, B. and Ha, H. and Hayasaka, K. and Hazumi, M. and Heffernan, D. and Hoshi, Y. and Hou, W.-S. and Hsiung, Y. B. and Hyun, H. J. and Iijima, T. and Ikado, K. and Inami, K. and Ishikawa, A. and Ishino, H. and Itoh, R. and Iwasaki, M. and Iwasaki, Y. and Kah, D. H. and Kang, J. H. and Kapusta, P. and Katayama, N. and Kawai, H. and Kawasaki, T. and Kichimi, H. and Kim, Y. J. and Kinoshita, K. and Korpar, S. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kumar, R. and Kuo, C. C. and Kwon, Y.-J. and Lange, J. S. and Lee, M. J. and Lee, S. E. and Lesiak, T. and Limosani, A. and Lin, S.-W. and Liu, Y. and Liventsev, D. and Mandl, F. and Matyja, A. and Medvedeva, T. and Miyake, H. and Miyata, H. and Miyazaki, Y. and Mizuk, R. and Moloney, G. R. and Mori, T. and Nakano, E. and Nakao, M. and Natkaniec, Z. and Nishida, S. and Nitoh, O. and Noguchi, S. and Ogawa, S. and Ohshima, T. and Okuno, S. and Olsen, S. L. and Ozaki, H. and Pakhlova, G. and Palka, H. and Park, C. W. and Peak, L. S. and Pestotnik, R. and Piilonen, L. E. and Sahoo, H. and Sakai, Y. and Schneider, O. and Seidl, R. and Senyo, K. and Sevior, M. E. and Shapkin, M. and Shen, C. P. and Shibuya, H. and Shiu, J.-G. and Singh, J. B. and Somov, A. and Stani\ifmmode \check{c}\else \v{c}\fi{}, S. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Sumiyoshi, T. and Suzuki, S. and Takasaki, F. and Tamai, K. and Tamura, N. and Tanaka, M. and Taylor, G. N. and Teramoto, Y. and Tikhomirov, I. and Uehara, S. and Ueno, K. and Uglov, T. and Unno, Y. and Uno, S. and Urquijo, P. and Usov, Y. and Varner, G. and Vervink, K. and Wang, C. H. and Wang, P. and Wang, X. L. and Watanabe, Y. and Won, E. and Yabsley, B. D. and Yamashita, Y. and Yamauchi, M. and Yuan, C. Z. and Zhang, C. C. and Zhang, Z. P. and Zhilich, V. and Zupanc, A. and Zyukova, O.},
+  collaboration = {Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {100},
+  issue = {20},
+  pages = {202001},
+  numpages = {5},
+  year = {2008},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.100.202001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.100.202001}
+}
+
+@article{PhysRevD.95.112003,
+  title = {Observation of an alternative ${\ensuremath{\chi}}_{c0}(2P)$ candidate in ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}J/\ensuremath{\psi}D\overline{D}$},
+  author = {Chilikin, K. and Adachi, I. and Aihara, H. and Al Said, S. and Asner, D. M. and Aulchenko, V. and Ayad, R. and Babu, V. and Badhrees, I. and Bakich, A. M. and Bansal, V. and Barberio, E. and Besson, D. and Bhardwaj, V. and Bhuyan, B. and Biswal, J. and Bobrov, A. and Bondar, A. and Bozek, A. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Browder, T. E. and \ifmmode \check{C}\else \v{C}\fi{}ervenkov, D. and Chekelian, V. and Chen, A. and Cheon, B. G. and Cho, K. and Choi, Y. and Cinabro, D. and Dash, N. and Di Carlo, S. and Dole\ifmmode \check{z}\else \v{z}\fi{}al, Z. and Dr\'asal, Z. and Dutta, D. and Eidelman, S. and Farhat, H. and Fast, J. E. and Ferber, T. and Fulsom, B. G. and Gaur, V. and Gabyshev, N. and Garmash, A. and Gillard, R. and Goldenzweig, P. and Haba, J. and Hara, T. and Hayasaka, K. and Hou, W.-S. and Inami, K. and Ishikawa, A. and Itoh, R. and Iwasaki, Y. and Jacobs, W. W. and Jaegle, I. and Jeon, H. B. and Jin, Y. and Joffe, D. and Joo, K. K. and Julius, T. and Kang, K. H. and Karyan, G. and Katrenko, P. and Kim, D. Y. and Kim, H. J. and Kim, J. B. and Kim, K. T. and Kim, M. J. and Kim, S. H. and Kim, Y. J. and Kinoshita, K. and Kody\ifmmode \check{s}\else \v{s}\fi{}, P. and Korpar, S. and Kotchetkov, D. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kuhr, T. and Kulasiri, R. and Kuzmin, A. and Kwon, Y.-J. and Lange, J. S. and Li, L. and Li Gioi, L. and Libby, J. and Liventsev, D. and Lubej, M. and Luo, T. and Masuda, M. and Matsuda, T. and Matvienko, D. and Miyabayashi, K. and Miyata, H. and Mizuk, R. and Mohanty, G. B. and Moon, H. K. and Mori, T. and Mussa, R. and Nakano, E. and Nakao, M. and Nanut, T. and Nath, K. J. and Natkaniec, Z. and Nayak, M. and Niiyama, M. and Nisar, N. K. and Nishida, S. and Ogawa, S. and Okuno, S. and Olsen, S. L. and Ono, H. and Pakhlov, P. and Pakhlova, G. and Pal, B. and Pardi, S. and Park, H. and Paul, S. and Pestotnik, R. and Piilonen, L. E. and Pulvermacher, C. and Ritter, M. and Sahoo, H. and Sakai, Y. and Salehi, M. and Sandilya, S. and Santelj, L. and Sanuki, T. and Schneider, O. and Schnell, G. and Schwanda, C. and Seino, Y. and Senyo, K. and Seon, O. and Sevior, M. E. and Shebalin, V. and Shen, C. P. and Shibata, T.-A. and Shiu, J.-G. and Sokolov, A. and Solovieva, E. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Sumiyoshi, T. and Takizawa, M. and Tamponi, U. and Tanida, K. and Tenchini, F. and Trabelsi, K. and Uchida, M. and Uehara, S. and Uglov, T. and Uno, S. and Usov, Y. and Van Hulse, C. and Varner, G. and Vinokurova, A. and Vossen, A. and Wang, C. H. and Wang, M.-Z. and Wang, P. and Watanabe, M. and Watanabe, Y. and Widmann, E. and Won, E. and Yamamoto, H. and Yamashita, Y. and Ye, H. and Yuan, C. Z. and Yusa, Y. and Zhang, Z. P. and Zhilich, V. and Zhulanov, V. and Zupanc, A.},
+  collaboration = {Belle Collaboration},
+  journal = {Phys. Rev. D},
+  volume = {95},
+  issue = {11},
+  pages = {112003},
+  numpages = {17},
+  year = {2017},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.95.112003},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.95.112003}
+}
+
+
+
+@article{PhysRevD.71.052001,
+  title = {${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}{\ensuremath{\pi}}^{+}{\ensuremath{\pi}}^{\ensuremath{-}}{\ensuremath{\pi}}^{+}{\ensuremath{\pi}}^{\ensuremath{-}}$, ${K}^{+}{K}^{\ensuremath{-}}{\ensuremath{\pi}}^{+}{\ensuremath{\pi}}^{\ensuremath{-}}$, and ${K}^{+}{K}^{\ensuremath{-}}{K}^{+}{K}^{\ensuremath{-}}$ cross sections at center-of-mass energies 0.5--4.5 GeV measured with initial-state radiation},
+  author = {Aubert, B. and Barate, R. and Boutigny, D. and Couderc, F. and Karyotakis, Y. and Lees, J. P. and Poireau, V. and Tisserand, V. and Zghiche, A. and Grauges-Pous, E. and Palano, A. and Pompili, A. and Chen, J. C. and Qi, N. D. and Rong, G. and Wang, P. and Zhu, Y. S. and Eigen, G. and Ofte, I. and Stugu, B. and Abrams, G. S. and Borgland, A. W. and Breon, A. B. and Brown, D. N. and Button-Shafer, J. and Cahn, R. N. and Charles, E. and Day, C. T. and Gill, M. S. and Gritsan, A. V. and Groysman, Y. and Jacobsen, R. G. and Kadel, R. W. and Kadyk, J. and Kerth, L. T. and Kolomensky, Yu. G. and Kukartsev, G. and Lynch, G. and Mir, L. M. and Oddone, P. J. and Orimoto, T. J. and Pripstein, M. and Roe, N. A. and Ronan, M. T. and Wenzel, W. A. and Barrett, M. and Ford, K. E. and Harrison, T. J. and Hart, A. J. and Hawkes, C. M. and Morgan, S. E. and Watson, A. T. and Fritsch, M. and Goetzen, K. and Held, T. and Koch, H. and Lewandowski, B. and Pelizaeus, M. and Peters, K. and Schroeder, T. and Steinke, M. and Boyd, J. T. and Burke, J. P. and Chevalier, N. and Cottingham, W. N. and Kelly, M. P. and Latham, T. E. and Wilson, F. F. and Cuhadar-Donszelmann, T. and Hearty, C. and Knecht, N. S. and Mattison, T. S. and McKenna, J. A. and Thiessen, D. and Khan, A. and Kyberd, P. and Teodorescu, L. and Blinov, A. E. and Blinov, V. E. and Druzhinin, V. P. and Golubev, V. B. and Ivanchenko, V. N. and Kravchenko, E. A. and Onuchin, A. P. and Serednyakov, S. I. and Skovpen, Yu. I. and Solodov, E. P. and Yushkov, A. N. and Best, D. and Bruinsma, M. and Chao, M. and Eschrich, I. and Kirkby, D. and Lankford, A. J. and Mandelkern, M. and Mommsen, R. K. and Roethel, W. and Stoker, D. P. and Buchanan, C. and Hartfiel, B. L. and Weinstein, A. J. R. and Foulkes, S. D. and Gary, J. W. and Long, O. and Shen, B. C. and Wang, K. and del Re, D. and Hadavand, H. K. and Hill, E. J. and MacFarlane, D. B. and Paar, H. P. and Rahatlou, Sh. and Sharma, V. and Berryhill, J. W. and Campagnari, C. and Cunha, A. and Dahmes, B. and Hong, T. M. and Lu, A. and Mazur, M. A. and Richman, J. D. and Verkerke, W. and Beck, T. W. and Eisner, A. M. and Flacco, C. J. and Heusch, C. A. and Kroseberg, J. and Lockman, W. S. and Nesom, G. and Schalk, T. and Schumm, B. A. and Seiden, A. and Spradlin, P. and Williams, D. C. and Wilson, M. G. and Albert, J. and Chen, E. and Dubois-Felsmann, G. P. and Dvoretskii, A. and Hitlin, D. G. and Narsky, I. and Piatenko, T. and Porter, F. C. and Ryd, A. and Samuel, A. and Yang, S. and Jayatilleke, S. and Mancinelli, G. and Meadows, B. T. and Sokoloff, M. D. and Blanc, F. and Bloom, P. and Chen, S. and Ford, W. T. and Nauenberg, U. and Olivas, A. and Rankin, P. and Ruddick, W. O. and Smith, J. G. and Ulmer, K. A. and Zhang, J. and Zhang, L. and Chen, A. and Eckhart, E. A. and Harton, J. L. and Soffer, A. and Toki, W. H. and Wilson, R. J. and Zeng, Q. and Spaan, B. and Altenburg, D. and Brandt, T. and Brose, J. and Dickopp, M. and Feltresi, E. and Hauke, A. and Lacker, H. M. and Maly, E. and Nogowski, R. and Otto, S. and Petzold, A. and Schott, G. and Schubert, J. and Schubert, K. R. and Schwierz, R. and Sundermann, J. E. and Bernard, D. and Bonneaud, G. R. and Grenier, P. and Schrenk, S. and Thiebaux, Ch. and Vasileiadis, G. and Verderi, M. and Bard, D. J. and Clark, P. J. and Muheim, F. and Playfer, S. and Xie, Y. and Andreotti, M. and Azzolini, V. and Bettoni, D. and Bozzi, C. and Calabrese, R. and Cibinetto, G. and Luppi, E. and Negrini, M. and Piemontese, L. and Sarti, A. and Anulli, F. and Baldini-Ferroli, R. and Calcaterra, A. and de Sangro, R. and Finocchiaro, G. and Patteri, P. and Peruzzi, I. M. and Piccolo, M. and Zallo, A. and Buzzo, A. and Capra, R. and Contri, R. and Crosetti, G. and Vetere, M. Lo and Macri, M. and Monge, M. R. and Passaggio, S. and Patrignani, C. and Robutti, E. and Santroni, A. and Tosi, S. and Bailey, S. and Brandenburg, G. and Chaisanguanthum, K. S. and Morii, M. and Won, E. and Dubitzky, R. S. and Langenegger, U. and Marks, J. and Uwer, U. and Bhimji, W. and Bowerman, D. A. and Dauncey, P. D. and Egede, U. and Gaillard, J. R. and Morton, G. W. and Nash, J. A. and Nikolich, M. B. and Taylor, G. P. and Charles, M. J. and Grenier, G. J. and Mallik, U. and Mohapatra, A. K. and Cochran, J. and Crawley, H. B. and Lamsa, J. and Meyer, W. T. and Prell, S. and Rosenberg, E. I. and Rubin, A. E. and Yi, J. and Arnaud, N. and Davier, M. and Giroux, X. and Grosdidier, G. and H\"ocker, A. and Diberder, F. Le and Lepeltier, V. and Lutz, A. M. and Petersen, T. C. and Pierini, M. and Plaszczynski, S. and Schune, M. H. and Wormser, G. and Cheng, C. H. and Lange, D. J. and Simani, M. C. and Wright, D. M. and Bevan, A. J. and Chavez, C. A. and Coleman, J. P. and Forster, I. J. and Fry, J. R. and Gabathuler, E. and Gamet, R. and Hutchcroft, D. E. and Parry, R. J. and Payne, D. J. and Touramanis, C. and Cormack, C. M. and Lodovico, F. Di and Brown, C. L. and Cowan, G. and Flack, R. L. and Flaecher, H. U. and Green, M. G. and Jackson, P. S. and McMahon, T. R. and Ricciardi, S. and Salvatore, F. and Winter, M. A. and Brown, D. and Davis, C. L. and Allison, J. and Barlow, N. R. and Barlow, R. J. and Hodgkinson, M. C. and Lafferty, G. D. and Naisbit, M. T. and Williams, J. C. and Chen, C. and Farbin, A. and Hulsbergen, W. D. and Jawahery, A. and Kovalskyi, D. and Lae, C. K. and Lillard, V. and Roberts, D. A. and Blaylock, G. and Dallapiccola, C. and Hertzbach, S. S. and Kofler, R. and Koptchev, V. B. and Moore, T. B. and Saremi, S. and Staengle, H. and Willocq, S. and Cowan, R. and Koeneke, K. and Sciolla, G. and Sekula, S. J. and Taylor, F. and Yamamoto, R. K. and Patel, P. M. and Robertson, S. H. and Lazzaro, A. and Lombardo, V. and Palombo, F. and Bauer, J. M. and Cremaldi, L. and Eschenburg, V. and Godang, R. and Kroeger, R. and Reidy, J. and Sanders, D. A. and Summers, D. J. and Zhao, H. W. and Brunet, S. and C\^ot\'e, D. and Taras, P. and Nicholson, H. and Cavallo, N. and Fabozzi, F. and Gatto, C. and Lista, L. and Monorchio, D. and Paolucci, P. and Piccolo, D. and Sciacca, C. and Baak, M. and Bulten, H. and Raven, G. and Snoek, H. L. and Wilden, L. and Jessop, C. P. and LoSecco, J. M. and Allmendinger, T. and Benelli, G. and Gan, K. K. and Honscheid, K. and Hufnagel, D. and Kagan, H. and Kass, R. and Pulliam, T. and Rahimi, A. M. and Ter-Antonyan, R. and Wong, Q. K. and Brau, J. and Frey, R. and Igonkina, O. and Lu, M. and Potter, C. T. and Sinev, N. B. and Strom, D. and Torrence, E. and Colecchia, F. and Dorigo, A. and Galeazzi, F. and Margoni, M. and Morandin, M. and Posocco, M. and Rotondo, M. and Simonetto, F. and Stroili, R. and Voci, C. and Benayoun, M. and Briand, H. and Chauveau, J. and David, P. and Buono, L. Del and de la Vaissi\`ere, Ch. and Hamon, O. and John, M. J. J. and Leruste, Ph. and Malcl\`es, J. and Ocariz, J. and Roos, L. and Therin, G. and Behera, P. K. and Gladney, L. and Guo, Q. H. and Panetta, J. and Biasini, M. and Covarelli, R. and Pioppi, M. and Angelini, C. and Batignani, G. and Bettarini, S. and Bondioli, M. and Bucci, F. and Calderini, G. and Carpinelli, M. and Forti, F. and Giorgi, M. A. and Lusiani, A. and Marchiori, G. and Morganti, M. and Neri, N. and Paoloni, E. and Rama, M. and Rizzo, G. and Simi, G. and Walsh, J. and Haire, M. and Judd, D. and Paick, K. and Wagoner, D. E. and Danielson, N. and Elmer, P. and Lau, Y. P. and Lu, C. and Miftakov, V. and Olsen, J. and Smith, A. J. S. and Telnov, A. V. and Bellini, F. and Cavoto, G. and D'Orazio, A. and Marco, E. Di and Faccini, R. and Ferrarotto, F. and Ferroni, F. and Gaspero, M. and Gioi, L. Li and Mazzoni, M. A. and Morganti, S. and Piredda, G. and Polci, F. and Tehrani, F. Safai and Voena, C. and Cavoto, G. and Christ, S. and Schr\"oder, H. and Wagner, G. and Waldi, R. and Adye, T. and Groot, N. De and Franek, B. and Gopal, G. P. and Olaiya, E. O. and Aleksan, R. and Emery, S. and Gaidot, A. and Ganzhur, S. F. and Giraud, P.-F. and Graziani, G. and de Monchenault, G. Hamel and Kozanecki, W. and Legendre, M. and London, G. W. and Mayer, B. and Vasseur, G. and Y\`eche, Ch. and Zito, M. and Purohit, M. V. and Weidemann, A. W. and Wilson, J. R. and Yumiceva, F. X. and Abe, T. and Aston, D. and Bartoldus, R. and Berger, N. and Boyarski, A. M. and Buchmueller, O. L. and Claus, R. and Convery, M. R. and Cristinziani, M. and Nardo, G. De and Dingfelder, J. C. and Dong, D. and Dorfan, J. and Dujmic, D. and Dunwoodie, W. and Fan, S. and Field, R. C. and Glanzman, T. and Gowdy, S. J. and Hadig, T. and Halyo, V. and Hast, C. and Hryn'ova, T. and Innes, W. R. and Kelsey, M. H. and Kim, P. and Kocian, M. L. and Leith, D. W. G. S. and Libby, J. and Luitz, S. and Luth, V. and Lynch, H. L. and Marsiske, H. and Messner, R. and Muller, D. R. and O'Grady, C. P. and Ozcan, V. E. and Perazzo, A. and Perl, M. and Ratcliff, B. N. and Roodman, A. and Salnikov, A. A. and Schindler, R. H. and Schwiening, J. and Snyder, A. and Soha, A. and Stelzer, J. and Strube, J. and Su, D. and Sullivan, M. K. and Va'vra, J. and Wagner, S. R. and Weaver, M. and Wisniewski, W. J. and Wittgen, M. and Wright, D. H. and Yarritu, A. K. and Young, C. C. and Strube, J. and Burchat, P. R. and Edwards, A. J. and Majewski, S. A. and Petersen, B. A. and Roat, C. and Ahmed, M. and Ahmed, S. and Alam, M. S. and Ernst, J. A. and Saeed, M. A. and Saleem, M. and Wappler, F. R. and Bugg, W. and Krishnamurthy, M. and Spanier, S. M. and Eckmann, R. and Kim, H. and Ritchie, J. L. and Satpathy, A. and Schwitters, R. F. and Izen, J. M. and Kitayama, I. and Lou, X. C. and Ye, S. and Bianchi, F. and Bona, M. and Gallo, F. and Gamba, D. and Bosisio, L. and Cartaro, C. and Cossutti, F. and Ricca, G. Della and Dittongo, S. and Grancagnolo, S. and Lanceri, L. and Poropat, P. and Vitale, L. and Vuagnin, G. and Martinez-Vidal, F. and Panvini, R. S. and Banerjee, Sw. and Bhuyan, B. and Brown, C. M. and Fortin, D. and Hamano, K. and Jackson, P. D. and Kowalewski, R. and Roney, J. M. and Sobie, R. J. and Back, J. J. and Harrison, P. F. and Mohanty, G. B. and Band, H. R. and Chen, X. and Cheng, B. and Dasu, S. and Datta, M. and Eichenbaum, A. M. and Flood, K. T. and Graham, M. and Hollar, J. J. and Johnson, J. R. and Kutter, P. E. and Li, H. and Liu, R. and Mihalyi, A. and Pan, Y. and Prepost, R. and Tan, P. and von Wimmersperg-Toeller, J. H. and Wu, J. and Wu, S. L. and Yu, Z. and Greene, M. G. and Neal, H.},
+  collaboration = {BABAR Collaboration},
+  journal = {Phys. Rev. D},
+  volume = {71},
+  issue = {5},
+  pages = {052001},
+  numpages = {25},
+  year = {2005},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.71.052001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.71.052001}
+}
+
+
+
+
+
+
+@article{PhysRevLett.95.142001,
+  title = {Observation of a Broad Structure in the ${\ensuremath{\pi}}^{+}{\ensuremath{\pi}}^{\ensuremath{-}}J/\ensuremath{\psi}$ Mass Spectrum around $4.26\text{ }\text{ }\mathrm{GeV}/{c}^{2}$},
+  author = {Aubert, B. and Barate, R. and Boutigny, D. and Couderc, F. and Karyotakis, Y. and Lees, J. P. and Poireau, V. and Tisserand, V. and Zghiche, A. and Grauges, E. and Palano, A. and Pappagallo, M. and Pompili, A. and Chen, J. C. and Qi, N. D. and Rong, G. and Wang, P. and Zhu, Y. S. and Eigen, G. and Ofte, I. and Stugu, B. and Abrams, G. S. and Battaglia, M. and Breon, A. B. and Brown, D. N. and Button-Shafer, J. and Cahn, R. N. and Charles, E. and Day, C. T. and Gill, M. S. and Gritsan, A. V. and Groysman, Y. and Jacobsen, R. G. and Kadel, R. W. and Kadyk, J. and Kerth, L. T. and Kolomensky, Yu. G. and Kukartsev, G. and Lynch, G. and Mir, L. M. and Oddone, P. J. and Orimoto, T. J. and Pripstein, M. and Roe, N. A. and Ronan, M. T. and Wenzel, W. A. and Barrett, M. and Ford, K. E. and Harrison, T. J. and Hart, A. J. and Hawkes, C. M. and Morgan, S. E. and Watson, A. T. and Fritsch, M. and Goetzen, K. and Held, T. and Koch, H. and Lewandowski, B. and Pelizaeus, M. and Peters, K. and Schroeder, T. and Steinke, M. and Boyd, J. T. and Burke, J. P. and Chevalier, N. and Cottingham, W. N. and Cuhadar-Donszelmann, T. and Fulsom, B. G. and Hearty, C. and Knecht, N. S. and Mattison, T. S. and McKenna, J. A. and Khan, A. and Kyberd, P. and Saleem, M. and Teodorescu, L. and Blinov, A. E. and Blinov, V. E. and Bukin, A. D. and Druzhinin, V. P. and Golubev, V. B. and Kravchenko, E. A. and Onuchin, A. P. and Serednyakov, S. I. and Skovpen, Yu. I. and Solodov, E. P. and Yushkov, A. N. and Best, D. and Bondioli, M. and Bruinsma, M. and Chao, M. and Curry, S. and Eschrich, I. and Kirkby, D. and Lankford, A. J. and Lund, P. and Mandelkern, M. and Mommsen, R. K. and Roethel, W. and Stoker, D. P. and Buchanan, C. and Hartfiel, B. L. and Weinstein, A. J. R. and Foulkes, S. D. and Gary, J. W. and Long, O. and Shen, B. C. and Wang, K. and Zhang, L. and del Re, D. and Hadavand, H. K. and Hill, E. J. and MacFarlane, D. B. and Paar, H. P. and Rahatlou, S. and Sharma, V. and Berryhill, J. W. and Campagnari, C. and Cunha, A. and Dahmes, B. and Hong, T. M. and Mazur, M. A. and Richman, J. D. and Verkerke, W. and Beck, T. W. and Eisner, A. M. and Flacco, C. J. and Heusch, C. A. and Kroseberg, J. and Lockman, W. S. and Nesom, G. and Schalk, T. and Schumm, B. A. and Seiden, A. and Spradlin, P. and Williams, D. C. and Wilson, M. G. and Albert, J. and Chen, E. and Dubois-Felsmann, G. P. and Dvoretskii, A. and Hitlin, D. G. and Narsky, I. and Piatenko, T. and Porter, F. C. and Ryd, A. and Samuel, A. and Andreassen, R. and Jayatilleke, S. and Mancinelli, G. and Meadows, B. T. and Sokoloff, M. D. and Blanc, F. and Bloom, P. and Chen, S. and Ford, W. T. and Hirschauer, J. F. and Kreisel, A. and Nauenberg, U. and Olivas, A. and Rankin, P. and Ruddick, W. O. and Smith, J. G. and Ulmer, K. A. and Wagner, S. R. and Zhang, J. and Chen, A. and Eckhart, E. A. and Soffer, A. and Toki, W. H. and Wilson, R. J. and Zeng, Q. and Altenburg, D. and Feltresi, E. and Hauke, A. and Spaan, B. and Brandt, T. and Brose, J. and Dickopp, M. and Klose, V. and Lacker, H. M. and Nogowski, R. and Otto, S. and Petzold, A. and Schott, G. and Schubert, J. and Schubert, K. R. and Schwierz, R. and Sundermann, J. E. and Bernard, D. and Bonneaud, G. R. and Grenier, P. and Schrenk, S. and Thiebaux, Ch. and Vasileiadis, G. and Verderi, M. and Bard, D. J. and Clark, P. J. and Gradl, W. and Muheim, F. and Playfer, S. and Xie, Y. and Andreotti, M. and Azzolini, V. and Bettoni, D. and Bozzi, C. and Calabrese, R. and Cibinetto, G. and Luppi, E. and Negrini, M. and Piemontese, L. and Anulli, F. and Baldini-Ferroli, R. and Calcaterra, A. and de Sangro, R. and Finocchiaro, G. and Patteri, P. and Peruzzi, I. M. and Piccolo, M. and Zallo, A. and Buzzo, A. and Capra, R. and Contri, R. and Lo Vetere, M. and Macri, M. and Monge, M. R. and Passaggio, S. and Patrignani, C. and Robutti, E. and Santroni, A. and Tosi, S. and Brandenburg, G. and Chaisanguanthum, K. S. and Morii, M. and Won, E. and Wu, J. and Dubitzky, R. S. and Langenegger, U. and Marks, J. and Schenk, S. and Uwer, U. and Bhimji, W. and Bowerman, D. A. and Dauncey, P. D. and Egede, U. and Flack, R. L. and Gaillard, J. R. and Morton, G. W. and Nash, J. A. and Nikolich, M. B. and Taylor, G. P. and Vazquez, W. P. and Charles, M. J. and Mader, W. F. and Mallik, U. and Mohapatra, A. K. and Cochran, J. and Crawley, H. B. and Eyges, V. and Meyer, W. T. and Prell, S. and Rosenberg, E. I. and Rubin, A. E. and Yi, J. and Arnaud, N. and Davier, M. and Giroux, X. and Grosdidier, G. and H\"ocker, A. and Le Diberder, F. and Lepeltier, V. and Lutz, A. M. and Oyanguren, A. and Petersen, T. C. and Pierini, M. and Plaszczynski, S. and Rodier, S. and Roudeau, P. and Schune, M. H. and Stocchi, A. and Wormser, G. and Cheng, C. H. and Lange, D. J. and Simani, M. C. and Wright, D. M. and Bevan, A. J. and Chavez, C. A. and Forster, I. J. and Fry, J. R. and Gabathuler, E. and Gamet, R. and George, K. A. and Hutchcroft, D. E. and Parry, R. J. and Payne, D. J. and Schofield, K. C. and Touramanis, C. and Cormack, C. M. and Di Lodovico, F. and Menges, W. and Sacco, R. and Brown, C. L. and Cowan, G. and Flaecher, H. U. and Green, M. G. and Hopkins, D. A. and Jackson, P. S. and McMahon, T. R. and Ricciardi, S. and Salvatore, F. and Brown, D. and Davis, C. L. and Allison, J. and Barlow, N. R. and Barlow, R. J. and Edgar, C. L. and Hodgkinson, M. C. and Kelly, M. P. and Lafferty, G. D. and Naisbit, M. T. and Williams, J. C. and Chen, C. and Hulsbergen, W. D. and Jawahery, A. and Kovalskyi, D. and Lae, C. K. and Roberts, D. A. and Simi, G. and Blaylock, G. and Dallapiccola, C. and Hertzbach, S. S. and Kofler, R. and Koptchev, V. B. and Li, X. and Moore, T. B. and Saremi, S. and Staengle, H. and Willocq, S. and Cowan, R. and Koeneke, K. and Sciolla, G. and Sekula, S. J. and Spitznagel, M. and Taylor, F. and Yamamoto, R. K. and Kim, H. and Patel, P. M. and Robertson, S. H. and Lazzaro, A. and Lombardo, V. and Palombo, F. and Bauer, J. M. and Cremaldi, L. and Eschenburg, V. and Godang, R. and Kroeger, R. and Reidy, J. and Sanders, D. A. and Summers, D. J. and Zhao, H. W. and Brunet, S. and C\^ot\'e, D. and Taras, P. and Viaud, B. and Nicholson, H. and Cavallo, N. and De Nardo, G. and Fabozzi, F. and Gatto, C. and Lista, L. and Monorchio, D. and Paolucci, P. and Piccolo, D. and Sciacca, C. and Baak, M. and Bulten, H. and Raven, G. and Snoek, H. L. and Wilden, L. and Jessop, C. P. and LoSecco, J. M. and Allmendinger, T. and Benelli, G. and Gan, K. K. and Honscheid, K. and Hufnagel, D. and Jackson, P. D. and Kagan, H. and Kass, R. and Pulliam, T. and Rahimi, A. M. and Ter-Antonyan, R. and Wong, Q. K. and Brau, J. and Frey, R. and Igonkina, O. and Lu, M. and Potter, C. T. and Sinev, N. B. and Strom, D. and Strube, J. and Torrence, E. and Galeazzi, F. and Margoni, M. and Morandin, M. and Posocco, M. and Rotondo, M. and Simonetto, F. and Stroili, R. and Voci, C. and Benayoun, M. and Briand, H. and Chauveau, J. and David, P. and Del Buono, L. and de la Vaissi\`ere, Ch. and Hamon, O. and John, M. J. J. and Leruste, Ph. and Malcl\`es, J. and Ocariz, J. and Roos, L. and Therin, G. and Behera, P. K. and Gladney, L. and Guo, Q. H. and Panetta, J. and Biasini, M. and Covarelli, R. and Pacetti, S. and Pioppi, M. and Angelini, C. and Batignani, G. and Bettarini, S. and Bucci, F. and Calderini, G. and Carpinelli, M. and Cenci, R. and Forti, F. and Giorgi, M. A. and Lusiani, A. and Marchiori, G. and Morganti, M. and Neri, N. and Paoloni, E. and Rama, M. and Rizzo, G. and Walsh, J. and Haire, M. and Judd, D. and Wagoner, D. E. and Biesiada, J. and Danielson, N. and Elmer, P. and Lau, Y. P. and Lu, C. and Olsen, J. and Smith, A. J. S. and Telnov, A. V. and Bellini, F. and Cavoto, G. and D'Orazio, A. and Di Marco, E. and Faccini, R. and Ferrarotto, F. and Ferroni, F. and Gaspero, M. and Li Gioi, L. and Mazzoni, M. A. and Morganti, S. and Piredda, G. and Polci, F. and Safai Tehrani, F. and Voena, C. and Schr\"oder, H. and Wagner, G. and Waldi, R. and Adye, T. and De Groot, N. and Franek, B. and Gopal, G. P. and Olaiya, E. O. and Wilson, F. F. and Aleksan, R. and Emery, S. and Gaidot, A. and Ganzhur, S. F. and Giraud, P.-F. and Graziani, G. and Hamel de Monchenault, G. and Kozanecki, W. and Legendre, M. and London, G. W. and Mayer, B. and Vasseur, G. and Y\`eche, Ch. and Zito, M. and Purohit, M. V. and Weidemann, A. W. and Wilson, J. R. and Yumiceva, F. X. and Abe, T. and Allen, M. T. and Aston, D. and van Bakel, N. and Bartoldus, R. and Berger, N. and Boyarski, A. M. and Buchmueller, O. L. and Claus, R. and Coleman, J. P. and Convery, M. R. and Cristinziani, M. and Dingfelder, J. C. and Dong, D. and Dorfan, J. and Dujmic, D. and Dunwoodie, W. and Fan, S. and Field, R. C. and Glanzman, T. and Gowdy, S. J. and Hadig, T. and Halyo, V. and Hast, C. and Hryn'ova, T. and Innes, W. R. and Kelsey, M. H. and Kim, P. and Kocian, M. L. and Leith, D. W. G. S. and Libby, J. and Luitz, S. and Luth, V. and Lynch, H. L. and Marsiske, H. and Messner, R. and Muller, D. R. and O'Grady, C. P. and Ozcan, V. E. and Perazzo, A. and Perl, M. and Ratcliff, B. N. and Roodman, A. and Salnikov, A. A. and Schindler, R. H. and Schwiening, J. and Snyder, A. and Stelzer, J. and Su, D. and Sullivan, M. K. and Suzuki, K. and Swain, S. and Thompson, J. M. and Va'vra, J. and Weaver, M. and Wisniewski, W. J. and Wittgen, M. and Wright, D. H. and Yarritu, A. K. and Yi, K. and Young, C. C. and Burchat, P. R. and Edwards, A. J. and Majewski, S. A. and Petersen, B. A. and Roat, C. and Ahmed, M. and Ahmed, S. and Alam, M. S. and Ernst, J. A. and Saeed, M. A. and Wappler, F. R. and Zain, S. B. and Bugg, W. and Krishnamurthy, M. and Spanier, S. M. and Eckmann, R. and Ritchie, J. L. and Satpathy, A. and Schwitters, R. F. and Izen, J. M. and Kitayama, I. and Lou, X. C. and Williams, G. and Ye, S. and Bianchi, F. and Bona, M. and Gallo, F. and Gamba, D. and Bomben, M. and Bosisio, L. and Cartaro, C. and Cossutti, F. and Della Ricca, G. and Dittongo, S. and Grancagnolo, S. and Lanceri, L. and Vitale, L. and Martinez-Vidal, F. and Panvini, R. S. and Banerjee, Sw. and Bhuyan, B. and Brown, C. M. and Fortin, D. and Hamano, K. and Kowalewski, R. and Roney, J. M. and Sobie, R. J. and Back, J. J. and Harrison, P. F. and Latham, T. E. and Mohanty, G. B. and Band, H. R. and Chen, X. and Cheng, B. and Dasu, S. and Datta, M. and Eichenbaum, A. M. and Flood, K. T. and Graham, M. and Hollar, J. J. and Johnson, J. R. and Kutter, P. E. and Li, H. and Liu, R. and Mellado, B. and Mihalyi, A. and Pan, Y. and Prepost, R. and Tan, P. and von Wimmersperg-Toeller, J. H. and Wu, S. L. and Yu, Z. and Neal, H.},
+  collaboration = {BABAR Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {95},
+  issue = {14},
+  pages = {142001},
+  numpages = {7},
+  year = {2005},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.95.142001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.95.142001}
+}
+
+
+
+
+
+@article{PhysRevLett.96.162003,
+  title = {Charmonium Decays of $Y(4260)$, $\ensuremath{\psi}(4160)$, and $\ensuremath{\psi}(4040)$},
+  author = {Coan, T. E. and Gao, Y. S. and Liu, F. and Artuso, M. and Blusk, S. and Butt, J. and Li, J. and Menaa, N. and Mountain, R. and Nisar, S. and Randrianarivony, K. and Redjimi, R. and Sia, R. and Skwarnicki, T. and Stone, S. and Wang, J. C. and Zhang, K. and Csorna, S. E. and Bonvicini, G. and Cinabro, D. and Dubrovin, M. and Lincoln, A. and Asner, D. M. and Edwards, K. W. and Briere, R. A. and Brock, I. and Chen, J. and Ferguson, T. and Tatishvili, G. and Vogel, H. and Watkins, M. E. and Rosner, J. L. and Adam, N. E. and Alexander, J. P. and Berkelman, K. and Cassel, D. G. and Duboscq, J. E. and Ecklund, K. M. and Ehrlich, R. and Fields, L. and Galik, R. S. and Gibbons, L. and Gray, R. and Gray, S. W. and Hartill, D. L. and Heltsley, B. K. and Hertz, D. and Jones, C. D. and Kandaswamy, J. and Kreinick, D. L. and Kuznetsov, V. E. and Mahlke-Kr\"uger, H. and Meyer, T. O. and Onyisi, P. U. E. and Patterson, J. R. and Peterson, D. and Phillips, E. A. and Pivarski, J. and Riley, D. and Ryd, A. and Sadoff, A. J. and Schwarthoff, H. and Shi, X. and Stroiney, S. and Sun, W. M. and Wilksen, T. and Weinberger, M. and Athar, S. B. and Avery, P. and Breva-Newell, L. and Patel, R. and Potlia, V. and Stoeck, H. and Yelton, J. and Rubin, P. and Cawlfield, C. and Eisenstein, B. I. and Karliner, I. and Kim, D. and Lowrey, N. and Naik, P. and Sedlack, C. and Selen, M. and White, E. J. and Wiss, J. and Shepherd, M. R. and Besson, D. and Pedlar, T. K. and Cronin-Hennessy, D. and Gao, K. Y. and Gong, D. T. and Hietala, J. and Kubota, Y. and Klein, T. and Lang, B. W. and Poling, R. and Scott, A. W. and Smith, A. and Dobbs, S. and Metreveli, Z. and Seth, K. K. and Tomaradze, A. and Zweber, P. and Ernst, J. and Severini, H. and Dytman, S. A. and Love, W. and Savinov, V. and Aquines, O. and Li, Z. and Lopez, A. and Mehrabyan, S. and Mendez, H. and Ramirez, J. and Huang, G. S. and Miller, D. H. and Pavlunin, V. and Sanghi, B. and Shipsey, I. P. J. and Xin, B. and Adams, G. S. and Anderson, M. and Cummings, J. P. and Danko, I. and Napolitano, J. and He, Q. and Insler, J. and Muramatsu, H. and Park, C. S. and Thorndike, E. H.},
+  collaboration = {CLEO Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {96},
+  issue = {16},
+  pages = {162003},
+  numpages = {6},
+  year = {2006},
+  month = {Apr},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.96.162003},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.96.162003}
+}
+
+
+
+
+
+@article{PhysRevLett.99.182004,
+  title = {Measurement of the ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}{\ensuremath{\pi}}^{+}{\ensuremath{\pi}}^{\ensuremath{-}}J/\ensuremath{\psi}$ Cross Section Via Initial-State Radiation at Belle},
+  author = {Yuan, C. Z. and Shen, C. P. and Wang, P. and McOnie, S. and Adachi, I. and Aihara, H. and Aulchenko, V. and Aushev, T. and Bahinipati, S. and Balagura, V. and Barberio, E. and Bedny, I. and Bitenc, U. and Bondar, A. and Bozek, A. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Brodzicka, J. and Browder, T. E. and Chang, M.-C. and Chang, P. and Chen, A. and Chen, K.-F. and Chen, W. T. and Cheon, B. G. and Chistov, R. and Cho, I.-S. and Choi, Y. and Dalseno, J. and Danilov, M. and Dash, M. and Eidelman, S. and Fratina, S. and Gabyshev, N. and Golob, B. and Ha, H. and Haba, J. and Hayasaka, K. and Hayashii, H. and Hazumi, M. and Heffernan, D. and Hokuue, T. and Hoshi, Y. and Hou, W.-S. and Hsiung, Y. B. and Hyun, H. J. and Iijima, T. and Ikado, K. and Inami, K. and Ishikawa, A. and Itoh, R. and Iwasaki, Y. and Kah, D. H. and Kaji, H. and Kang, J. H. and Katayama, N. and Kawai, H. and Kawasaki, T. and Kichimi, H. and Kim, Y. J. and Kinoshita, K. and Korpar, S. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kumar, R. and Kuo, C. C. and Kuzmin, A. and Kwon, Y.-J. and Lee, S. E. and Lesiak, T. and Lin, S.-W. and Liu, Y. and Liventsev, D. and Mandl, F. and Marlow, D. and Matyja, A. and Medvedeva, T. and Mitaroff, W. and Miyabayashi, K. and Miyake, H. and Miyata, H. and Miyazaki, Y. and Mizuk, R. and Mori, T. and Nagasaka, Y. and Nakao, M. and Natkaniec, Z. and Nishida, S. and Nitoh, O. and Ogawa, S. and Ohshima, T. and Okuno, S. and Olsen, S. L. and Ozaki, H. and Pakhlov, P. and Pakhlova, G. and Palka, H. and Park, H. and Park, K. S. and Peak, L. S. and Piilonen, L. E. and Sakai, Y. and Schneider, O. and Sch\"umann, J. and Seidl, R. and Senyo, K. and Sevior, M. E. and Shapkin, M. and Shibuya, H. and Shiu, J.-G. and Shwartz, B. and Singh, J. B. and Sokolov, A. and Somov, A. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Sumiyoshi, T. and Takasaki, F. and Tanaka, M. and Taylor, G. N. and Teramoto, Y. and Tikhomirov, I. and Uehara, S. and Unno, Y. and Uno, S. and Usov, Y. and Varner, G. and Varvell, K. E. and Vervink, K. and Villa, S. and Vinokurova, A. and Wang, C. C. and Wang, C. H. and Wang, X. L. and Watanabe, Y. and Won, E. and Yabsley, B. D. and Yamaguchi, A. and Yamashita, Y. and Zhang, C. C. and Zhang, Z. P. and Zhilich, V. and Zhulanov, V. and Zupanc, A.},
+  collaboration = {Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {99},
+  issue = {18},
+  pages = {182004},
+  numpages = {6},
+  year = {2007},
+  month = {Nov},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.99.182004},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.99.182004}
+}
+
+
+
+
+@article{PhysRevD.89.116005,
+  title = {Charmonium meson and hybrid radiative transitions},
+  author = {Guo, Peng and Y\'epez-Mart\'{\i}nez, Tochtli and Szczepaniak, Adam P.},
+  journal = {Phys. Rev. D},
+  volume = {89},
+  issue = {11},
+  pages = {116005},
+  numpages = {12},
+  year = {2014},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.89.116005},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.89.116005}
+}
+
+
+
+@article{PhysRevD.89.114010,
+  title = {$Z(4430)$ and a new paradigm for spin interactions in tetraquarks},
+  author = {Maiani, L. and Piccinini, F. and Polosa, A. D. and Riquer, V.},
+  journal = {Phys. Rev. D},
+  volume = {89},
+  issue = {11},
+  pages = {114010},
+  numpages = {8},
+  year = {2014},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.89.114010},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.89.114010}
+}
+
+
+
+@article{PhysRevLett.118.092001,
+  title = {Precise Measurement of the ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}{\ensuremath{\pi}}^{+}{\ensuremath{\pi}}^{\ensuremath{-}}J/\ensuremath{\psi}$ Cross Section at Center-of-Mass Energies from 3.77 to 4.60 GeV},
+  author = {Ablikim, M. and Achasov, M. N. and Ahmed, S. and Ai, X. C. and Albayrak, O. and Albrecht, M. and Ambrose, D. J. and Amoroso, A. and An, F. F. and An, Q. and Bai, J. Z. and Bakina, O. and Baldini Ferroli, R. and Ban, Y. and Bennett, D. W. and Bennett, J. V. and Berger, N. and Bertani, M. and Bettoni, D. and Bian, J. M. and Bianchi, F. and Boger, E. and Boyko, I. and Briere, R. A. and Cai, H. and Cai, X. and Cakir, O. and Calcaterra, A. and Cao, G. F. and Cetin, S. A. and Chai, J. and Chang, J. F. and Chelkov, G. and Chen, G. and Chen, H. S. and Chen, J. C. and Chen, M. L. and Chen, S. and Chen, S. J. and Chen, X. and Chen, X. R. and Chen, Y. B. and Chu, X. K. and Cibinetto, G. and Dai, H. L. and Dai, J. P. and Dbeyssi, A. and Dedovich, D. and Deng, Z. Y. and Denig, A. and Denysenko, I. and Destefanis, M. and De Mori, F. and Ding, Y. and Dong, C. and Dong, J. and Dong, L. Y. and Dong, M. Y. and Dou, Z. L. and Du, S. X. and Duan, P. F. and Fan, J. Z. and Fang, J. and Fang, S. S. and Fang, X. and Fang, Y. and Farinelli, R. and Fava, L. and Feldbauer, F. and Felici, G. and Feng, C. Q. and Fioravanti, E. and Fritsch, M. and Fu, C. D. and Gao, Q. and Gao, X. L. and Gao, Y. and Gao, Z. and Garzia, I. and Goetzen, K. and Gong, L. and Gong, W. X. and Gradl, W. and Greco, M. and Gu, M. H. and Gu, Y. T. and Guan, Y. H. and Guo, A. Q. and Guo, L. B. and Guo, R. P. and Guo, Y. and Guo, Y. P. and Haddadi, Z. and Hafner, A. and Han, S. and Hao, X. Q. and Harris, F. A. and He, K. L. and Heinsius, F. H. and Held, T. and Heng, Y. K. and Holtmann, T. and Hou, Z. L. and Hu, C. and Hu, H. M. and Hu, J. F. and Hu, T. and Hu, Y. and Huang, G. S. and Huang, J. S. and Huang, X. T. and Huang, X. Z. and Huang, Z. L. and Hussain, T. and Ikegami Andersson, W. and Ji, Q. and Ji, Q. P. and Ji, X. B. and Ji, X. L. and Jiang, L. W. and Jiang, X. S. and Jiang, X. Y. and Jiao, J. B. and Jiao, Z. and Jin, D. P. and Jin, S. and Johansson, T. and Julin, A. and Kalantar-Nayestanaki, N. and Kang, X. L. and Kang, X. S. and Kavatsyuk, M. and Ke, B. C. and Kiese, P. and Kliemt, R. and Kloss, B. and Kolcu, O. B. and Kopf, B. and Kornicer, M. and Kupsc, A. and K\"uhn, W. and Lange, J. S. and Lara, M. and Larin, P. and Lavezzi, L. and Leithoff, H. and Leng, C. and Li, C. and Li, Cheng and Li, D. M. and Li, F. and Li, F. Y. and Li, G. and Li, H. B. and Li, H. J. and Li, J. C. and Li, Jin and Li, K. and Li, K. and Li, Lei and Li, P. R. and Li, Q. Y. and Li, T. and Li, W. D. and Li, W. G. and Li, X. L. and Li, X. N. and Li, X. Q. and Li, Y. B. and Li, Z. B. and Liang, H. and Liang, Y. F. and Liang, Y. T. and Liao, G. R. and Lin, D. X. and Liu, B. and Liu, B. J. and Liu, C. X. and Liu, D. and Liu, F. H. and Liu, Fang and Liu, Feng and Liu, H. B. and Liu, H. H. and Liu, H. H. and Liu, H. M. and Liu, J. and Liu, J. B. and Liu, J. P. and Liu, J. Y. and Liu, K. and Liu, K. Y. and Liu, L. D. and Liu, P. L. and Liu, Q. and Liu, S. B. and Liu, X. and Liu, Y. B. and Liu, Y. Y. and Liu, Z. A. and Liu, Zhiqing and Loehner, H. and Lou, X. C. and Lu, H. J. and Lu, J. G. and Lu, Y. and Lu, Y. P. and Luo, C. L. and Luo, M. X. and Luo, T. and Luo, X. L. and Lyu, X. R. and Ma, F. C. and Ma, H. L. and Ma, L. L. and Ma, M. M. and Ma, Q. M. and Ma, T. and Ma, X. N. and Ma, X. Y. and Ma, Y. M. and Maas, F. E. and Maggiora, M. and Malik, Q. A. and Mao, Y. J. and Mao, Z. P. and Marcello, S. and Messchendorp, J. G. and Mezzadri, G. and Min, J. and Min, T. J. and Mitchell, R. E. and Mo, X. H. and Mo, Y. J. and Morales Morales, C. and Muchnoi, N. Yu. and Muramatsu, H. and Musiol, P. and Nefedov, Y. and Nerling, F. and Nikolaev, I. B. and Ning, Z. and Nisar, S. and Niu, S. L. and Niu, X. Y. and Olsen, S. L. and Ouyang, Q. and Pacetti, S. and Pan, Y. and Patteri, P. and Pelizaeus, M. and Peng, H. P. and Peters, K. and Pettersson, J. and Ping, J. L. and Ping, R. G. and Poling, R. and Prasad, V. and Qi, H. R. and Qi, M. and Qian, S. and Qiao, C. F. and Qin, L. Q. and Qin, N. and Qin, X. S. and Qin, Z. H. and Qiu, J. F. and Rashid, K. H. and Redmer, C. F. and Ripka, M. and Rong, G. and Rosner, Ch. and Ruan, X. D. and Sarantsev, A. and Savri\'e, M. and Schnier, C. and Schoenning, K. and Shan, W. and Shao, M. and Shen, C. P. and Shen, P. X. and Shen, X. Y. and Sheng, H. Y. and Song, W. M. and Song, X. Y. and Sosio, S. and Spataro, S. and Sun, G. X. and Sun, J. F. and Sun, S. S. and Sun, X. H. and Sun, Y. J. and Sun, Y. Z. and Sun, Z. J. and Sun, Z. T. and Tang, C. J. and Tang, X. and Tapan, I. and Thorndike, E. H. and Tiemens, M. and Uman, I. and Varner, G. S. and Wang, B. and Wang, B. L. and Wang, D. and Wang, D. Y. and Wang, K. and Wang, L. L. and Wang, L. S. and Wang, M. and Wang, P. and Wang, P. L. and Wang, W. and Wang, W. P. and Wang, X. F. and Wang, Y. and Wang, Y. D. and Wang, Y. F. and Wang, Y. Q. and Wang, Z. and Wang, Z. G. and Wang, Z. H. and Wang, Z. Y. and Wang, Z. Y. and Weber, T. and Wei, D. H. and Weidenkaff, P. and Wen, S. P. and Wiedner, U. and Wolke, M. and Wu, L. H. and Wu, L. J. and Wu, Z. and Xia, L. and Xia, L. G. and Xia, Y. and Xiao, D. and Xiao, H. and Xiao, Z. J. and Xie, Y. G. and Xie, Yuehong and Xiu, Q. L. and Xu, G. F. and Xu, J. J. and Xu, L. and Xu, Q. J. and Xu, Q. N. and Xu, X. P. and Yan, L. and Yan, W. B. and Yan, W. C. and Yan, Y. H. and Yang, H. J. and Yang, H. X. and Yang, L. and Yang, Y. X. and Ye, M. and Ye, M. H. and Yin, J. H. and You, Z. Y. and Yu, B. X. and Yu, C. X. and Yu, J. S. and Yuan, C. Z. and Yuan, Y. and Yuncu, A. and Zafar, A. A. and Zeng, Y. and Zeng, Z. and Zhang, B. X. and Zhang, B. Y. and Zhang, C. C. and Zhang, D. H. and Zhang, H. H. and Zhang, H. Y. and Zhang, J. and Zhang, J. J. and Zhang, J. L. and Zhang, J. Q. and Zhang, J. W. and Zhang, J. Y. and Zhang, J. Z. and Zhang, K. and Zhang, L. and Zhang, S. Q. and Zhang, X. Y. and Zhang, Y. and Zhang, Y. and Zhang, Y. H. and Zhang, Y. N. and Zhang, Y. T. and Zhang, Yu and Zhang, Z. H. and Zhang, Z. P. and Zhang, Z. Y. and Zhao, G. and Zhao, J. W. and Zhao, J. Y. and Zhao, J. Z. and Zhao, Lei and Zhao, Ling and Zhao, M. G. and Zhao, Q. and Zhao, Q. W. and Zhao, S. J. and Zhao, T. C. and Zhao, Y. B. and Zhao, Z. G. and Zhemchugov, A. and Zheng, B. and Zheng, J. P. and Zheng, W. J. and Zheng, Y. H. and Zhong, B. and Zhou, L. and Zhou, X. and Zhou, X. K. and Zhou, X. R. and Zhou, X. Y. and Zhu, K. and Zhu, K. J. and Zhu, S. and Zhu, S. H. and Zhu, X. L. and Zhu, Y. C. and Zhu, Y. S. and Zhu, Z. A. and Zhuang, J. and Zotti, L. and Zou, B. S. and Zou, J. H.},
+  collaboration = {BESIII Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {118},
+  issue = {9},
+  pages = {092001},
+  numpages = {8},
+  year = {2017},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.118.092001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.118.092001}
+}
+
+
+
+@article{PhysRevLett.98.212001,
+  title = {Evidence of a Broad Structure at an Invariant Mass of $4.32\text{ }\text{ }\mathrm{GeV}/{c}^{2}$ in the Reaction ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}{\ensuremath{\pi}}^{+}{\ensuremath{\pi}}^{\ensuremath{-}}\ensuremath{\psi}(2S)$ Measured at BABAR},
+  author = {Aubert, B. and Barate, R. and Bona, M. and Boutigny, D. and Couderc, F. and Karyotakis, Y. and Lees, J. P. and Poireau, V. and Tisserand, V. and Zghiche, A. and Grauges, E. and Palano, A. and Chen, J. C. and Qi, N. D. and Rong, G. and Wang, P. and Zhu, Y. S. and Eigen, G. and Ofte, I. and Stugu, B. and Abrams, G. S. and Battaglia, M. and Brown, D. N. and Button-Shafer, J. and Cahn, R. N. and Charles, E. and Gill, M. S. and Groysman, Y. and Jacobsen, R. G. and Kadyk, J. A. and Kerth, L. T. and Kolomensky, Yu. G. and Kukartsev, G. and Lynch, G. and Mir, L. M. and Orimoto, T. J. and Pripstein, M. and Roe, N. A. and Ronan, M. T. and Wenzel, W. A. and del Amo Sanchez, P. and Barrett, M. and Ford, K. E. and Harrison, T. J. and Hart, A. J. and Hawkes, C. M. and Morgan, S. E. and Watson, A. T. and Held, T. and Koch, H. and Lewandowski, B. and Pelizaeus, M. and Peters, K. and Schroeder, T. and Steinke, M. and Boyd, J. T. and Burke, J. P. and Cottingham, W. N. and Walker, D. and Cuhadar-Donszelmann, T. and Fulsom, B. G. and Hearty, C. and Knecht, N. S. and Mattison, T. S. and McKenna, J. A. and Khan, A. and Kyberd, P. and Saleem, M. and Sherwood, D. J. and Teodorescu, L. and Blinov, V. E. and Bukin, A. D. and Druzhinin, V. P. and Golubev, V. B. and Onuchin, A. P. and Serednyakov, S. I. and Skovpen, Yu. I. and Solodov, E. P. and Todyshev, K. Yu and Best, D. S. and Bondioli, M. and Bruinsma, M. and Chao, M. and Curry, S. and Eschrich, I. and Kirkby, D. and Lankford, A. J. and Lund, P. and Mandelkern, M. and Mommsen, R. K. and Roethel, W. and Stoker, D. P. and Abachi, S. and Buchanan, C. and Foulkes, S. D. and Gary, J. W. and Long, O. and Shen, B. C. and Wang, K. and Zhang, L. and Hadavand, H. K. and Hill, E. J. and Paar, H. P. and Rahatlou, S. and Sharma, V. and Berryhill, J. W. and Campagnari, C. and Cunha, A. and Dahmes, B. and Hong, T. M. and Kovalskyi, D. and Richman, J. D. and Beck, T. W. and Eisner, A. M. and Flacco, C. J. and Heusch, C. A. and Kroseberg, J. and Lockman, W. S. and Nesom, G. and Schalk, T. and Schumm, B. A. and Seiden, A. and Spradlin, P. and Williams, D. C. and Wilson, M. G. and Albert, J. and Chen, E. and Dvoretskii, A. and Fang, F. and Hitlin, D. G. and Narsky, I. and Piatenko, T. and Porter, F. C. and Ryd, A. and Samuel, A. and Mancinelli, G. and Meadows, B. T. and Mishra, K. and Sokoloff, M. D. and Blanc, F. and Bloom, P. C. and Chen, S. and Ford, W. T. and Hirschauer, J. F. and Kreisel, A. and Nagel, M. and Nauenberg, U. and Olivas, A. and Ruddick, W. O. and Smith, J. G. and Ulmer, K. A. and Wagner, S. R. and Zhang, J. and Chen, A. and Eckhart, E. A. and Soffer, A. and Toki, W. H. and Wilson, R. J. and Winklmeier, F. and Zeng, Q. and Altenburg, D. D. and Feltresi, E. and Hauke, A. and Jasper, H. and Petzold, A. and Spaan, B. and Brandt, T. and Klose, V. and Lacker, H. M. and Mader, W. F. and Nogowski, R. and Schubert, J. and Schubert, K. R. and Schwierz, R. and Sundermann, J. E. and Volk, A. and Bernard, D. and Bonneaud, G. R. and Grenier, P. and Latour, E. and Thiebaux, Ch. and Verderi, M. and Clark, P. J. and Gradl, W. and Muheim, F. and Playfer, S. and Robertson, A. I. and Xie, Y. and Andreotti, M. and Bettoni, D. and Bozzi, C. and Calabrese, R. and Cibinetto, G. and Luppi, E. and Negrini, M. and Petrella, A. and Piemontese, L. and Prencipe, E. and Anulli, F. and Baldini-Ferroli, R. and Calcaterra, A. and de Sangro, R. and Finocchiaro, G. and Pacetti, S. and Patteri, P. and Peruzzi, I. M. and Piccolo, M. and Rama, M. and Zallo, A. and Buzzo, A. and Capra, R. and Contri, R. and Lo Vetere, M. and Macri, M. M. and Monge, M. R. and Passaggio, S. and Patrignani, C. and Robutti, E. and Santroni, A. and Tosi, S. and Brandenburg, G. and Chaisanguanthum, K. S. and Morii, M. and Wu, J. and Dubitzky, R. S. and Marks, J. and Schenk, S. and Uwer, U. and Bard, D. J. and Bhimji, W. and Bowerman, D. A. and Dauncey, P. D. and Egede, U. and Flack, R. L. and Nash, J. A. and Nikolich, M. B. and Panduro Vazquez, W. and Behera, P. K. and Chai, X. and Charles, M. J. and Mallik, U. and Meyer, N. T. and Ziegler, V. and Cochran, J. and Crawley, H. B. and Dong, L. and Eyges, V. and Meyer, W. T. and Prell, S. and Rosenberg, E. I. and Rubin, A. E. and Gritsan, A. V. and Denig, A. G. and Fritsch, M. and Schott, G. and Arnaud, N. and Davier, M. and Grosdidier, G. and H\"ocker, A. and Le Diberder, F. and Lepeltier, V. and Lutz, A. M. and Oyanguren, A. and Pruvot, S. and Rodier, S. and Roudeau, P. and Schune, M. H. and Stocchi, A. and Wang, W. F. and Wormser, G. and Cheng, C. H. and Lange, D. J. and Wright, D. M. and Chavez, C. A. and Forster, I. J. and Fry, J. R. and Gabathuler, E. and Gamet, R. and George, K. A. and Hutchcroft, D. E. and Payne, D. J. and Schofield, K. C. and Touramanis, C. and Bevan, A. J. and Di Lodovico, F. and Menges, W. and Sacco, R. and Cowan, G. and Flaecher, H. U. and Hopkins, D. A. and Jackson, P. S. and McMahon, T. R. and Ricciardi, S. and Salvatore, F. and Wren, A. C. and Brown, D. N. and Davis, C. L. and Allison, J. and Barlow, N. R. and Barlow, R. J. and Chia, Y. M. and Edgar, C. L. and Lafferty, G. D. and Naisbit, M. T. and Williams, J. C. and Yi, J. I. and Chen, C. and Hulsbergen, W. D. and Jawahery, A. and Lae, C. K. and Roberts, D. A. and Simi, G. and Blaylock, G. and Dallapiccola, C. and Hertzbach, S. S. and Li, X. and Moore, T. B. and Saremi, S. and Staengle, H. and Cowan, R. and Sciolla, G. and Sekula, S. J. and Spitznagel, M. and Taylor, F. and Yamamoto, R. K. and Kim, H. and Mclachlin, S. E. and Patel, P. M. and Robertson, S. H. and Lazzaro, A. and Lombardo, V. and Palombo, F. and Bauer, J. M. and Cremaldi, L. and Eschenburg, V. and Godang, R. and Kroeger, R. and Sanders, D. A. and Summers, D. J. and Zhao, H. W. and Brunet, S. and C\^ot\'e, D. and Simard, M. and Taras, P. and Viaud, F. B. and Nicholson, H. and Cavallo, N. and De Nardo, G. and Fabozzi, F. and Gatto, C. and Lista, L. and Monorchio, D. and Paolucci, P. and Piccolo, D. and Sciacca, C. and Baak, M. and Raven, G. and Snoek, H. L. and Jessop, C. P. and LoSecco, J. M. and Allmendinger, T. and Benelli, G. and Gan, K. K. and Honscheid, K. and Hufnagel, D. and Jackson, P. D. and Kagan, H. and Kass, R. and Rahimi, A. M. and Ter-Antonyan, R. and Wong, Q. K. and Blount, N. L. and Brau, J. and Frey, R. and Igonkina, O. and Lu, M. and Rahmat, R. and Sinev, N. B. and Strom, D. and Strube, J. and Torrence, E. and Gaz, A. and Margoni, M. and Morandin, M. and Pompili, A. and Posocco, M. and Rotondo, M. and Simonetto, F. and Stroili, R. and Voci, C. and Benayoun, M. and Chauveau, J. and Briand, H. and David, P. and Del Buono, L. and de la Vaissi\`ere, Ch. and Hamon, O. and Hartfiel, B. L. and John, M. J. J. and Leruste, Ph. and Malcl\`es, J. and Ocariz, J. and Roos, L. and Therin, G. and Gladney, L. and Panetta, J. and Biasini, M. and Covarelli, R. and Angelini, C. and Batignani, G. and Bettarini, S. and Bucci, F. and Calderini, G. and Carpinelli, M. and Cenci, R. and Forti, F. and Giorgi, M. A. and Lusiani, A. and Marchiori, G. and Mazur, M. A. and Morganti, M. and Neri, N. and Rizzo, G. and Walsh, J. J. and Haire, M. and Judd, D. and Wagoner, D. E. and Biesiada, J. and Danielson, N. and Elmer, P. and Lau, Y. P. and Lu, C. and Olsen, J. and Smith, A. J. S. and Telnov, A. V. and Bellini, F. and Cavoto, G. and D'Orazio, A. and del Re, D. and Di Marco, E. and Faccini, R. and Ferrarotto, F. and Ferroni, F. and Gaspero, M. and Li Gioi, L. and Mazzoni, M. A. and Morganti, S. and Piredda, G. and Polci, F. and Safai Tehrani, F. and Voena, C. and Ebert, M. and Schr\"oder, H. and Waldi, R. and Adye, T. and De Groot, N. and Franek, B. and Olaiya, E. O. and Wilson, F. F. and Aleksan, R. and Emery, S. and Gaidot, A. and Ganzhur, S. F. and Hamel de Monchenault, G. and Kozanecki, W. and Legendre, M. and Vasseur, G. and Y\`eche, Ch. and Zito, M. and Chen, X. R. and Liu, H. and Park, W. and Purohit, M. V. and Wilson, J. R. and Allen, M. T. and Aston, D. and Bartoldus, R. and Bechtle, P. and Berger, N. and Claus, R. and Coleman, J. P. and Convery, M. R. and Cristinziani, M. and Dingfelder, J. C. and Dorfan, J. and Dubois-Felsmann, G. P. and Dujmic, D. and Dunwoodie, W. and Field, R. C. and Glanzman, T. and Gowdy, S. J. and Graham, M. T. and Halyo, V. and Hast, C. and Hryn'ova, T. and Innes, W. R. and Kelsey, M. H. and Kim, P. and Leith, D. W. G. S. and Li, S. and Luitz, S. and Luth, V. and Lynch, H. L. and MacFarlane, D. B. and Marsiske, H. and Messner, R. and Muller, D. R. and O'Grady, C. P. and Ozcan, V. E. and Perazzo, A. and Perl, M. and Pulliam, T. and Ratcliff, B. N. and Roodman, A. and Salnikov, A. A. and Schindler, R. H. and Schwiening, J. and Snyder, A. and Stelzer, J. and Su, D. and Sullivan, M. K. and Suzuki, K. and Swain, S. K. and Thompson, J. M. and Va'vra, J. and van Bakel, N. and Weaver, M. and Weinstein, A. J. R. and Wisniewski, W. J. and Wittgen, M. and Wright, D. H. and Yarritu, A. K. and Yi, K. and Young, C. C. and Burchat, P. R. and Edwards, A. J. and Majewski, S. A. and Petersen, B. A. and Roat, C. and Wilden, L. and Ahmed, S. and Alam, M. S. and Bula, R. and Ernst, J. A. and Jain, V. and Pan, B. and Saeed, M. A. and Wappler, F. R. and Zain, S. B. and Bugg, W. and Krishnamurthy, M. and Spanier, S. M. and Eckmann, R. and Ritchie, J. L. and Satpathy, A. and Schilling, C. J. and Schwitters, R. F. and Izen, J. M. and Lou, X. C. and Ye, S. and Bianchi, F. and Gallo, F. and Gamba, D. and Bomben, M. and Bosisio, L. and Cartaro, C. and Cossutti, F. and Della Ricca, G. and Dittongo, S. and Lanceri, L. and Vitale, L. and Azzolini, V. and Martinez-Vidal, F. and Banerjee, Sw. and Bhuyan, B. and Brown, C. M. and Fortin, D. and Hamano, K. and Kowalewski, R. and Nugent, I. M. and Roney, J. M. and Sobie, R. J. and Back, J. J. and Harrison, P. F. and Latham, T. E. and Mohanty, G. B. and Pappagallo, M. and Band, H. R. and Chen, X. and Cheng, B. and Dasu, S. and Datta, M. and Flood, K. T. and Hollar, J. J. and Kutter, P. E. and Mellado, B. and Mihalyi, A. and Pan, Y. and Pierini, M. and Prepost, R. and Wu, S. L. and Yu, Z. and Neal, H.},
+  collaboration = {BABAR Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {98},
+  issue = {21},
+  pages = {212001},
+  numpages = {7},
+  year = {2007},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.98.212001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.98.212001}
+}
+
+
+@article{PhysRevLett.99.142002,
+  title = {Observation of Two Resonant Structures in ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}{\ensuremath{\pi}}^{+}{\ensuremath{\pi}}^{\ensuremath{-}}\ensuremath{\psi}(2S)$ via Initial-State Radiation at Belle},
+  author = {Wang, X. L. and Yuan, C. Z. and Shen, C. P. and Wang, P. and Adachi, I. and Aihara, H. and Arinstein, K. and Aushev, T. and Bakich, A. M. and Barberio, E. and Bedny, I. and Bhardwaj, V. and Bitenc, U. and Blyth, S. and Bondar, A. and Bozek, A. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Brodzicka, J. and Browder, T. E. and Chang, P. and Chen, A. and Chen, K.-F. and Cheon, B. G. and Chiang, C.-C. and Chistov, R. and Cho, I.-S. and Choi, S.-K. and Choi, Y. and Dalseno, J. and Danilov, M. and Dash, M. and Drutskoy, A. and Eidelman, S. and Epifanov, D. and Gabyshev, N. and Go, A. and Gokhroo, G. and Ha, H. and Hayasaka, K. and Hayashii, H. and Hazumi, M. and Heffernan, D. and Hoshi, Y. and Hou, W.-S. and Hyun, H. J. and Iijima, T. and Inami, K. and Ishikawa, A. and Ishino, H. and Itoh, R. and Iwasaki, Y. and Kah, D. H. and Kang, J. H. and Kawai, H. and Kawasaki, T. and Kichimi, H. and Kim, H. O. and Kim, S. K. and Kim, Y. J. and Kinoshita, K. and Korpar, S. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kumar, R. and Kuo, C. C. and Kuzmin, A. and Lange, J. S. and Lee, J. S. and Lee, M. J. and Lee, S. E. and Lesiak, T. and Limosani, A. and Lin, S.-W. and Liu, Y. and Liventsev, D. and Mandl, F. and McOnie, S. and Medvedeva, T. and Miyabayashi, K. and Miyake, H. and Miyata, H. and Mizuk, R. and Mori, T. and Nakano, E. and Nakao, M. and Nakazawa, H. and Natkaniec, Z. and Nishida, S. and Nitoh, O. and Noguchi, S. and Ogawa, S. and Ohshima, T. and Okuno, S. and Olsen, S. L. and Ozaki, H. and Pakhlov, P. and Pakhlova, G. and Palka, H. and Park, C. W. and Park, H. and Park, K. S. and Pestotnik, R. and Piilonen, L. E. and Poluektov, A. and Sahoo, H. and Sakai, Y. and Schneider, O. and Sekiya, A. and Sevior, M. E. and Shapkin, M. and Shibuya, H. and Shiu, J.-G. and Shwartz, B. and Singh, J. B. and Sokolov, A. and Somov, A. and Stani\ifmmode \check{c}\else \v{c}\fi{}, S. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Sumiyoshi, T. and Takasaki, F. and Tamai, K. and Tanaka, M. and Taylor, G. N. and Teramoto, Y. and Tikhomirov, I. and Uehara, S. and Ueno, K. and Uglov, T. and Unno, Y. and Uno, S. and Urquijo, P. and Varner, G. and Villa, S. and Vinokurova, A. and Wang, C. C. and Wang, C. H. and Watanabe, Y. and Won, E. and Yabsley, B. D. and Yamaguchi, A. and Yamashita, Y. and Yamauchi, M. and Zhang, C. C. and Zhang, Z. P. and Zhilich, V. and Zhulanov, V. and Zupanc, A.},
+  collaboration = {Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {99},
+  issue = {14},
+  pages = {142002},
+  numpages = {5},
+  year = {2007},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.99.142002},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.99.142002}
+}
+
+
+@article{PhysRevLett.110.252001,
+  title = {Observation of a Charged Charmoniumlike Structure in ${e}^{\mathbf{+}}{e}^{\mathbf{\ensuremath{-}}}\ensuremath{\rightarrow}{\ensuremath{\pi}}^{\mathbf{+}}{\ensuremath{\pi}}^{\mathbf{\ensuremath{-}}}J/\ensuremath{\psi}$ at $\sqrt{s}\mathbf{=}4.26\text{ }\text{ }\mathrm{GeV}$},
+  author = {Ablikim, M. and Achasov, M. N. and Ai, X. C. and Albayrak, O. and Ambrose, D. J. and An, F. F. and An, Q. and Bai, J. Z. and Baldini Ferroli, R. and Ban, Y. and Becker, J. and Bennett, J. V. and Bertani, M. and Bian, J. M. and Boger, E. and Bondarenko, O. and Boyko, I. and Briere, R. A. and Bytev, V. and Cai, H. and Cai, X. and Cakir, O. and Calcaterra, A. and Cao, G. F. and Cetin, S. A. and Chang, J. F. and Chelkov, G. and Chen, G. and Chen, H. S. and Chen, J. C. and Chen, M. L. and Chen, S. J. and Chen, X. and Chen, Y. B. and Cheng, H. P. and Chu, Y. P. and Cronin-Hennessy, D. and Dai, H. L. and Dai, J. P. and Dedovich, D. and Deng, Z. Y. and Denig, A. and Denysenko, I. and Destefanis, M. and Ding, W. M. and Ding, Y. and Dong, L. Y. and Dong, M. Y. and Du, S. X. and Fang, J. and Fang, S. S. and Fava, L. and Feng, C. Q. and Friedel, P. and Fu, C. D. and Fu, J. L. and Fuks, O. and Gao, Q. and Gao, Y. and Geng, C. and Goetzen, K. and Gong, W. X. and Gradl, W. and Greco, M. and Gu, M. H. and Gu, Y. T. and Guan, Y. H. and Guo, A. Q. and Guo, L. B. and Guo, T. and Guo, Y. P. and Han, Y. L. and Harris, F. A. and He, K. L. and He, M. and He, Z. Y. and Held, T. and Heng, Y. K. and Hou, Z. L. and Hu, C. and Hu, H. M. and Hu, J. F. and Hu, T. and Huang, G. M. and Huang, G. S. and Huang, J. S. and Huang, L. and Huang, X. T. and Huang, Y. and Huang, Y. P. and Hussain, T. and Ji, C. S. and Ji, Q. and Ji, Q. P. and Ji, X. B. and Ji, X. L. and Jiang, L. L. and Jiang, X. S. and Jiao, J. B. and Jiao, Z. and Jin, D. P. and Jin, S. and Jing, F. F. and Kalantar-Nayestanaki, N. and Kavatsyuk, M. and Kopf, B. and Kornicer, M. and K\"uhn, W. and Lai, W. and Lange, J. S. and Lara, M. and Larin, P. and Leyhe, M. and Li, C. H. and Li, Cheng and Li, Cui and Li, D. M. and Li, F. and Li, G. and Li, H. B. and Li, J. C. and Li, K. and Li, Lei and Li, Q. J. and Li, S. L. and Li, W. D. and Li, W. G. and Li, X. L. and Li, X. N. and Li, X. Q. and Li, X. R. and Li, Z. B. and Liang, H. and Liang, Y. F. and Liang, Y. T. and Liao, G. R. and Liao, X. T. and Lin, D. and Liu, B. J. and Liu, C. L. and Liu, C. X. and Liu, F. H. and Liu, Fang and Liu, Feng and Liu, H. and Liu, H. B. and Liu, H. H. and Liu, H. M. and Liu, H. W. and Liu, J. P. and Liu, K. and Liu, K. Y. and Liu, Kai and Liu, P. L. and Liu, Q. and Liu, S. B. and Liu, X. and Liu, Y. B. and Liu, Z. A. and Liu, Zhiqiang and Liu, Zhiqing and Loehner, H. and Lou, X. C. and Lu, G. R. and Lu, H. J. and Lu, J. G. and Lu, Q. W. and Lu, X. R. and Lu, Y. P. and Luo, C. L. and Luo, M. X. and Luo, T. and Luo, X. L. and Lv, M. and Ma, C. L. and Ma, F. C. and Ma, H. L. and Ma, Q. M. and Ma, S. and Ma, T. and Ma, X. Y. and Maas, F. E. and Maggiora, M. and Malik, Q. A. and Mao, Y. J. and Mao, Z. P. and Messchendorp, J. G. and Min, J. and Min, T. J. and Mitchell, R. E. and Mo, X. H. and Mo, Y. J. and Moeini, H. and Morales Morales, C. and Moriya, K. and Muchnoi, N. Yu. and Muramatsu, H. and Nefedov, Y. and Nicholson, C. and Nikolaev, I. B. and Ning, Z. and Olsen, S. L. and Ouyang, Q. and Pacetti, S. and Park, J. W. and Pelizaeus, M. and Peng, H. P. and Peters, K. and Ping, J. L. and Ping, R. G. and Poling, R. and Prencipe, E. and Qi, M. and Qian, S. and Qiao, C. F. and Qin, L. Q. and Qin, X. S. and Qin, Y. and Qin, Z. H. and Qiu, J. F. and Rashid, K. H. and Rong, G. and Ruan, X. D. and Sarantsev, A. and Schaefer, B. D. and Shao, M. and Shen, C. P. and Shen, X. Y. and Sheng, H. Y. and Shepherd, M. R. and Song, W. M. and Song, X. Y. and Spataro, S. and Spruck, B. and Sun, D. H. and Sun, G. X. and Sun, J. F. and Sun, S. S. and Sun, Y. J. and Sun, Y. Z. and Sun, Z. J. and Sun, Z. T. and Tang, C. J. and Tang, X. and Tapan, I. and Thorndike, E. H. and Toth, D. and Ullrich, M. and Uman, I. and Varner, G. S. and Wang, B. Q. and Wang, D. and Wang, D. Y. and Wang, K. and Wang, L. L. and Wang, L. S. and Wang, M. and Wang, P. and Wang, P. L. and Wang, Q. J. and Wang, S. G. and Wang, X. F. and Wang, X. L. and Wang, Y. D. and Wang, Y. F. and Wang, Y. Q. and Wang, Z. and Wang, Z. G. and Wang, Z. Y. and Wei, D. H. and Wei, J. B. and Weidenkaff, P. and Wen, Q. G. and Wen, S. P. and Werner, M. and Wiedner, U. and Wu, L. H. and Wu, N. and Wu, S. X. and Wu, W. and Wu, Z. and Xia, L. G. and Xia, Y. X. and Xiao, Z. J. and Xie, Y. G. and Xiu, Q. L. and Xu, G. F. and Xu, G. M. and Xu, Q. J. and Xu, Q. N. and Xu, X. P. and Xu, Z. R. and Xue, F. and Xue, Z. and Yan, L. and Yan, W. B. and Yan, Y. H. and Yang, H. X. and Yang, Y. and Yang, Y. X. and Ye, H. and Ye, M. and Ye, M. H. and Yu, B. X. and Yu, C. X. and Yu, H. W. and Yu, J. S. and Yu, S. P. and Yuan, C. Z. and Yuan, Y. and Zafar, A. A. and Zallo, A. and Zang, S. L. and Zeng, Y. and Zhang, B. X. and Zhang, B. Y. and Zhang, C. and Zhang, C. C. and Zhang, D. H. and Zhang, H. H. and Zhang, H. Y. and Zhang, J. Q. and Zhang, J. W. and Zhang, J. Y. and Zhang, J. Z. and Zhang, LiLi and Zhang, R. and Zhang, S. H. and Zhang, X. J. and Zhang, X. Y. and Zhang, Y. and Zhang, Y. H. and Zhang, Z. P. and Zhang, Z. Y. and Zhang, Zhenghao and Zhao, G. and Zhao, H. S. and Zhao, J. W. and Zhao, K. X. and Zhao, Lei and Zhao, Ling and Zhao, M. G. and Zhao, Q. and Zhao, S. J. and Zhao, T. C. and Zhao, X. H. and Zhao, Y. B. and Zhao, Z. G. and Zhemchugov, A. and Zheng, B. and Zheng, J. P. and Zheng, Y. H. and Zhong, B. and Zhou, L. and Zhou, X. and Zhou, X. K. and Zhou, X. R. and Zhu, C. and Zhu, K. and Zhu, K. J. and Zhu, S. H. and Zhu, X. L. and Zhu, Y. C. and Zhu, Y. M. and Zhu, Y. S. and Zhu, Z. A. and Zhuang, J. and Zou, B. S. and Zou, J. H.},
+  collaboration = {BESIII Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {110},
+  issue = {25},
+  pages = {252001},
+  numpages = {7},
+  year = {2013},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.110.252001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.110.252001}
+}
+
+
+
+@article{PhysRevD.90.112009,
+  title = {Observation of a new charged charmoniumlike state in ${\overline{B}}^{0}\ensuremath{\rightarrow}J/\ensuremath{\psi}{K}^{\ensuremath{-}}{\ensuremath{\pi}}^{+}$ decays},
+  author = {Chilikin, K. and Mizuk, R. and Adachi, I. and Aihara, H. and Al Said, S. and Arinstein, K. and Asner, D. M. and Aulchenko, V. and Aushev, T. and Ayad, R. and Aziz, T. and Bakich, A. M. and Bansal, V. and Bondar, A. and Bonvicini, G. and Bozek, A. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Browder, T. E. and \ifmmode \check{C}\else \v{C}\fi{}ervenkov, D. and Chekelian, V. and Chen, A. and Cheon, B. G. and Chistov, R. and Cho, K. and Chobanova, V. and Choi, S.-K. and Choi, Y. and Cinabro, D. and Danilov, M. and Dole\ifmmode \check{z}\else \v{z}\fi{}al, Z. and Dr\'asal, Z. and Drutskoy, A. and Dutta, K. and Eidelman, S. and Epifanov, D. and Farhat, H. and Fast, J. E. and Ferber, T. and Frost, O. and Gaur, V. and Gabyshev, N. and Ganguly, S. and Garmash, A. and Gillard, R. and Goh, Y. M. and Golob, B. and Grzymkowska, O. and Haba, J. and Hara, T. and Hayasaka, K. and Hayashii, H. and He, X. H. and Hou, W.-S. and Huschle, M. and Hyun, H. J. and Ishikawa, A. and Itoh, R. and Iwasaki, Y. and Jaegle, I. and Joo, K. K. and Julius, T. and Kawasaki, T. and Kiesling, C. and Kim, D. Y. and Kim, H. J. and Kim, J. H. and Kim, M. J. and Kim, Y. J. and Kinoshita, K. and Ko, B. R. and Korpar, S. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kuhr, T. and Kuzmin, A. and Kwon, Y.-J. and Lange, J. S. and Li, Y. and Li Gioi, L. and Libby, J. and Liu, Y. and Liventsev, D. and Lukin, P. and Miyabayashi, K. and Miyata, H. and Mohanty, G. B. and Moll, A. and Mori, T. and Mussa, R. and Nakano, E. and Nakao, M. and Nanut, T. and Natkaniec, Z. and Nedelkovska, E. and Nisar, N. K. and Nishida, S. and Ogawa, S. and Okuno, S. and Olsen, S. L. and Pakhlov, P. and Pakhlova, G. and Park, C. W. and Park, H. and Pedlar, T. K. and Petri\ifmmode \check{c}\else \v{c}\fi{}, M. and Piilonen, L. E. and Ribe\ifmmode \check{z}\else \v{z}\fi{}l, E. and Ritter, M. and Rostomyan, A. and Sakai, Y. and Sandilya, S. and Santelj, L. and Sanuki, T. and Sato, Y. and Savinov, V. and Schneider, O. and Schnell, G. and Schwanda, C. and Seon, O. and Shebalin, V. and Shen, C. P. and Shibata, T.-A. and Shiu, J.-G. and Shwartz, B. and Sibidanov, A. and Simon, F. and Sohn, Y.-S. and Sokolov, A. and Solovieva, E. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Steder, M. and Sumisawa, K. and Sumiyoshi, T. and Tamponi, U. and Tanida, K. and Tatishvili, G. and Teramoto, Y. and Thorne, F. and Trabelsi, K. and Uchida, M. and Uehara, S. and Uglov, T. and Unno, Y. and Uno, S. and Urquijo, P. and Van Hulse, C. and Vanhoefer, P. and Varner, G. and Vinokurova, A. and Wagner, M. N. and Wang, C. H. and Wang, M.-Z. and Wang, P. and Wang, X. L. and Watanabe, Y. and Wehle, S. and Williams, K. M. and Won, E. and Yamaoka, J. and Yashchenko, S. and Zhang, Z. P. and Zhilich, V. and Zhulanov, V. and Zupanc, A.},
+  collaboration = {Belle Collaboration},
+  journal = {Phys. Rev. D},
+  volume = {90},
+  issue = {11},
+  pages = {112009},
+  numpages = {14},
+  year = {2014},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.90.112009},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.90.112009}
+}
+
+
+@article{PhysRevLett.110.252002,
+  title = {Study of ${e}^{\mathbf{+}}{e}^{\mathbf{\ensuremath{-}}}\ensuremath{\rightarrow}{\ensuremath{\pi}}^{\mathbf{+}}{\ensuremath{\pi}}^{\mathbf{\ensuremath{-}}}J/\ensuremath{\psi}$ and Observation of a Charged Charmoniumlike State at Belle},
+  author = {Liu, Z. Q. and Shen, C. P. and Yuan, C. Z. and Adachi, I. and Aihara, H. and Asner, D. M. and Aulchenko, V. and Aushev, T. and Aziz, T. and Bakich, A. M. and Bala, A. and Belous, K. and Bhardwaj, V. and Bhuyan, B. and Bischofberger, M. and Bondar, A. and Bonvicini, G. and Bozek, A. and Bra\ifmmode \check{c}\else \v{c}\fi{}ko, M. and Brodzicka, J. and Browder, T. E. and Chang, P. and Chekelian, V. and Chen, A. and Chen, P. and Cheon, B. G. and Chistov, R. and Cho, K. and Chobanova, V. and Choi, S.-K. and Choi, Y. and Cinabro, D. and Dalseno, J. and Danilov, M. and Dole\ifmmode \check{z}\else \v{z}\fi{}al, Z. and Dr\'asal, Z. and Drutskoy, A. and Dutta, D. and Dutta, K. and Eidelman, S. and Epifanov, D. and Farhat, H. and Fast, J. E. and Feindt, M. and Ferber, T. and Frey, A. and Gaur, V. and Gabyshev, N. and Ganguly, S. and Gillard, R. and Goh, Y. M. and Golob, B. and Haba, J. and Hayasaka, K. and Hayashii, H. and Horii, Y. and Hoshi, Y. and Hou, W.-S. and Hsiung, Y. B. and Hyun, H. J. and Iijima, T. and Inami, K. and Ishikawa, A. and Itoh, R. and Iwasaki, Y. and Joffe, D. and Julius, T. and Kah, D. H. and Kang, J. H. and Kawasaki, T. and Kiesling, C. and Kim, H. J. and Kim, J. B. and Kim, J. H. and Kim, K. T. and Kim, M. J. and Kim, Y. J. and Kinoshita, K. and Klucar, J. and Ko, B. R. and Kody\ifmmode \check{s}\else \v{s}\fi{}, P. and Korpar, S. and Kri\ifmmode \check{z}\else \v{z}\fi{}an, P. and Krokovny, P. and Kuhr, T. and Kwon, Y.-J. and Lange, J. S. and Lee, S.-H. and Li, J. and Li, Y. and Libby, J. and Liu, C. and Lukin, P. and Matvienko, D. and Miyabayashi, K. and Miyata, H. and Mizuk, R. and Mohanty, G. B. and Moll, A. and Mussa, R. and Nakano, E. and Nakao, M. and Nakazawa, H. and Natkaniec, Z. and Nayak, M. and Nedelkovska, E. and Nisar, N. K. and Nishida, S. and Nitoh, O. and Ogawa, S. and Okuno, S. and Olsen, S. L. and Onuki, Y. and Ostrowicz, W. and Oswald, C. and Pakhlov, P. and Pakhlova, G. and Park, H. and Park, H. K. and Pedlar, T. K. and Pestotnik, R. and Petri\ifmmode \check{c}\else \v{c}\fi{}, M. and Piilonen, L. E. and Ritter, M. and R\"ohrken, M. and Rostomyan, A. and Sahoo, H. and Saito, T. and Sakai, Y. and Sandilya, S. and Santel, D. and Sanuki, T. and Sato, Y. and Savinov, V. and Schneider, O. and Schnell, G. and Schwanda, C. and Seidl, R. and Semmler, D. and Senyo, K. and Seon, O. and Sevior, M. E. and Shapkin, M. and Shibata, T.-A. and Shiu, J.-G. and Shwartz, B. and Sibidanov, A. and Simon, F. and Smerkol, P. and Sohn, Y.-S. and Sokolov, A. and Solovieva, E. and Stari\ifmmode \check{c}\else \v{c}\fi{}, M. and Steder, M. and Sumihama, M. and Sumiyoshi, T. and Tamponi, U. and Tanida, K. and Tatishvili, G. and Teramoto, Y. and Trabelsi, K. and Tsuboyama, T. and Uchida, M. and Uehara, S. and Uglov, T. and Unno, Y. and Uno, S. and Vahsen, S. E. and Van Hulse, C. and Vanhoefer, P. and Varner, G. and Varvell, K. E. and Vorobyev, V. and Wagner, M. N. and Wang, C. H. and Wang, M.-Z. and Wang, P. and Wang, X. L. and Watanabe, M. and Watanabe, Y. and Won, E. and Yabsley, B. D. and Yamaoka, J. and Yamashita, Y. and Yashchenko, S. and Yook, Y. and Yusa, Y. and Zhang, C. C. and Zhang, Z. P. and Zhilich, V. and Zupanc, A.},
+  collaboration = {Belle Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {110},
+  issue = {25},
+  pages = {252002},
+  numpages = {7},
+  year = {2013},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.110.252002},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.110.252002}
+}
+
+@article{PhysRevLett.112.022001,
+  title = {Observation of a Charged ${(D{\overline{D}}^{*})}^{\ifmmode\pm\else\textpm\fi{}}$ Mass Peak in ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}\ensuremath{\pi}D{\overline{D}}^{*}$ at $\sqrt{s}=4.26\text{ }\text{ }\mathrm{GeV}$},
+  author = {Ablikim, M. and Achasov, M. N. and Albayrak, O. and Ambrose, D. J. and An, F. F. and An, Q. and Bai, J. Z. and Baldini Ferroli, R. and Ban, Y. and Becker, J. and Bennett, J. V. and Bertani, M. and Bian, J. M. and Boger, E. and Bondarenko, O. and Boyko, I. and Braun, S. and Briere, R. A. and Bytev, V. and Cai, H. and Cai, X. and Cakir, O. and Calcaterra, A. and Cao, G. F. and Cetin, S. A. and Chang, J. F. and Chelkov, G. and Chen, G. and Chen, H. S. and Chen, J. C. and Chen, M. L. and Chen, S. J. and Chen, X. R. and Chen, Y. B. and Cheng, H. P. and Chu, X. K. and Chu, Y. P. and Cronin-Hennessy, D. and Dai, H. L. and Dai, J. P. and Dedovich, D. and Deng, Z. Y. and Denig, A. and Denysenko, I. and Destefanis, M. and Ding, W. M. and Ding, Y. and Dong, L. Y. and Dong, M. Y. and Du, S. X. and Fang, J. and Fang, S. S. and Fava, L. and Feng, C. Q. and Friedel, P. and Fu, C. D. and Fu, J. L. and Fuks, O. and Gao, Y. and Geng, C. and Goetzen, K. and Gong, W. X. and Gradl, W. and Greco, M. and Gu, M. H. and Gu, Y. T. and Guan, Y. H. and Guo, A. Q. and Guo, L. B. and Guo, T. and Guo, Y. P. and Han, Y. L. and Harris, F. A. and He, K. L. and He, M. and He, Z. Y. and Held, T. and Heng, Y. K. and Hou, Z. L. and Hu, C. and Hu, H. M. and Hu, J. F. and Hu, T. and Huang, G. M. and Huang, G. S. and Huang, J. S. and Huang, L. and Huang, X. T. and Huang, Y. and Hussain, T. and Ji, C. S. and Ji, Q. and Ji, Q. P. and Ji, X. B. and Ji, X. L. and Jiang, L. L. and Jiang, X. S. and Jiao, J. B. and Jiao, Z. and Jin, D. P. and Jin, S. and Jing, F. F. and Kalantar-Nayestanaki, N. and Kavatsyuk, M. and Kloss, B. and Kopf, B. and Kornicer, M. and Kuehn, W. and Lai, W. and Lange, J. S. and Lara, M. and Larin, P. and Leyhe, M. and Li, C. H. and Li, Cheng and Li, Cui and Li, D. L. and Li, D. M. and Li, F. and Li, G. and Li, H. B. and Li, J. C. and Li, K. and Li, Lei and Li, N. and Li, P. R. and Li, Q. J. and Li, W. D. and Li, W. G. and Li, X. L. and Li, X. N. and Li, X. Q. and Li, X. R. and Li, Z. B. and Liang, H. and Liang, Y. F. and Liang, Y. T. and Liao, G. R. and Lin, D. X. and Liu, B. J. and Liu, C. L. and Liu, C. X. and Liu, F. H. and Liu, Fang and Liu, Feng and Liu, H. B. and Liu, H. H. and Liu, H. M. and Liu, J. P. and Liu, K. and Liu, K. Y. and Liu, P. L. and Liu, Q. and Liu, S. B. and Liu, X. and Liu, Y. B. and Liu, Z. A. and Liu, Zhiqiang and Liu, Zhiqing and Loehner, H. and Lou, X. C. and Lu, G. R. and Lu, H. J. and Lu, J. G. and Lu, X. R. and Lu, Y. P. and Luo, C. L. and Luo, M. X. and Luo, T. and Luo, X. L. and Lv, M. and Ma, F. C. and Ma, H. L. and Ma, Q. M. and Ma, S. and Ma, T. and Ma, X. Y. and Maas, F. E. and Maggiora, M. and Malik, Q. A. and Mao, Y. J. and Mao, Z. P. and Messchendorp, J. G. and Min, J. and Min, T. J. and Mitchell, R. E. and Mo, X. H. and Moeini, H. and MoralesMorales, C. and Moriya, K. and Muchnoi, N. Yu. and Muramatsu, H. and Nefedov, Y. and Nikolaev, I. B. and Ning, Z. and Nisar, S. and Olsen, S. L. and Ouyang, Q. and Pacetti, S. and Park, J. W. and Pelizaeus, M. and Peng, H. P. and Peters, K. and Ping, J. L. and Ping, R. G. and Poling, R. and Prencipe, E. and Qi, M. and Qian, S. and Qiao, C. F. and Qin, L. Q. and Qin, X. S. and Qin, Y. and Qin, Z. H. and Qiu, J. F. and Rashid, K. H. and Redmer, C. F. and Ripka, M. and Rong, G. and Ruan, X. D. and Sarantsev, A. and Schumann, S. and Shan, W. and Shao, M. and Shen, C. P. and Shen, X. Y. and Sheng, H. Y. and Shepherd, M. R. and Song, W. M. and Song, X. Y. and Spataro, S. and Spruck, B. and Sun, G. X. and Sun, J. F. and Sun, S. S. and Sun, Y. J. and Sun, Y. Z. and Sun, Z. J. and Sun, Z. T. and Tang, C. J. and Tang, X. and Tapan, I. and Thorndike, E. H. and Toth, D. and Ullrich, M. and Uman, I. and Varner, G. S. and Wang, B. and Wang, D. and Wang, D. Y. and Wang, K. and Wang, L. L. and Wang, L. S. and Wang, M. and Wang, P. and Wang, P. L. and Wang, Q. J. and Wang, S. G. and Wang, X. F. and Wang, X. L. and Wang, Y. D. and Wang, Y. F. and Wang, Y. Q. and Wang, Z. and Wang, Z. G. and Wang, Z. H. and Wang, Z. Y. and Wei, D. H. and Wei, J. B. and Weidenkaff, P. and Wen, Q. G. and Wen, S. P. and Werner, M. and Wiedner, U. and Wu, L. H. and Wu, N. and Wu, S. X. and Wu, W. and Wu, Z. and Xia, L. G. and Xia, Y. X. and Xiao, Z. J. and Xie, Y. G. and Xiu, Q. L. and Xu, G. F. and Xu, Q. J. and Xu, Q. N. and Xu, X. P. and Xue, Z. and Yan, L. and Yan, W. B. and Yan, W. C. and Yan, Y. H. and Yang, H. X. and Yang, Y. and Yang, Y. X. and Yang, Y. Z. and Ye, H. and Ye, M. and Ye, M. H. and Yu, B. X. and Yu, C. X. and Yu, H. W. and Yu, J. S. and Yu, S. P. and Yuan, C. Z. and Yuan, W. L. and Yuan, Y. and Zafar, A. A. and Zallo, A. and Zang, S. L. and Zeng, Y. and Zhang, B. X. and Zhang, B. Y. and Zhang, C. and Zhang, C. B. and Zhang, C. C. and Zhang, D. H. and Zhang, H. H. and Zhang, H. Y. and Zhang, J. L. and Zhang, J. Q. and Zhang, J. W. and Zhang, J. Y. and Zhang, J. Z. and Zhang, LiLi and Zhang, S. H. and Zhang, X. J. and Zhang, X. Y. and Zhang, Y. and Zhang, Y. H. and Zhang, Z. P. and Zhang, Z. Y. and Zhang, Zhenghao and Zhao, G. and Zhao, J. W. and Zhao, Lei and Zhao, Ling and Zhao, M. G. and Zhao, Q. and Zhao, S. J. and Zhao, T. C. and Zhao, X. H. and Zhao, Y. B. and Zhao, Z. G. and Zhemchugov, A. and Zheng, B. and Zheng, J. P. and Zheng, Y. H. and Zhong, B. and Zhou, L. and Zhou, X. and Zhou, X. K. and Zhou, X. R. and Zhu, K. and Zhu, K. J. and Zhu, X. L. and Zhu, Y. C. and Zhu, Y. S. and Zhu, Z. A. and Zhuang, J. and Zou, B. S. and Zou, J. H.},
+  collaboration = {BESIII Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {112},
+  issue = {2},
+  pages = {022001},
+  numpages = {7},
+  year = {2014},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.112.022001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.112.022001}
+}
+
+@article{PhysRevLett.115.112003,
+  title = {Observation of ${Z}_{c}(3900{)}^{0}$ in ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}{\ensuremath{\pi}}^{0}{\ensuremath{\pi}}^{0}J/\ensuremath{\psi}$},
+  author = {Ablikim, M. and Achasov, M. N. and Ai, X. C. and Albayrak, O. and Albrecht, M. and Ambrose, D. J. and Amoroso, A. and An, F. F. and An, Q. and Bai, J. Z. and Ferroli, R. Baldini and Ban, Y. and Bennett, D. W. and Bennett, J. V. and Bertani, M. and Bettoni, D. and Bian, J. M. and Bianchi, F. and Boger, E. and Boyko, I. and Briere, R. A. and Cai, H. and Cai, X. and Cakir, O. and Calcaterra, A. and Cao, G. F. and Cetin, S. A. and Chang, J. F. and Chelkov, G. and Chen, G. and Chen, H. S. and Chen, H. Y. and Chen, J. C. and Chen, M. L. and Chen, S. J. and Chen, X. and Chen, X. R. and Chen, Y. B. and Cheng, H. P. and Chu, X. K. and Cibinetto, G. and Dai, H. L. and Dai, J. P. and Dbeyssi, A. and Dedovich, D. and Deng, Z. Y. and Denig, A. and Denysenko, I. and Destefanis, M. and De Mori, F. and Ding, Y. and Dong, C. and Dong, J. and Dong, L. Y. and Dong, M. Y. and Du, S. X. and Duan, P. F. and Eren, E. E. and Fan, J. Z. and Fang, J. and Fang, S. S. and Fang, X. and Fang, Y. and Fava, L. and Feldbauer, F. and Felici, G. and Feng, C. Q. and Fioravanti, E. and Fritsch, M. and Fu, C. D. and Gao, Q. and Gao, X. Y. and Gao, Y. and Gao, Z. and Garzia, I. and Geng, C. and Goetzen, K. and Gong, W. X. and Gradl, W. and Greco, M. and Gu, M. H. and Gu, Y. T. and Guan, Y. H. and Guo, A. Q. and Guo, L. B. and Guo, Y. and Guo, Y. P. and Haddadi, Z. and Hafner, A. and Han, S. and Han, Y. L. and Hao, X. Q. and Harris, F. A. and He, K. L. and He, Z. Y. and Held, T. and Heng, Y. K. and Hou, Z. L. and Hu, C. and Hu, H. M. and Hu, J. F. and Hu, T. and Hu, Y. and Huang, G. M. and Huang, G. S. and Huang, H. P. and Huang, J. S. and Huang, X. T. and Huang, Y. and Hussain, T. and Ji, Q. and Ji, Q. P. and Ji, X. B. and Ji, X. L. and Jiang, L. L. and Jiang, L. W. and Jiang, X. S. and Jiang, X. Y. and Jiao, J. B. and Jiao, Z. and Jin, D. P. and Jin, S. and Johansson, T. and Julin, A. and Kalantar-Nayestanaki, N. and Kang, X. L. and Kang, X. S. and Kavatsyuk, M. and Ke, B. C. and Kiese, P. and Kliemt, R. and Kloss, B. and Kolcu, O. B. and Kopf, B. and Kornicer, M. and K\"uhn, W. and Kupsc, A. and Lange, J. S. and Lara, M. and Larin, P. and Leng, C. and Li, C. and Li, C. H. and Li, Cheng and Li, D. M. and Li, F. and Li, G. and Li, H. B. and Li, J. C. and Li, Jin and Li, K. and Li, K. and Li, Lei and Li, P. R. and Li, T. and Li, W. D. and Li, W. G. and Li, X. L. and Li, X. M. and Li, X. N. and Li, X. Q. and Li, Z. B. and Liang, H. and Liang, Y. F. and Liang, Y. T. and Liao, G. R. and Lin, D. X. and Liu, B. J. and Liu, C. X. and Liu, F. H. and Liu, Fang and Liu, Feng and Liu, H. B. and Liu, H. H. and Liu, H. H. and Liu, H. M. and Liu, J. and Liu, J. B. and Liu, J. P. and Liu, J. Y. and Liu, K. and Liu, K. Y. and Liu, L. D. and Liu, P. L. and Liu, Q. and Liu, S. B. and Liu, X. and Liu, X. X. and Liu, Y. B. and Liu, Z. A. and Liu, Zhiqiang and Liu, Zhiqing and Loehner, H. and Lou, X. C. and Lu, H. J. and Lu, J. G. and Lu, R. Q. and Lu, Y. and Lu, Y. P. and Luo, C. L. and Luo, M. X. and Luo, T. and Luo, X. L. and Lv, M. and Lyu, X. R. and Ma, F. C. and Ma, H. L. and Ma, L. L. and Ma, Q. M. and Ma, T. and Ma, X. N. and Ma, X. Y. and Maas, F. E. and Maggiora, M. and Mao, Y. J. and Mao, Z. P. and Marcello, S. and Messchendorp, J. G. and Min, J. and Min, T. J. and Mitchell, R. E. and Mo, X. H. and Mo, Y. J. and Morales, C. Morales and Moriya, K. and Muchnoi, N. Yu. and Muramatsu, H. and Nefedov, Y. and Nerling, F. and Nikolaev, I. B. and Ning, Z. and Nisar, S. and Niu, S. L. and Niu, X. Y. and Olsen, S. L. and Ouyang, Q. and Pacetti, S. and Patteri, P. and Pelizaeus, M. and Peng, H. P. and Peters, K. and Pettersson, J. and Ping, J. L. and Ping, R. G. and Poling, R. and Prasad, V. and Pu, Y. N. and Qi, M. and Qian, S. and Qiao, C. F. and Qin, L. Q. and Qin, N. and Qin, X. S. and Qin, Y. and Qin, Z. H. and Qiu, J. F. and Rashid, K. H. and Redmer, C. F. and Ren, H. L. and Ripka, M. and Rong, G. and Rosner, Ch. and Ruan, X. D. and Santoro, V. and Sarantsev, A. and Savri\'e, M. and Schoenning, K. and Schumann, S. and Shan, W. and Shao, M. and Shen, C. P. and Shen, P. X. and Shen, X. Y. and Sheng, H. Y. and Song, W. M. and Song, X. Y. and Sosio, S. and Spataro, S. and Sun, G. X. and Sun, J. F. and Sun, S. S. and Sun, Y. J. and Sun, Y. Z. and Sun, Z. J. and Sun, Z. T. and Tang, C. J. and Tang, X. and Tapan, I. and Thorndike, E. H. and Tiemens, M. and Ullrich, M. and Uman, I. and Varner, G. S. and Wang, B. and Wang, B. L. and Wang, D. and Wang, D. Y. and Wang, K. and Wang, L. L. and Wang, L. S. and Wang, M. and Wang, P. and Wang, P. L. and Wang, S. G. and Wang, W. and Wang, X. F. and Wang, Y. D. and Wang, Y. F. and Wang, Y. Q. and Wang, Z. and Wang, Z. G. and Wang, Z. H. and Wang, Z. Y. and Weber, T. and Wei, D. H. and Wei, J. B. and Weidenkaff, P. and Wen, S. P. and Wiedner, U. and Wolke, M. and Wu, L. H. and Wu, Z. and Xia, L. G. and Xia, Y. and Xiao, D. and Xiao, Z. J. and Xie, Y. G. and Xiu, Q. L. and Xu, G. F. and Xu, L. and Xu, Q. J. and Xu, Q. N. and Xu, X. P. and Yan, L. and Yan, W. B. and Yan, W. C. and Yan, Y. H. and Yang, H. J. and Yang, H. X. and Yang, L. and Yang, Y. and Yang, Y. X. and Ye, H. and Ye, M. and Ye, M. H. and Yin, J. H. and Yu, B. X. and Yu, C. X. and Yu, H. W. and Yu, J. S. and Yuan, C. Z. and Yuan, W. L. and Yuan, Y. and Yuncu, A. and Zafar, A. A. and Zallo, A. and Zeng, Y. and Zhang, B. X. and Zhang, B. Y. and Zhang, C. and Zhang, C. C. and Zhang, D. H. and Zhang, H. H. and Zhang, H. Y. and Zhang, J. J. and Zhang, J. L. and Zhang, J. Q. and Zhang, J. W. and Zhang, J. Y. and Zhang, J. Z. and Zhang, K. and Zhang, L. and Zhang, S. H. and Zhang, X. Y. and Zhang, Y. and Zhang, Y. N. and Zhang, Y. H. and Zhang, Y. T. and Zhang, Yu and Zhang, Z. H. and Zhang, Z. P. and Zhang, Z. Y. and Zhao, G. and Zhao, J. W. and Zhao, J. Y. and Zhao, J. Z. and Zhao, Lei and Zhao, Ling and Zhao, M. G. and Zhao, Q. and Zhao, Q. W. and Zhao, S. J. and Zhao, T. C. and Zhao, Y. B. and Zhao, Z. G. and Zhemchugov, A. and Zheng, B. and Zheng, J. P. and Zheng, W. J. and Zheng, Y. H. and Zhong, B. and Zhou, L. and Zhou, Li and Zhou, X. and Zhou, X. K. and Zhou, X. R. and Zhou, X. Y. and Zhu, K. and Zhu, K. J. and Zhu, S. and Zhu, X. L. and Zhu, Y. C. and Zhu, Y. S. and Zhu, Z. A. and Zhuang, J. and Zotti, L. and Zou, B. S. and Zou, J. H.},
+  collaboration = {BESIII Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {115},
+  issue = {11},
+  pages = {112003},
+  numpages = {7},
+  year = {2015},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.115.112003},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.115.112003}
+}
+
+
+@article{PhysRevLett.112.022001,
+  title = {Observation of a Charged ${(D{\overline{D}}^{*})}^{\ifmmode\pm\else\textpm\fi{}}$ Mass Peak in ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}\ensuremath{\pi}D{\overline{D}}^{*}$ at $\sqrt{s}=4.26\text{ }\text{ }\mathrm{GeV}$},
+  author = {Ablikim, M. and Achasov, M. N. and Albayrak, O. and Ambrose, D. J. and An, F. F. and An, Q. and Bai, J. Z. and Baldini Ferroli, R. and Ban, Y. and Becker, J. and Bennett, J. V. and Bertani, M. and Bian, J. M. and Boger, E. and Bondarenko, O. and Boyko, I. and Braun, S. and Briere, R. A. and Bytev, V. and Cai, H. and Cai, X. and Cakir, O. and Calcaterra, A. and Cao, G. F. and Cetin, S. A. and Chang, J. F. and Chelkov, G. and Chen, G. and Chen, H. S. and Chen, J. C. and Chen, M. L. and Chen, S. J. and Chen, X. R. and Chen, Y. B. and Cheng, H. P. and Chu, X. K. and Chu, Y. P. and Cronin-Hennessy, D. and Dai, H. L. and Dai, J. P. and Dedovich, D. and Deng, Z. Y. and Denig, A. and Denysenko, I. and Destefanis, M. and Ding, W. M. and Ding, Y. and Dong, L. Y. and Dong, M. Y. and Du, S. X. and Fang, J. and Fang, S. S. and Fava, L. and Feng, C. Q. and Friedel, P. and Fu, C. D. and Fu, J. L. and Fuks, O. and Gao, Y. and Geng, C. and Goetzen, K. and Gong, W. X. and Gradl, W. and Greco, M. and Gu, M. H. and Gu, Y. T. and Guan, Y. H. and Guo, A. Q. and Guo, L. B. and Guo, T. and Guo, Y. P. and Han, Y. L. and Harris, F. A. and He, K. L. and He, M. and He, Z. Y. and Held, T. and Heng, Y. K. and Hou, Z. L. and Hu, C. and Hu, H. M. and Hu, J. F. and Hu, T. and Huang, G. M. and Huang, G. S. and Huang, J. S. and Huang, L. and Huang, X. T. and Huang, Y. and Hussain, T. and Ji, C. S. and Ji, Q. and Ji, Q. P. and Ji, X. B. and Ji, X. L. and Jiang, L. L. and Jiang, X. S. and Jiao, J. B. and Jiao, Z. and Jin, D. P. and Jin, S. and Jing, F. F. and Kalantar-Nayestanaki, N. and Kavatsyuk, M. and Kloss, B. and Kopf, B. and Kornicer, M. and Kuehn, W. and Lai, W. and Lange, J. S. and Lara, M. and Larin, P. and Leyhe, M. and Li, C. H. and Li, Cheng and Li, Cui and Li, D. L. and Li, D. M. and Li, F. and Li, G. and Li, H. B. and Li, J. C. and Li, K. and Li, Lei and Li, N. and Li, P. R. and Li, Q. J. and Li, W. D. and Li, W. G. and Li, X. L. and Li, X. N. and Li, X. Q. and Li, X. R. and Li, Z. B. and Liang, H. and Liang, Y. F. and Liang, Y. T. and Liao, G. R. and Lin, D. X. and Liu, B. J. and Liu, C. L. and Liu, C. X. and Liu, F. H. and Liu, Fang and Liu, Feng and Liu, H. B. and Liu, H. H. and Liu, H. M. and Liu, J. P. and Liu, K. and Liu, K. Y. and Liu, P. L. and Liu, Q. and Liu, S. B. and Liu, X. and Liu, Y. B. and Liu, Z. A. and Liu, Zhiqiang and Liu, Zhiqing and Loehner, H. and Lou, X. C. and Lu, G. R. and Lu, H. J. and Lu, J. G. and Lu, X. R. and Lu, Y. P. and Luo, C. L. and Luo, M. X. and Luo, T. and Luo, X. L. and Lv, M. and Ma, F. C. and Ma, H. L. and Ma, Q. M. and Ma, S. and Ma, T. and Ma, X. Y. and Maas, F. E. and Maggiora, M. and Malik, Q. A. and Mao, Y. J. and Mao, Z. P. and Messchendorp, J. G. and Min, J. and Min, T. J. and Mitchell, R. E. and Mo, X. H. and Moeini, H. and MoralesMorales, C. and Moriya, K. and Muchnoi, N. Yu. and Muramatsu, H. and Nefedov, Y. and Nikolaev, I. B. and Ning, Z. and Nisar, S. and Olsen, S. L. and Ouyang, Q. and Pacetti, S. and Park, J. W. and Pelizaeus, M. and Peng, H. P. and Peters, K. and Ping, J. L. and Ping, R. G. and Poling, R. and Prencipe, E. and Qi, M. and Qian, S. and Qiao, C. F. and Qin, L. Q. and Qin, X. S. and Qin, Y. and Qin, Z. H. and Qiu, J. F. and Rashid, K. H. and Redmer, C. F. and Ripka, M. and Rong, G. and Ruan, X. D. and Sarantsev, A. and Schumann, S. and Shan, W. and Shao, M. and Shen, C. P. and Shen, X. Y. and Sheng, H. Y. and Shepherd, M. R. and Song, W. M. and Song, X. Y. and Spataro, S. and Spruck, B. and Sun, G. X. and Sun, J. F. and Sun, S. S. and Sun, Y. J. and Sun, Y. Z. and Sun, Z. J. and Sun, Z. T. and Tang, C. J. and Tang, X. and Tapan, I. and Thorndike, E. H. and Toth, D. and Ullrich, M. and Uman, I. and Varner, G. S. and Wang, B. and Wang, D. and Wang, D. Y. and Wang, K. and Wang, L. L. and Wang, L. S. and Wang, M. and Wang, P. and Wang, P. L. and Wang, Q. J. and Wang, S. G. and Wang, X. F. and Wang, X. L. and Wang, Y. D. and Wang, Y. F. and Wang, Y. Q. and Wang, Z. and Wang, Z. G. and Wang, Z. H. and Wang, Z. Y. and Wei, D. H. and Wei, J. B. and Weidenkaff, P. and Wen, Q. G. and Wen, S. P. and Werner, M. and Wiedner, U. and Wu, L. H. and Wu, N. and Wu, S. X. and Wu, W. and Wu, Z. and Xia, L. G. and Xia, Y. X. and Xiao, Z. J. and Xie, Y. G. and Xiu, Q. L. and Xu, G. F. and Xu, Q. J. and Xu, Q. N. and Xu, X. P. and Xue, Z. and Yan, L. and Yan, W. B. and Yan, W. C. and Yan, Y. H. and Yang, H. X. and Yang, Y. and Yang, Y. X. and Yang, Y. Z. and Ye, H. and Ye, M. and Ye, M. H. and Yu, B. X. and Yu, C. X. and Yu, H. W. and Yu, J. S. and Yu, S. P. and Yuan, C. Z. and Yuan, W. L. and Yuan, Y. and Zafar, A. A. and Zallo, A. and Zang, S. L. and Zeng, Y. and Zhang, B. X. and Zhang, B. Y. and Zhang, C. and Zhang, C. B. and Zhang, C. C. and Zhang, D. H. and Zhang, H. H. and Zhang, H. Y. and Zhang, J. L. and Zhang, J. Q. and Zhang, J. W. and Zhang, J. Y. and Zhang, J. Z. and Zhang, LiLi and Zhang, S. H. and Zhang, X. J. and Zhang, X. Y. and Zhang, Y. and Zhang, Y. H. and Zhang, Z. P. and Zhang, Z. Y. and Zhang, Zhenghao and Zhao, G. and Zhao, J. W. and Zhao, Lei and Zhao, Ling and Zhao, M. G. and Zhao, Q. and Zhao, S. J. and Zhao, T. C. and Zhao, X. H. and Zhao, Y. B. and Zhao, Z. G. and Zhemchugov, A. and Zheng, B. and Zheng, J. P. and Zheng, Y. H. and Zhong, B. and Zhou, L. and Zhou, X. and Zhou, X. K. and Zhou, X. R. and Zhu, K. and Zhu, K. J. and Zhu, X. L. and Zhu, Y. C. and Zhu, Y. S. and Zhu, Z. A. and Zhuang, J. and Zou, B. S. and Zou, J. H.},
+  collaboration = {BESIII Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {112},
+  issue = {2},
+  pages = {022001},
+  numpages = {7},
+  year = {2014},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.112.022001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.112.022001}
+}
+
+
+@article{PhysRevLett.111.242001,
+  title = {Observation of a Charged Charmoniumlike Structure ${Z}_{c}(4020)$ and Search for the ${Z}_{c}(3900)$ in ${e}^{\mathbf{+}}{e}^{\mathbf{\ensuremath{-}}}\ensuremath{\rightarrow}{\ensuremath{\pi}}^{\mathbf{+}}{\ensuremath{\pi}}^{\mathbf{\ensuremath{-}}}{h}_{c}$},
+  author = {Ablikim, M. and Achasov, M. N. and Albayrak, O. and Ambrose, D. J. and An, F. F. and An, Q. and Bai, J. Z. and Baldini Ferroli, R. and Ban, Y. and Becker, J. and Bennett, J. V. and Bertani, M. and Bian, J. M. and Boger, E. and Bondarenko, O. and Boyko, I. and Braun, S. and Briere, R. A. and Bytev, V. and Cai, H. and Cai, X. and Cakir, O. and Calcaterra, A. and Cao, G. F. and Cetin, S. A. and Chang, J. F. and Chelkov, G. and Chen, G. and Chen, H. S. and Chen, J. C. and Chen, M. L. and Chen, S. J. and Chen, X. R. and Chen, Y. B. and Cheng, H. P. and Chu, X. K. and Chu, Y. P. and Cronin-Hennessy, D. and Dai, H. L. and Dai, J. P. and Dedovich, D. and Deng, Z. Y. and Denig, A. and Denysenko, I. and Destefanis, M. and Ding, W. M. and Ding, Y. and Dong, L. Y. and Dong, M. Y. and Du, S. X. and Fang, J. and Fang, S. S. and Fava, L. and Feng, C. Q. and Friedel, P. and Fu, C. D. and Fu, J. L. and Fuks, O. and Gao, Y. and Geng, C. and Goetzen, K. and Gong, W. X. and Gradl, W. and Greco, M. and Gu, M. H. and Gu, Y. T. and Guan, Y. H. and Guo, A. Q. and Guo, L. B. and Guo, T. and Guo, Y. P. and Han, Y. L. and Harris, F. A. and He, K. L. and He, M. and He, Z. Y. and Held, T. and Heng, Y. K. and Hou, Z. L. and Hu, C. and Hu, H. M. and Hu, J. F. and Hu, T. and Huang, G. M. and Huang, G. S. and Huang, J. S. and Huang, L. and Huang, X. T. and Huang, Y. and Hussain, T. and Ji, C. S. and Ji, Q. and Ji, Q. P. and Ji, X. B. and Ji, X. L. and Jiang, L. L. and Jiang, X. S. and Jiao, J. B. and Jiao, Z. and Jin, D. P. and Jin, S. and Jing, F. F. and Kalantar-Nayestanaki, N. and Kavatsyuk, M. and Kloss, B. and Kopf, B. and Kornicer, M. and Kuehn, W. and Lai, W. and Lange, J. S. and Lara, M. and Larin, P. and Leyhe, M. and Li, C. H. and Li, Cheng and Li, Cui and Li, D. L. and Li, D. M. and Li, F. and Li, G. and Li, H. B. and Li, J. C. and Li, K. and Li, Lei and Li, N. and Li, P. R. and Li, Q. J. and Li, W. D. and Li, W. G. and Li, X. L. and Li, X. N. and Li, X. Q. and Li, X. R. and Li, Z. B. and Liang, H. and Liang, Y. F. and Liang, Y. T. and Liao, G. R. and Lin, D. X. and Liu, B. J. and Liu, C. L. and Liu, C. X. and Liu, F. H. and Liu, Fang and Liu, Feng and Liu, H. B. and Liu, H. H. and Liu, H. M. and Liu, J. P. and Liu, K. and Liu, K. Y. and Liu, P. L. and Liu, Q. and Liu, S. B. and Liu, X. and Liu, Y. B. and Liu, Z. A. and Liu, Zhiqiang and Liu, Zhiqing and Loehner, H. and Lou, X. C. and Lu, G. R. and Lu, H. J. and Lu, J. G. and Lu, X. R. and Lu, Y. P. and Luo, C. L. and Luo, M. X. and Luo, T. and Luo, X. L. and Lv, M. and Ma, F. C. and Ma, H. L. and Ma, Q. M. and Ma, S. and Ma, T. and Ma, X. Y. and Maas, F. E. and Maggiora, M. and Malik, Q. A. and Mao, Y. J. and Mao, Z. P. and Messchendorp, J. G. and Min, J. and Min, T. J. and Mitchell, R. E. and Mo, X. H. and Moeini, H. and Morales Morales, C. and Moriya, K. and Muchnoi, N. Yu. and Muramatsu, H. and Nefedov, Y. and Nikolaev, I. B. and Ning, Z. and Nisar, S. and Olsen, S. L. and Ouyang, Q. and Pacetti, S. and Park, J. W. and Pelizaeus, M. and Peng, H. P. and Peters, K. and Ping, J. L. and Ping, R. G. and Poling, R. and Prencipe, E. and Qi, M. and Qian, S. and Qiao, C. F. and Qin, L. Q. and Qin, X. S. and Qin, Y. and Qin, Z. H. and Qiu, J. F. and Rashid, K. H. and Redmer, C. F. and Ripka, M. and Rong, G. and Ruan, X. D. and Sarantsev, A. and Schumann, S. and Shan, W. and Shao, M. and Shen, C. P. and Shen, X. Y. and Sheng, H. Y. and Shepherd, M. R. and Song, W. M. and Song, X. Y. and Spataro, S. and Spruck, B. and Sun, G. X. and Sun, J. F. and Sun, S. S. and Sun, Y. J. and Sun, Y. Z. and Sun, Z. J. and Sun, Z. T. and Tang, C. J. and Tang, X. and Tapan, I. and Thorndike, E. H. and Toth, D. and Ullrich, M. and Uman, I. and Varner, G. S. and Wang, B. and Wang, D. and Wang, D. Y. and Wang, K. and Wang, L. L. and Wang, L. S. and Wang, M. and Wang, P. and Wang, P. L. and Wang, Q. J. and Wang, S. G. and Wang, X. F. and Wang, X. L. and Wang, Y. D. and Wang, Y. F. and Wang, Y. Q. and Wang, Z. and Wang, Z. G. and Wang, Z. H. and Wang, Z. Y. and Wei, D. H. and Wei, J. B. and Weidenkaff, P. and Wen, Q. G. and Wen, S. P. and Werner, M. and Wiedner, U. and Wu, L. H. and Wu, N. and Wu, S. X. and Wu, W. and Wu, Z. and Xia, L. G. and Xia, Y. X. and Xiao, Z. J. and Xie, Y. G. and Xiu, Q. L. and Xu, G. F. and Xu, Q. J. and Xu, Q. N. and Xu, X. P. and Xu, Z. R. and Xue, Z. and Yan, L. and Yan, W. B. and Yan, W. C. and Yan, Y. H. and Yang, H. X. and Yang, Y. and Yang, Y. X. and Yang, Y. Z. and Ye, H. and Ye, M. and Ye, M. H. and Yu, B. X. and Yu, C. X. and Yu, H. W. and Yu, J. S. and Yu, S. P. and Yuan, C. Z. and Yuan, W. L. and Yuan, Y. and Zafar, A. A. and Zallo, A. and Zang, S. L. and Zeng, Y. and Zhang, B. X. and Zhang, B. Y. and Zhang, C. and Zhang, C. B. and Zhang, C. C. and Zhang, D. H. and Zhang, H. H. and Zhang, H. Y. and Zhang, J. Q. and Zhang, J. W. and Zhang, J. Y. and Zhang, J. Z. and Zhang, LiLi and Zhang, S. H. and Zhang, X. J. and Zhang, X. Y. and Zhang, Y. and Zhang, Y. H. and Zhang, Z. P. and Zhang, Z. Y. and Zhang, Zhenghao and Zhao, G. and Zhao, J. W. and Zhao, Lei and Zhao, Ling and Zhao, M. G. and Zhao, Q. and Zhao, S. J. and Zhao, T. C. and Zhao, X. H. and Zhao, Y. B. and Zhao, Z. G. and Zhemchugov, A. and Zheng, B. and Zheng, J. P. and Zheng, Y. H. and Zhong, B. and Zhou, L. and Zhou, X. and Zhou, X. K. and Zhou, X. R. and Zhu, K. and Zhu, K. J. and Zhu, X. L. and Zhu, Y. C. and Zhu, Y. S. and Zhu, Z. A. and Zhuang, J. and Zou, B. S. and Zou, J. H.},
+  collaboration = {BESIII Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {111},
+  issue = {24},
+  pages = {242001},
+  numpages = {7},
+  year = {2013},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.111.242001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.111.242001}
+}
+
+
+@article{PhysRevLett.113.212002,
+  title = {Observation of ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}{\ensuremath{\pi}}^{0}{\ensuremath{\pi}}^{0}{h}_{c}$ and a Neutral Charmoniumlike Structure ${Z}_{c}(4020{)}^{0}$},
+  author = {Ablikim, M. and Achasov, M. N. and Ai, X. C. and Albayrak, O. and Albrecht, M. and Ambrose, D. J. and Amoroso, A. and An, F. F. and An, Q. and Bai, J. Z. and Baldini Ferroli, R. and Ban, Y. and Bennett, D. W. and Bennett, J. V. and Bertani, M. and Bettoni, D. and Bian, J. M. and Bianchi, F. and Boger, E. and Bondarenko, O. and Boyko, I. and Briere, R. A. and Cai, H. and Cai, X. and Cakir, O. and Calcaterra, A. and Cao, G. F. and Cetin, S. A. and Chang, J. F. and Chelkov, G. and Chen, G. and Chen, H. S. and Chen, H. Y. and Chen, J. C. and Chen, M. L. and Chen, S. J. and Chen, X. and Chen, X. R. and Chen, Y. B. and Cheng, H. P. and Chu, X. K. and Chu, Y. P. and Cibinetto, G. and Cronin-Hennessy, D. and Dai, H. L. and Dai, J. P. and Dedovich, D. and Deng, Z. Y. and Denig, A. and Denysenko, I. and Destefanis, M. and De Mori, F. and Ding, Y. and Dong, C. and Dong, J. and Dong, L. Y. and Dong, M. Y. and Du, S. X. and Duan, P. F. and Fan, J. Z. and Fang, J. and Fang, S. S. and Fang, X. and Fang, Y. and Fava, L. and Feldbauer, F. and Felici, G. and Feng, C. Q. and Fioravanti, E. and Fu, C. D. and Gao, Q. and Gao, Y. and Garzia, I. and Goetzen, K. and Gong, W. X. and Gradl, W. and Greco, M. and Gu, M. H. and Gu, Y. T. and Guan, Y. H. and Guo, A. Q. and Guo, L. B. and Guo, T. and Guo, Y. and Guo, Y. P. and Haddadi, Z. and Hafner, A. and Han, S. and Han, Y. L. and Harris, F. A. and He, K. L. and He, Z. Y. and Held, T. and Heng, Y. K. and Hou, Z. L. and Hu, C. and Hu, H. M. and Hu, J. F. and Hu, T. and Hu, Y. and Huang, G. M. and Huang, G. S. and Huang, H. P. and Huang, J. S. and Huang, X. T. and Huang, Y. and Hussain, T. and Ji, Q. and Ji, Q. P. and Ji, X. B. and Ji, X. L. and Jiang, L. L. and Jiang, L. W. and Jiang, X. S. and Jiao, J. B. and Jiao, Z. and Jin, D. P. and Jin, S. and Johansson, T. and Julin, A. and Kalantar-Nayestanaki, N. and Kang, X. L. and Kang, X. S. and Kavatsyuk, M. and Ke, B. C. and Kliemt, R. and Kloss, B. and Kolcu, O. B. and Kopf, B. and Kornicer, M. and Kuehn, W. and Kupsc, A. and Lai, W. and Lange, J. S. and Lara, M. and Larin, P. and Leyhe, M. and Li, Cheng and Li, D. M. and Li, F. and Li, G. and Li, H. B. and Li, J. C. and Li, Jin and Li, K. and Li, K. and Li, Q. J. and Li, T. and Li, W. D. and Li, W. G. and Li, X. L. and Li, X. M. and Li, X. N. and Li, X. Q. and Li, Z. B. and Liang, H. and Liang, Y. F. and Liang, Y. T. and Liao, G. R. and Lin, D. X. and Liu, B. J. and Liu, C. L. and Liu, C. X. and Liu, F. H. and Liu, Fang and Liu, Feng and Liu, H. B. and Liu, H. H. and Liu, H. H. and Liu, H. M. and Liu, J. and Liu, J. P. and Liu, J. Y. and Liu, K. and Liu, K. Y. and Liu, L. D. and Liu, Q. and Liu, S. B. and Liu, X. and Liu, X. X. and Liu, Y. B. and Liu, Z. A. and Liu, Zhiqiang and Liu, Zhiqing and Loehner, H. and Lou, X. C. and Lu, H. J. and Lu, J. G. and Lu, R. Q. and Lu, Y. and Lu, Y. P. and Luo, C. L. and Luo, M. X. and Luo, T. and Luo, X. L. and Lv, M. and Lyu, X. R. and Ma, F. C. and Ma, H. L. and Ma, Q. M. and Ma, S. and Ma, T. and Ma, X. N. and Ma, X. Y. and Maas, F. E. and Maggiora, M. and Malik, Q. A. and Mao, Y. J. and Mao, Z. P. and Marcello, S. and Messchendorp, J. G. and Min, J. and Min, T. J. and Mitchell, R. E. and Mo, X. H. and Mo, Y. J. and Moeini, H. and Morales Morales, C. and Moriya, K. and Muchnoi, N. Yu. and Muramatsu, H. and Nefedov, Y. and Nerling, F. and Nikolaev, I. B. and Ning, Z. and Nisar, S. and Niu, S. L. and Niu, X. Y. and Olsen, S. L. and Ouyang, Q. and Pacetti, S. and Patteri, P. and Pelizaeus, M. and Peng, H. P. and Peters, K. and Ping, J. L. and Ping, R. G. and Poling, R. and Pu, Y. N. and Qi, M. and Qian, S. and Qiao, C. F. and Qin, L. Q. and Qin, N. and Qin, X. S. and Qin, Y. and Qin, Z. H. and Qiu, J. F. and Rashid, K. H. and Redmer, C. F. and Ren, H. L. and Ripka, M. and Rong, G. and Ruan, X. D. and Santoro, V. and Sarantsev, A. and Savri\'e, M. and Schoenning, K. and Schumann, S. and Shan, W. and Shao, M. and Shen, C. P. and Shen, P. X. and Shen, X. Y. and Sheng, H. Y. and Shepherd, M. R. and Song, W. M. and Song, X. Y. and Sosio, S. and Spataro, S. and Spruck, B. and Sun, G. X. and Sun, J. F. and Sun, S. S. and Sun, Y. J. and Sun, Y. Z. and Sun, Z. J. and Sun, Z. T. and Tang, C. J. and Tang, X. and Tapan, I. and Thorndike, E. H. and Tiemens, M. and Toth, D. and Ullrich, M. and Uman, I. and Varner, G. S. and Wang, B. and Wang, B. L. and Wang, D. and Wang, D. Y. and Wang, K. and Wang, L. L. and Wang, L. S. and Wang, M. and Wang, P. and Wang, P. L. and Wang, Q. J. and Wang, S. G. and Wang, W. and Wang, X. F. and Wang, Y. D. and Wang, Y. F. and Wang, Y. Q. and Wang, Z. and Wang, Z. G. and Wang, Z. H. and Wang, Z. Y. and Wei, D. H. and Wei, J. B. and Weidenkaff, P. and Wen, S. P. and Wiedner, U. and Wolke, M. and Wu, L. H. and Wu, Z. and Xia, L. G. and Xia, Y. and Xiao, D. and Xiao, Z. J. and Xie, Y. G. and Xiu, Q. L. and Xu, G. F. and Xu, L. and Xu, Q. J. and Xu, Q. N. and Xu, X. P. and Xue, Z. and Yan, L. and Yan, W. B. and Yan, W. C. and Yan, Y. H. and Yang, H. X. and Yang, L. and Yang, Y. and Yang, Y. X. and Ye, H. and Ye, M. and Ye, M. H. and Yin, J. H. and Yu, B. X. and Yu, C. X. and Yu, H. W. and Yu, J. S. and Yuan, C. Z. and Yuan, W. L. and Yuan, Y. and Yuncu, A. and Zafar, A. A. and Zallo, A. and Zeng, Y. and Zhang, B. X. and Zhang, B. Y. and Zhang, C. and Zhang, C. C. and Zhang, D. H. and Zhang, H. H. and Zhang, H. T. and Zhang, H. Y. and Zhang, J. J. and Zhang, J. L. and Zhang, J. Q. and Zhang, J. W. and Zhang, J. Y. and Zhang, J. Z. and Zhang, K. and Zhang, L. and Zhang, S. H. and Zhang, X. J. and Zhang, X. Y. and Zhang, Y. and Zhang, Y. H. and Zhang, Z. H. and Zhang, Z. P. and Zhang, Z. Y. and Zhao, G. and Zhao, J. W. and Zhao, J. Y. and Zhao, J. Z. and Zhao, Lei and Zhao, Ling and Zhao, M. G. and Zhao, Q. and Zhao, Q. W. and Zhao, S. J. and Zhao, T. C. and Zhao, Y. B. and Zhao, Z. G. and Zhemchugov, A. and Zheng, B. and Zheng, J. P. and Zheng, Y. H. and Zhong, B. and Zhou, L. and Zhou, Li and Zhou, X. and Zhou, X. K. and Zhou, X. R. and Zhou, X. Y. and Zhu, K. and Zhu, K. J. and Zhu, S. and Zhu, X. L. and Zhu, Y. C. and Zhu, Y. S. and Zhu, Z. A. and Zhuang, J. and Zou, B. S. and Zou, J. H.},
+  collaboration = {BESIII Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {113},
+  issue = {21},
+  pages = {212002},
+  numpages = {8},
+  year = {2014},
+  month = {Nov},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.113.212002},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.113.212002}
+}
+
+
+@article{PhysRevLett.112.132001,
+  title = {Observation of a Charged Charmoniumlike Structure in ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}({D}^{*}{\overline{D}}^{*}{)}^{\ifmmode\pm\else\textpm\fi{}}{\ensuremath{\pi}}^{\ensuremath{\mp}}$ at $\sqrt{s}=4.26\text{ }\text{ }\mathrm{GeV}$},
+  author = {Ablikim, M. and Achasov, M. N. and Albayrak, O. and Ambrose, D. J. and An, F. F. and An, Q. and Bai, J. Z. and Baldini Ferroli, R. and Ban, Y. and Becker, J. and Bennett, J. V. and Bertani, M. and Bian, J. M. and Boger, E. and Bondarenko, O. and Boyko, I. and Braun, S. and Briere, R. A. and Bytev, V. and Cai, H. and Cai, X. and Cakir, O. and Calcaterra, A. and Cao, G. F. and Cetin, S. A. and Chang, J. F. and Chelkov, G. and Chen, G. and Chen, H. S. and Chen, J. C. and Chen, M. L. and Chen, S. J. and Chen, X. R. and Chen, Y. B. and Cheng, H. P. and Chu, Y. P. and Cronin-Hennessy, D. and Dai, H. L. and Dai, J. P. and Dedovich, D. and Deng, Z. Y. and Denig, A. and Denysenko, I. and Destefanis, M. and Ding, W. M. and Ding, Y. and Dong, L. Y. and Dong, M. Y. and Du, S. X. and Fang, J. and Fang, S. S. and Fava, L. and Feng, C. Q. and Friedel, P. and Fu, C. D. and Fu, J. L. and Fuks, O. and Gao, Y. and Geng, C. and Goetzen, K. and Gong, W. X. and Gradl, W. and Greco, M. and Gu, M. H. and Gu, Y. T. and Guan, Y. H. and Guo, A. Q. and Guo, L. B. and Guo, T. and Guo, Y. P. and Han, Y. L. and Harris, F. A. and He, K. L. and He, M. and He, Z. Y. and Held, T. and Heng, Y. K. and Hou, Z. L. and Hu, C. and Hu, H. M. and Hu, J. F. and Hu, T. and Huang, G. M. and Huang, G. S. and Huang, J. S. and Huang, L. and Huang, X. T. and Huang, Y. and Hussain, T. and Ji, C. S. and Ji, Q. and Ji, Q. P. and Ji, X. B. and Ji, X. L. and Jiang, L. L. and Jiang, X. S. and Jiao, J. B. and Jiao, Z. and Jin, D. P. and Jin, S. and Jing, F. F. and Kalantar-Nayestanaki, N. and Kavatsyuk, M. and Kloss, B. and Kopf, B. and Kornicer, M. and Kuehn, W. and Lai, W. and Lange, J. S. and Lara, M. and Larin, P. and Leyhe, M. and Li, C. H. and Li, Cheng and Li, Cui and Li, D. M. and Li, F. and Li, G. and Li, H. B. and Li, J. C. and Li, K. and Li, Lei and Li, P. R. and Li, Q. J. and Li, W. D. and Li, W. G. and Li, X. L. and Li, X. N. and Li, X. Q. and Li, X. R. and Li, Z. B. and Liang, H. and Liang, Y. F. and Liang, Y. T. and Liao, G. R. and Liao, X. T. and Lin, D. X. and Liu, B. J. and Liu, C. L. and Liu, C. X. and Liu, F. H. and Liu, Fang and Liu, Feng and Liu, H. and Liu, H. B. and Liu, H. H. and Liu, H. M. and Liu, H. W. and Liu, J. P. and Liu, K. and Liu, K. Y. and Liu, L. D. and Liu, P. L. and Liu, Q. and Liu, S. B. and Liu, X. and Liu, Y. B. and Liu, Z. A. and Liu, Zhiqiang and Liu, Zhiqing and Loehner, H. and Lou, X. C. and Lu, G. R. and Lu, H. J. and Lu, J. G. and Lu, X. R. and Lu, Y. P. and Luo, C. L. and Luo, M. X. and Luo, T. and Luo, X. L. and Lv, M. and Ma, F. C. and Ma, H. L. and Ma, Q. M. and Ma, S. and Ma, T. and Ma, X. Y. and Maas, F. E. and Maggiora, M. and Malik, Q. A. and Mao, Y. J. and Mao, Z. P. and Messchendorp, J. G. and Min, J. and Min, T. J. and Mitchell, R. E. and Mo, X. H. and Moeini, H. and Morales Morales, C. and Moriya, K. and Muchnoi, N. Yu. and Muramatsu, H. and Nefedov, Y. and Nikolaev, I. B. and Ning, Z. and Olsen, S. L. and Ouyang, Q. and Pacetti, S. and Park, J. W. and Pelizaeus, M. and Peng, H. P. and Peters, K. and Ping, J. L. and Ping, R. G. and Poling, R. and Prencipe, E. and Qi, M. and Qian, S. and Qiao, C. F. and Qin, L. Q. and Qin, X. S. and Qin, Y. and Qin, Z. H. and Qiu, J. F. and Rashid, K. H. and Redmer, C. F. and Rong, G. and Ruan, X. D. and Sarantsev, A. and Shao, M. and Shen, C. P. and Shen, X. Y. and Sheng, H. Y. and Shepherd, M. R. and Song, W. M. and Song, X. Y. and Spataro, S. and Spruck, B. and Sun, D. H. and Sun, G. X. and Sun, J. F. and Sun, S. S. and Sun, Y. J. and Sun, Y. Z. and Sun, Z. J. and Sun, Z. T. and Tang, C. J. and Tang, X. and Tapan, I. and Thorndike, E. H. and Toth, D. and Ullrich, M. and Uman, I. and Varner, G. S. and Wang, B. and Wang, D. and Wang, D. Y. and Wang, K. and Wang, L. L. and Wang, L. S. and Wang, M. and Wang, P. and Wang, P. L. and Wang, Q. J. and Wang, S. G. and Wang, X. F. and Wang, X. L. and Wang, Y. D. and Wang, Y. F. and Wang, Y. Q. and Wang, Z. and Wang, Z. G. and Wang, Z. Y. and Wei, D. H. and Wei, J. B. and Weidenkaff, P. and Wen, Q. G. and Wen, S. P. and Werner, M. and Wiedner, U. and Wu, L. H. and Wu, N. and Wu, S. X. and Wu, W. and Wu, Z. and Xia, L. G. and Xia, Y. X. and Xiao, Z. J. and Xie, Y. G. and Xiu, Q. L. and Xu, G. F. and Xu, Q. J. and Xu, Q. N. and Xu, X. P. and Xu, Z. R. and Xue, Z. and Yan, L. and Yan, W. B. and Yan, Y. H. and Yang, H. X. and Yang, Y. and Yang, Y. X. and Ye, H. and Ye, M. and Ye, M. H. and Yu, B. X. and Yu, C. X. and Yu, H. W. and Yu, J. S. and Yu, S. P. and Yuan, C. Z. and Yuan, Y. and Zafar, A. A. and Zallo, A. and Zang, S. L. and Zeng, Y. and Zhang, B. X. and Zhang, B. Y. and Zhang, C. and Zhang, C. C. and Zhang, D. H. and Zhang, H. H. and Zhang, H. Y. and Zhang, L. and Zhang, J. Q. and Zhang, J. W. and Zhang, J. Y. and Zhang, J. Z. and Zhang, R. and Zhang, S. H. and Zhang, X. J. and Zhang, X. Y. and Zhang, Y. and Zhang, Y. H. and Zhang, Z. H. and Zhang, Z. P. and Zhang, Z. Y. and Zhao, G. and Zhao, H. S. and Zhao, J. W. and Zhao, Lei and Zhao, Ling and Zhao, M. G. and Zhao, Q. and Zhao, S. J. and Zhao, T. C. and Zhao, X. H. and Zhao, Y. B. and Zhao, Z. G. and Zhemchugov, A. and Zheng, B. and Zheng, J. P. and Zheng, Y. H. and Zhong, B. and Zhou, L. and Zhou, X. and Zhou, X. K. and Zhou, X. R. and Zhu, C. and Zhu, K. and Zhu, K. J. and Zhu, S. H. and Zhu, X. L. and Zhu, Y. C. and Zhu, Y. S. and Zhu, Z. A. and Zhuang, J. and Zou, B. S. and Zou, J. H.},
+  collaboration = {BESIII Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {112},
+  issue = {13},
+  pages = {132001},
+  numpages = {7},
+  year = {2014},
+  month = {Apr},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.112.132001},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.112.132001}
+}
+
+
+@article{PhysRevLett.115.182002,
+  title = {Observation of a Neutral Charmoniumlike State ${Z}_{c}(4025{)}^{0}$ in ${e}^{+}{e}^{\ensuremath{-}}\ensuremath{\rightarrow}({D}^{*}{\overline{D}}^{*}{)}^{0}{\ensuremath{\pi}}^{0}$},
+  author = {Ablikim, M. and Achasov, M. N. and Ai, X. C. and Albayrak, O. and Albrecht, M. and Ambrose, D. J. and Amoroso, A. and An, F. F. and An, Q. and Bai, J. Z. and Ferroli, R. Baldini and Ban, Y. and Bennett, D. W. and Bennett, J. V. and Bertani, M. and Bettoni, D. and Bian, J. M. and Bianchi, F. and Boger, E. and Boyko, I. and Briere, R. A. and Cai, H. and Cai, X. and Cakir, O. and Calcaterra, A. and Cao, G. F. and Cetin, S. A. and Chang, J. F. and Chelkov, G. and Chen, G. and Chen, H. S. and Chen, H. Y. and Chen, J. C. and Chen, M. L. and Chen, S. J. and Chen, X. and Chen, X. R. and Chen, Y. B. and Cheng, H. P. and Chu, X. K. and Cibinetto, G. and Dai, H. L. and Dai, J. P. and Dbeyssi, A. and Dedovich, D. and Deng, Z. Y. and Denig, A. and Denysenko, I. and Destefanis, M. and De Mori, F. and Ding, Y. and Dong, C. and Dong, J. and Dong, L. Y. and Dong, M. Y. and Du, S. X. and Duan, P. F. and Eren, E. E. and Fan, J. Z. and Fang, J. and Fang, S. S. and Fang, X. and Fang, Y. and Fava, L. and Feldbauer, F. and Felici, G. and Feng, C. Q. and Fioravanti, E. and Fritsch, M. and Fu, C. D. and Gao, Q. and Gao, X. Y. and Gao, Y. and Gao, Z. and Garzia, I. and Geng, C. and Goetzen, K. and Gong, W. X. and Gradl, W. and Greco, M. and Gu, M. H. and Gu, Y. T. and Guan, Y. H. and Guo, A. Q. and Guo, L. B. and Guo, Y. and Guo, Y. P. and Haddadi, Z. and Hafner, A. and Han, S. and Han, Y. L. and Hao, X. Q. and Harris, F. A. and He, K. L. and He, Z. Y. and Held, T. and Heng, Y. K. and Hou, Z. L. and Hu, C. and Hu, H. M. and Hu, J. F. and Hu, T. and Hu, Y. and Huang, G. M. and Huang, G. S. and Huang, H. P. and Huang, J. S. and Huang, X. T. and Huang, Y. and Hussain, T. and Ji, Q. and Ji, Q. P. and Ji, X. B. and Ji, X. L. and Jiang, L. L. and Jiang, L. W. and Jiang, X. S. and Jiang, X. Y. and Jiao, J. B. and Jiao, Z. and Jin, D. P. and Jin, S. and Johansson, T. and Julin, A. and Kalantar-Nayestanaki, N. and Kang, X. L. and Kang, X. S. and Kavatsyuk, M. and Ke, B. C. and Kiese, P. and Kliemt, R. and Kloss, B. and Kolcu, O. B. and Kopf, B. and Kornicer, M. and K\"uhn, W. and Kupsc, A. and Lange, J. S. and Lara, M. and Larin, P. and Leng, C. and Li, C. and Li, C. H. and Li, Cheng and Li, D. M. and Li, F. and Li, G. and Li, H. B. and Li, J. C. and Li, Jin and Li, K. and Li, K. and Li, Lei and Li, P. R. and Li, T. and Li, W. D. and Li, W. G. and Li, X. L. and Li, X. M. and Li, X. N. and Li, X. Q. and Li, Z. B. and Liang, H. and Liang, Y. F. and Liang, Y. T. and Liao, G. R. and Lin, D. X. and Liu, B. J. and Liu, C. X. and Liu, F. H. and Liu, Fang and Liu, Feng and Liu, H. B. and Liu, H. H. and Liu, H. H. and Liu, H. M. and Liu, J. and Liu, J. B. and Liu, J. P. and Liu, J. Y. and Liu, K. and Liu, K. Y. and Liu, L. D. and Liu, P. L. and Liu, Q. and Liu, S. B. and Liu, X. and Liu, X. X. and Liu, Y. B. and Liu, Z. A. and Liu, Zhiqiang and Liu, Zhiqing and Loehner, H. and Lou, X. C. and Lu, H. J. and Lu, J. G. and Lu, R. Q. and Lu, Y. and Lu, Y. P. and Luo, C. L. and Luo, M. X. and Luo, T. and Luo, X. L. and Lv, M. and Lyu, X. R. and Ma, F. C. and Ma, H. L. and Ma, L. L. and Ma, Q. M. and Ma, T. and Ma, X. N. and Ma, X. Y. and Maas, F. E. and Maggiora, M. and Mao, Y. J. and Mao, Z. P. and Marcello, S. and Messchendorp, J. G. and Min, J. and Min, T. J. and Mitchell, R. E. and Mo, X. H. and Mo, Y. J. and Morales, C. Morales and Moriya, K. and Muchnoi, N. Yu. and Muramatsu, H. and Nefedov, Y. and Nerling, F. and Nikolaev, I. B. and Ning, Z. and Nisar, S. and Niu, S. L. and Niu, X. Y. and Olsen, S. L. and Ouyang, Q. and Pacetti, S. and Patteri, P. and Pelizaeus, M. and Peng, H. P. and Peters, K. and Pettersson, J. and Ping, J. L. and Ping, R. G. and Poling, R. and Prasad, V. and Pu, Y. N. and Qi, M. and Qian, S. and Qiao, C. F. and Qin, L. Q. and Qin, N. and Qin, X. S. and Qin, Y. and Qin, Z. H. and Qiu, J. F. and Rashid, K. H. and Redmer, C. F. and Ren, H. L. and Ripka, M. and Rong, G. and Rosner, Ch. and Ruan, X. D. and Santoro, V. and Sarantsev, A. and Savri\'e, M. and Schoenning, K. and Schumann, S. and Shan, W. and Shao, M. and Shen, C. P. and Shen, P. X. and Shen, X. Y. and Sheng, H. Y. and Song, W. M. and Song, X. Y. and Sosio, S. and Spataro, S. and Sun, G. X. and Sun, J. F. and Sun, S. S. and Sun, Y. J. and Sun, Y. Z. and Sun, Z. J. and Sun, Z. T. and Tang, C. J. and Tang, X. and Tapan, I. and Thorndike, E. H. and Tiemens, M. and Ullrich, M. and Uman, I. and Varner, G. S. and Wang, B. and Wang, B. L. and Wang, D. and Wang, D. Y. and Wang, K. and Wang, L. L. and Wang, L. S. and Wang, M. and Wang, P. and Wang, P. L. and Wang, S. G. and Wang, W. and Wang, X. F. and Wang, Y. D. and Wang, Y. F. and Wang, Y. Q. and Wang, Z. and Wang, Z. G. and Wang, Z. H. and Wang, Z. Y. and Weber, T. and Wei, D. H. and Wei, J. B. and Weidenkaff, P. and Wen, S. P. and Wiedner, U. and Wolke, M. and Wu, L. H. and Wu, Z. and Xia, L. G. and Xia, Y. and Xiao, D. and Xiao, Z. J. and Xie, Y. G. and Xiu, Q. L. and Xu, G. F. and Xu, L. and Xu, Q. J. and Xu, Q. N. and Xu, X. P. and Yan, L. and Yan, W. B. and Yan, W. C. and Yan, Y. H. and Yang, H. J. and Yang, H. X. and Yang, L. and Yang, Y. and Yang, Y. X. and Ye, H. and Ye, M. and Ye, M. H. and Yin, J. H. and Yu, B. X. and Yu, C. X. and Yu, H. W. and Yu, J. S. and Yuan, C. Z. and Yuan, W. L. and Yuan, Y. and Yuncu, A. and Zafar, A. A. and Zallo, A. and Zeng, Y. and Zhang, B. X. and Zhang, B. Y. and Zhang, C. and Zhang, C. C. and Zhang, D. H. and Zhang, H. H. and Zhang, H. Y. and Zhang, J. J. and Zhang, J. L. and Zhang, J. Q. and Zhang, J. W. and Zhang, J. Y. and Zhang, J. Z. and Zhang, K. and Zhang, L. and Zhang, S. H. and Zhang, X. Y. and Zhang, Y. and Zhang, Y. N. and Zhang, Y. H. and Zhang, Y. T. and Zhang, Yu and Zhang, Z. H. and Zhang, Z. P. and Zhang, Z. Y. and Zhao, G. and Zhao, J. W. and Zhao, J. Y. and Zhao, J. Z. and Zhao, Lei and Zhao, Ling and Zhao, M. G. and Zhao, Q. and Zhao, Q. W. and Zhao, S. J. and Zhao, T. C. and Zhao, Y. B. and Zhao, Z. G. and Zhemchugov, A. and Zheng, B. and Zheng, J. P. and Zheng, W. J. and Zheng, Y. H. and Zhong, B. and Zhou, L. and Zhou, Li and Zhou, X. and Zhou, X. K. and Zhou, X. R. and Zhou, X. Y. and Zhu, K. and Zhu, K. J. and Zhu, S. and Zhu, X. L. and Zhu, Y. C. and Zhu, Y. S. and Zhu, Z. A. and Zhuang, J. and Zotti, L. and Zou, B. S. and Zou, J. H.},
+  collaboration = {BESIII Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {115},
+  issue = {18},
+  pages = {182002},
+  numpages = {7},
+  year = {2015},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.115.182002},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.115.182002}
+}
+
+
+
+
+
+
+
+@article{Ablikim:2020hsk,
+    author = "Ablikim, Medina and others",
+    collaboration = "BESIII collaboration",
+    title = "{Observation of a near-threshold structure in the $K^+$ recoil-mass spectra in $e^+e^-\to K^+ (D_s^- D^{*0} + D^{*-}_s D^0)$}",
+    eprint = "2011.07855",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    month = "11",
+    year = "2020"
+}
+
+
+@article{PhysRev.134.B1307,
+  title = {$S$-Matrix Poles Close to Threshold},
+  author = {Frazer, William R. and Hendry, Archibald W.},
+  journal = {Phys. Rev.},
+  volume = {134},
+  issue = {6B},
+  pages = {B1307--B1314},
+  numpages = {0},
+  year = {1964},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.134.B1307},
+  url = {https://link.aps.org/doi/10.1103/PhysRev.134.B1307}
+}
+
+
+@article{PhysRevC.98.045208,
+  title = {Quark model estimate of hidden-charm pentaquark resonances},
+  author = {Hiyama, Emiko and Hosaka, Atsushi and Oka, Makoto and Richard, Jean-Marc},
+  journal = {Phys. Rev. C},
+  volume = {98},
+  issue = {4},
+  pages = {045208},
+  numpages = {8},
+  year = {2018},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevC.98.045208},
+  url = {https://link.aps.org/doi/10.1103/PhysRevC.98.045208}
+}
+
+@article{MAIANI2018247,
+title = {A theory of X and Z multiquark resonances},
+journal = {Physics Letters B},
+volume = {778},
+pages = {247-251},
+year = {2018},
+issn = {0370-2693},
+doi = {https://doi.org/10.1016/j.physletb.2018.01.039},
+url = {https://www.sciencedirect.com/science/article/pii/S0370269318300479},
+author = {Luciano Maiani and Antonio D. Polosa and Veronica Riquer},
+abstract = {We introduce the hypothesis that diquarks and antidiquarks in tetraquarks are separated by a potential barrier. We show that this notion can answer satisfactorily long standing questions challenging the diquark–antidiquark model of exotic resonances. The tetraquark description of X and Z resonances is shown to be compatible with present limits on the non-observation of charged partners X±, of the X(3872) and the absence of a hyperfine splitting between two different neutral states. In the same picture, Zc and Zb particles are expected to form complete isospin triplets plus singlets. It is also explained why the decay rate into final states including quarkonia are suppressed with respect to those having open charm/beauty states.}
+}
+
+
+@article{Bugg_2008,
+	doi = {10.1088/0954-3899/35/7/075005},
+	url = {https://doi.org/10.1088/0954-3899/35/7/075005},
+	year = 2008,
+	month = {may},
+	publisher = {{IOP} Publishing},
+	volume = {35},
+	number = {7},
+	pages = {075005},
+	author = {D V Bugg},
+	title = {How resonances can synchronize with thresholds},
+	journal = {Journal of Physics G: Nuclear and Particle Physics},
+	abstract = {The mechanism by which a threshold may capture a resonance is examined. It involves a threshold cusp interfering constructively with either or both (i) a resonance produced via confinement, (ii) attractive t- and u-channel exchanges. The f0(980), X(3872) and Z(4430) are studied in detail. The f0(980) provides a valuable model of the locking mechanism. The X(3872) is too narrow to be fitted by a cusp and requires either a resonance or virtual state. The Z(4430) can be fitted as a resonance but also can be fitted successfully by a cusp with no nearby resonant pole.}
+}
+
+
+
+
+
+@article{PhysRevD.91.051504,
+  title = {Could the near-threshold $XYZ$ states be simply kinematic effects?},
+  author = {Guo, Feng-Kun and Hanhart, Christoph and Wang, Qian and Zhao, Qiang},
+  journal = {Phys. Rev. D},
+  volume = {91},
+  issue = {5},
+  pages = {051504},
+  numpages = {5},
+  year = {2015},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.91.051504},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.91.051504}
+}
+
+@article{DUBYNSKIY200982,
+title = {Holographic hadro-quarkonium},
+journal = {Physics Letters B},
+volume = {671},
+number = {1},
+pages = {82-86},
+year = {2009},
+issn = {0370-2693},
+doi = {https://doi.org/10.1016/j.physletb.2008.11.040},
+url = {https://www.sciencedirect.com/science/article/pii/S0370269308014226},
+author = {S. Dubynskiy and A. Gorsky and M.B. Voloshin},
+abstract = {We consider the recently suggested model for some resonances near the open charm threshold as bound states of charmonium inside excited light mesons. It is argued in the soft-wall holographic model of QCD that such states of heavy quarkonium necessarily exist at sufficiently large spin of the light meson. The bound state is provided by the dilaton exchange through the 5D bulk. We also argue that the decay of such bound systems into mesons with open heavy flavors due to splitting of the heavy quarkonium can be treated as semiclassical tunneling and is suppressed. This behavior is in agreement with the known relative suppression of the decay of the discussed charmonium-like resonances into channels with D mesons.}
+}
+
+
+
+@article{GUO2020103757,
+title = {Threshold cusps and triangle singularities in hadronic reactions},
+journal = {Progress in Particle and Nuclear Physics},
+volume = {112},
+pages = {103757},
+year = {2020},
+issn = {0146-6410},
+doi = {https://doi.org/10.1016/j.ppnp.2020.103757},
+url = {https://www.sciencedirect.com/science/article/pii/S0146641020300041},
+author = {Feng-Kun Guo and Xiao-Hai Liu and Shuntaro Sakai},
+keywords = {Threshold cusps, Triangle singularities, Exotic hadrons},
+abstract = {The spectrum of hadrons is the manifestation of color confinement of quantum chromodynamics. Hadronic resonances correspond to poles of the S-matrix. Since 2003, lots of new hadron resonant structures were discovered in the mass regions from light mesons to hadrons containing a pair of a heavy quark and an antiquark. Many of them are candidates of exotic hadrons, and they are usually observed as peaks in invariant mass distributions. However, the S-matrix also has kinematical singularities due to the on-shellness of intermediate particles for a process, such as two-body thresholds and triangle singularities (TSs), and they can produce peaks as well. On the one hand, such singularities may be misidentified as resonances; on the other hand, they can be used as tools for precision measurements. In this paper, we review the threshold cusps and various triangle singularities in hadronic reactions, paying attention to their manifestations in phenomena related to exotic hadron candidates.}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

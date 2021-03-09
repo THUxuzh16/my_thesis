@@ -1,0 +1,283 @@
+\section{Amplitude analysis}
+
+Then, a full amplitude analysis is performed to examine the contributions of the two $\ZP$ states and possible $\ZC$ state.
+Isobar model approach is used in which each resonance is described by a Breit-Wigner.
+%or a coupled-channel Flatt{\'e} amplitude.~\footnote{
+%There are also three successful models for baryon amplitudes: MAID (http://portal.kph.uni-mainz.de/MAID//), SAID (http://gwdac.phys.gwu.edu/) and the Bonn-Gatchina model (http://arxiv.org/pdf/0911.5277v2.pdf).}
+The amplitude formalism has been described in the $\Bp\to\jpsi\proton\Kp$ analysis above, Section~\ref{sec:03_matrixelement}, 
+by replacing variables with the particle $\Kp$ by these of the $\pim$,
+the $\proton$ by these of the $\phi$,
+and $\Bp$ by these of the $\Lb$.
+There are 6 fitting observables: invariant mass of $p\pi$, $m(\proton\pi)$, 
+and five decay angles denoted as $\POmega$, 
+including
+(i) cosine of helicity angle of the $\Lb$ decays $\cos\,\theta_{\Lb}$;
+(ii) cosine of helicity angle of the $N^*$ decays $\cos\,\theta_{N^*}$;
+(iii) cosine of helicity angle of the $\jpsi$ decays $\cos\,\theta_{\jpsi}$;
+(iv) angle between $\Lb$ and $N^*$ decay planes $\phi_{\pi}$; and
+(iv) angle between $\Lb$ and $\jpsi$ decay planes $\phi_{\mu}$.
+
+%To examine such possibility, we need to include the $\ZC^-$ decay chain in the fit.  
+%The matrix element for such chain is derived as
+
+%\begin{align}
+%\Mat_{\lambda_{\Lb},\,\lambda_p^{\ZC},\,\Delta\lambda_\mu^{\ZC}}^{\,\,\ZC} \equiv
+%&
+%\sum\limits_{f}\sum\limits_{\lambda_{\ZC}}\sum\limits_{\lambda_\psi^{\ZC}}
+% \H^{\Lb\to {\ZC}_f p}_{\lambda_{\ZC},\,\lambda_{p}^{\ZC}} \,\,
+% D^{\,\,\frac{1}{2}}_{\lambda_{\Lb},\,\lambda_{\ZC}-\lambda_p^{\ZC}}(\phi_{\ZC},\theta_{\Lb}^{\ZC},0)^*\,\,
+% \notag \\
+%& ~ \H^{{\ZC}_f\to\psi \pi}_{\lambda_{\psi}^{\ZC}}\,\,
+% D^{\,\,J_{{\ZC}_f}}_{\lambda_{\ZC},\,\lambda_{\psi}^{\ZC}}(\phi_\psi^{\ZC},\theta_{\ZC},0)^*\,
+% R_{{\ZC}_f}(M_{\psi \pi}) \,
+%D^{\,\,1}_{\lambda_\psi^{\ZC},\,\Delta\lambda_\mu}(\phi_{\mu}^{\ZC},\theta_\psi^{\ZC},0)^* \,\,
+%\label{eq:Zc_matrixelement_partial}
+%\end{align}
+%where the angles and helicity states carry the superscript or subscript $\ZC$ to distinguish them from those defined for the other decay chains. The sum over $f$ allows for the possibility of contributions from more than one $\ZC^-$ resonance. There are 2 (4) helicity couplings $\H^{\Lb\to {\ZC}_f p}_{\lambda_{\ZC},\,\lambda_{p}^{\ZC}}$ for $J_{{\ZC}_f}$ = $0 (\ge1)$ to determined from the data. %When using $LS$ couplings for $J_{{\ZC}_f}\ge1$ state, the former couplings can be reduced to only 1 (3) free couplings if only the lowest (the lowest two) values of $L$ in the $\Lb$ decays are considered.
+%For some spin and parity of $\ZC$ state, such as $1^+$, there is an additional ratio of two independent $LS$ couplings for the ${\ZC}_f\to\psi \pi$ decay, $B_{L_{\rm min}+2,\,1}^{{\ZC}_f\to\psi \pi}/_{L_{\rm min},\,1}^{{\ZC}_f\to\psi \pi}$, to be determined, where $L_{\rm min}$ denotes the allowed lowest $L_{{\ZC}_f}$ in the ${\ZC}_f$ decay and there is a second allowed $L_{{\ZC}_f}=L_{\rm min}+2$.%; it can be set to zero if neglecting the contribution of the highest value of $L_{{\ZC}_f}$ in the $\ZC^-$ decay.
+%We allow all the couplings to vary in the fit.
+%The angle calculations are analogous to these defined in the $\ZP$ decay chain by only interchange $p$ and $\pi^-$.
+
+
+Except for the exotic baryonic $\ZP$ states, 
+exotic mesonic states $\ZC^-\to\jpsi \pim$ could also contribute to this decay. 
+The matrix elements for the $\jpsi N^*$, $P_c^+\pim$ and $\jpsi\pim$ decay chains, 
+are similar to that in the previous $\Lb\to\jpsi\proton\pim$ study~\supercite{LHCb-PAPER-2016-015}.
+Furthermore, the proton and muon helicity states in each of the exotic decay chains must be expressed in the basis of helicities in the $N^*$ decay chain, 
+which is incorporated in the total decay matrix element as follows
+\begin{align}
+\left| \Mat \right|^2 =
+\sum\limits_{\lambda_{\Lb}}
+\sum\limits_{\lambda_{p}}
+\sum\limits_{\Delta\lambda_{\mu}}
+&\left|
+\Mat_{\lambda_{\Lb},\,\lambda_p,\,\Delta\lambda_\mu}^{N^*}
++
+e^{i\,{\Delta\lambda_\mu}\alpha_{\mu}}\,
+\sum\limits_{\lambda_p^{\ZP}}
+d^{\,\,\frac{1}{2}}_{\lambda_p^{\ZP},\,\lambda_p}(\theta_p)\,
+\Mat_{\lambda_{\Lb},\,\lambda_p^{\ZP},\,\Delta\lambda_\mu}^{\ZP}  \right. \notag \\
+&+ \left.
+e^{i\,{\Delta\lambda_\mu}\alpha^{\ZC}_{\mu}}\,
+\sum\limits_{\lambda_p^{\ZC}} e^{i\lambda_p^{\ZC}\alpha_p^{\ZC}}
+d^{\,\,\frac{1}{2}}_{\lambda_p^{\ZC},\,\lambda_p}(\theta^{\ZC}_p)\,
+\Mat_{\lambda_{\Lb},\,\lambda_p^{\ZC},\,\Delta\lambda_\mu}^{\ZC}
+\right|^2,
+\label{eq:total_matrixelement}
+\end{align}
+where the matrix element for each of the decay chains is denoted by the superscripts, 
+and $\theta_p$ ($\theta_p^{\ZC}$) is the polar angle in the $p$ rest frame between the boost directions from the $N^*$ and $\ZP^+$ ($\ZC^-$) rest frames, 
+and $\alpha_\mu$ ($\alpha_\mu^{\ZC}$) is the azimuthal angle correcting for the difference between the muon helicity states 
+in the $N^*$ and $\ZP^+$ ($\ZC^-$) decay chains. 
+Unlike in the $\ZP^+$ chain, 
+the azimuthal angle ($\alpha_p^{\ZC}$) aligning the two proton helicity frames is not zero.
+
+
+
+
+
+
+
+\subsection{Likelihood construction with sPlot technique}
+A so-called \emph{sFit} approach is used in this analysis.
+In such approach the total PDF is equal to the signal PDF, 
+as the background is subtracted from the log-likelihood sum using the \sWeights.
+The signal PDF is obtained by multiplying the decay matrix element $\Mat$ squared with the selection efficiency, 
+$\epsilon(m_{p\pi},\POmega)$,
+\begin{equation}
+\label{SUPPeq:sigpdf}
+\PDF_{\rm sig}(m_{p\pi},\POmega|\Pars)
+=\frac{1}{I(\Pars)}\left|\Mat(m_{p\pi},\POmega|\Pars)\right|^2
+\Phi(m_{p\pi})
+\epsilon(m_{p\pi},\POmega),
+\end{equation}
+where
+$\Phi(m_{p\pi})$ is the phase space function equal to $p\cdot q$, 
+with $p$ being the momentum of the $p\pi$ system (\ie\ $\NStar$) in the $\Lb$ rest frame, 
+and $q$ being the momentum of $\pi^-$ in the $\NStar$ rest frame,
+and $I(\Pars)$ is the normalization integral. 
+The fitting parameters, $\Pars$, represent independent helicity or $LS$ couplings,
+and masses and widths of resonances (or Flatt{\'e} parameters).
+
+This quasi-log-likelihood sum is scaled by a constant factor,  
+$s_W \equiv \sum_i W_i/\sum_i W_i^2$ to account for the effect of the background subtraction on the statistical uncertainty. 
+To determine $\Pars$, 
+\begin{align}
+-2\ln\Like(\Pars)=
+& -2 s_W\,\sum_i W_i\ln \PDF_{\rm sig}(m_{p\pi~i},\POmega_i|\Pars)  \notag\\
+= & -2 s_W\, \sum_i W_i \ln |\Mat(m_{p\pi~i},\POmega_i|\Pars)|^2
++ 2 s_W\, \ln I(\Pars) \sum_i W_i \notag\\
+&~~~~~~~~~ -2 s_W\, \sum_i W_i \ln[ \Phi(m_{p\pi~i})\epsilon(m_{p\pi~i},\POmega_i) ].
+\end{align}
+is minimized.
+The last term does not depend on the fitted parameters $\Pars$ and is therefore dropped.
+The efficiency still appears in the normalization integral.  The integration is done without the need to parameterize the efficiency,
+by summing the matrix element squared over the simulated events that are
+generated uniformly in phase space and pass
+through the detector modelling and the data selection procedure,
+\begin{eqnarray}
+I(\Pars)& \equiv & \int \left|\Mat(m_{p\pi},\POmega|\Pars)\right|^2
+\Phi(m_{p\pi})
+\epsilon(m_{p\pi},\POmega)
+\,dm_{p\pi}\,d\POmega \notag\\
+&\propto & \sum\limits_{j}^{N_{\rm MC}} w_j^{\rm MC} \left|\Mat(m_{p\pi~j},\POmega_{j}|\Pars)\right|^2,
+\label{SUPPeq:signor}
+\end{eqnarray}
+where $w_j^{\rm MC}$ are the weights given to the simulated events
+to  improve the agreement between data and simulations.
+
+As described above, 
+the PID cuts on the hadron tracks, 
+$p,\pi$ candidates are not applied in the simulation sample,
+instead their effect is considered by the PID weights determined using the \texttt{PIDCalib} package. 
+The PID weight is the probability (efficiency) of a track passing a specific PID requirement, 
+and is a function of the track momentum, 
+pseudo-rapidity and event multiplicity. 
+For each $\Lb$ candidate, 
+the weight is determined as the product of the two PID weights on $p$ and $\pi$.
+
+%Another weight is introduced to account for the difference of the $\Lb$ kinematic $(\pt,y)$ distribution between data
+%and simulation. The inconsistency of the $\Lb$ kinematic distribution depends only on the Monte Carlo generator but not on the $\Lb$ decay modes.
+%So the weights that were used in the $\LbJpsipK$ analysis to correct the $\Lb$ $(\pt,y)$ distribution are used again.
+%In the end, the kinematic weight is multiplied by the PID weights to determine a total weight for each event.
+%The weighted Monte Carlo is used to calculate the selection efficiency \etc in this analysis.
+
+
+\subsection{{$N^*$ resonances }}
+
+The conventional resonances contributing to the $\Lb$ channel are excited $N^{*}$ states that decay to $p \pi^-$. 
+The isospin violated decay $\Lb\to \jpsi \Delta^*$, $\Delta^*\to \proton \pim$ is expected to be suppressed. 
+A preliminary study on similar decay gives the isospin violated decay  
+to the allowed decay $\Gamma(\Lb \to \jpsi \Sigma)/\Gamma(\Lb \to \jpsi \Lambda)<1\%$ at 95\% confidence level. 
+Thus $\Delta^*$ is not considered in this study.
+
+Table~\ref{tab:Lstar} lists total 14 $N^*$ states that we consider. 
+They are all established resonances (overall status 3 or 4 stars). 
+%All $N^*$ resonances including lower stars are listed in Table~\ref{tab:NstarAll} of Appendix~\ref{sec:app:Nstar}. 
+The Breit-Wigner amplitude is used for all the resonances, 
+except for the $N(1535)$ state, 
+that is described by a Flatt{\'e} function. 
+Because the resonance has significant coupling to $\eta N$ channel whose open threshold is very close to the mass of the state. 
+In the $\pi N$ elastic scattering, 
+the resonance is shown by a sharp cusp~\supercite{Arndt:2005dg, Arndt:2006bf}.  
+Since the angular momenta in the two coupling channels are all zero, the Flatt{\'e} function can be simplified as
+\begin{equation}
+{\rm F}(m | M_0, g_{N\pi}, g_{n\eta} ) = \frac{1}{M_0^2-m^2 - i \left(g^2_{N\pi}\rho_{N\pi}(m)+g^2_{n\eta}\rho_{n\eta}(m)\right)} \,,
+\label{SUPeq:breitwigner}
+\end{equation}
+where $\rho_k(m)=2q_k(m)/m$ is the phase-space factor, $g_{k}$ is the coupling,
+and $q_k$ is the momentum of either $\pi$ or $\eta$ in the $\NStar$ rest frame for channel $k=N\pi$ or $n\eta$.
+Here $N$ can be either a proton $p$ or a neutron $n$; 
+their mass difference is ignored and use the proton mass instead. 
+When $m<m_n+m_\eta$, $q_{n\eta}$ becomes imaginary for continuance, \ie
+\begin{equation}
+q_k(m) = i\frac{\sqrt{|(m^2-(m_n+m_\eta)^2)(m^2-(m_n-m_\eta)^2)|}}{2m},
+\end{equation}
+where $m_n$ and $m_\eta$ are the masses of $n$ and $\eta$, respectively.
+According to Ref~[\cite{Anisovich:2011fc}],  
+$g^2_{k}\rho_{k}(M_0)=M_0{\cal B}_{k}\Gamma_0$, 
+where $M_0$ and $\Gamma_0$ are the Breit-Wigner mass and width of the resonance respectively, 
+while ${\cal B}_k$ is the branching fraction of the resonance decaying to the channel $k$. 
+${\cal B}_{n\eta}/{\cal B}_{N\pi}=(0.95\pm0.03)\%$ is used \supercite{PDG}, 
+and assume that the two channels saturate the full decay width of the resonance.
+
+An S-wave non-resonant (NR) contribution for $J^P=1/2^-$  $p\pim$ is included. 
+The mass dependent term is described by the form $1/m^2$ which is found to be significant improving the fit.
+
+Due to the limited sample size, 
+the fit cannot converge including all resonances with all helicity couplings. 
+Each $N^*$ resonance is described by maximum 4 (6) independent $LS$ couplings for the spin equal to (great than) 1/2, 
+where $L$ is the orbital angular momentum of the $\Lb$ decay and $S$ is the total spin of the $\jpsi N^*$ system. 
+High $L$ couplings are expected to be suppressed by the angular momentum barrier, 
+so the couplings is selected by first allowing low $L$ contribution. 
+Table~\ref{tab:Lstar} lists the models including $N^*$ states with independent $LS$ couplings used. 
+The "Nominal Model" (NM) contains 10 $N^*$ resonances and a NR component described by 40 free parameters, 
+in which each $L$ component of each resonance that improves the $\twolnL$ great than 9 units. 
+``Extended Model" (EM) contains the maximum number free parameters that can achieve a converged fit.  
+As the ``Extended" model have too many parameters and hard to obtain accuracy uncertainty, 
+it will be used as the systematic study and the significance evaluation.
+
+\begin{table}[htb]
+\centering
+\caption{The $N^*$ resonances used in the different fits. 
+Parameters are taken from the PDG \supercite{PDG}. 
+The number of $LS$ couplings is also listed for the ``Nominal Model'' (NM) and ``Extended  Model" (EM).
+To fix overall phase and magnitude conventions, 
+which otherwise are arbitrary, 
+the $N(1535)$ coupling of lowest $LS$ is set to be (1,0).  
+A zero entry means the state is excluded from the fit. }
+\label{tab:Lstar}
+\vspace{0.2cm}
+\begin{tabular}{lcccccc}
+\hline\\[-2.5ex]
+State & $J^P$ & $M_0$ (MeV) & $\Gamma_0$ (MeV)&  NM & EM   \\
+\hline \\[-2.5ex]
+$N(1440)$ &1/2$^+$ 	& 1430 & 350 	& 4 & 4 \\
+$N(1520)$ &3/2$^-$ 	& 1515 & 115 	& 3 & 3 \\
+$N(1535)$ &1/2$^-$ 	& 1535 & 150 	& 3 & 3 \\
+$N(1650)$ &1/2$^-$ 	& 1655 & 140 	& 4 & 4 \\
+$N(1675)$ &5/2$^-$ 	& 1675 & 150 	& 5 & 5\\
+$N(1680)$ &5/2$^+$ 	& 1685 & 130 	& 3 & 3 \\
+$N(1700)$ &3/2$^-$ 	& 1700& 150 	& 3 & 3 \\
+$N(1710)$ &1/2$^+$ 	& 1710 & 100 	& 4 & 4 \\
+$N(1720)$ &3/2$^+$ 	& 1720 & 250	& 5 & 5 \\
+$N(1875)$ &3/2$^-$ 	& 1875 & 250 	& 3 & 3 \\
+$N(1900)$ &3/2$^+$ 	& 1900 & 200 	& 0 & 3 \\
+$N(2190)$ &7/2$^-$	& 2190& 500 	& 0 & 3 \\
+$N(2300)$ &1/2$^+$ 	& 2250 & 400 	& 0 & 3\\
+%$N(2220)$ &9/2$^+$ 	& 2250 & 400 	& 0 & 3\\
+%$N(2250)$ &9/2$^-$ 	& 2275 & 500 	& 0 & 3 \\
+%$N(2600)$ &11/2$^-$ 	& 2600& 650 	& 0 & 3\\
+NR $p\pi$  &1/2$^-$ 	& - & - 		& 4 & 4 \\
+%$\ZP(4380)$& 3/2$^-$& 4  & 4 & 4 & 4\\
+%$\ZP(4450)$& 5/2$^+$ & 4  & 4 & 4 & 4\\
+\hline
+\multicolumn{4}{l}{Free parameters}&  82 & 100 \\\hline
+%\multicolumn{2}{l}{$\twolnL$} &  $-2164$ & $-2207$ & $-2218$ & $-2230$\\\hline
+\end{tabular}
+\end{table}
+
+\subsection{{Parameters describing the $P_c^+$ states}}
+\label{sec:Pcpar}
+Because of limited statistics, 
+the strategy is to check whether or not the data is consistent with the $\Lb\to\jpsi p K^-$ decays studied previously~\supercite{LHCb-PAPER-2019-014}, 
+thus it is required to use constraints as many as possible from that study.
+
+Each $P_c^+$ state is described by total 10 parameters: 
+2 parameters for mass and width, 
+6 for independent helicity couplings of the $P_c^+\to \jpsi p$ decay, 
+${\cal H}_{\lambda_\psi^{Pc}\,,\lambda_p^{Pc}}^{P_{cj}\to\psi p}$, 
+and 2 for the complex $LS$ coupling ratio of the $\Lb\to P_c^+ \pi^-$ decays, 
+$B_{L=J_{Pc}+1/2}/B_{L=J_{Pc}-1/2}$. 
+To obtain a reliable fit,  
+some free parameters are reduced: 
+for each $P_c^+$ state, 
+the mass and width to the measured values from the $\Lb\to\jpsi p K^-$ decay is fixed~\supercite{LHCb-PAPER-2019-014}.
+Besides,
+the smallest allowed orbital angular momentum is $L=2$ for $P_c^+$ states.
+%as well as the 6 helicity couplings of the $P_c^+$ decays, 
+%because the couplings are independent of how the $P_c^+$ state is produced. 
+%Since the higher $L=J_{Pc}+1/2$ contribution is suppressed related to the lower $L=J_{Pc}-1/2$, we further fix their ratio to 0, in addition the higher $L$ contribution is found insignificant in the current data. 
+Then,
+totally 2 free parameters for $P_c^{+}$ states are obtained. 
+%2 free parameters accounting for the overall magnitude and phase related to the reference channel $N(1535)$ 
+%with the smallest $(L,S)=(0,\frac{1}{2})$ in the $\Lb$ decay, 
+%and other 2 free parameters for the ${P_{cj}\to\jpsi p}$ decay.
+%and other 2 free parameters for the ratio $B_{L=J_{Pc}+1/2}/B_{L=J_{Pc}-1/2}$. 
+
+In the nominal model,
+all the $P_c^+$ states have negative parity according to the prediction of melecular model,
+$J^{P}=1/2^{-}$ for $P_{c}(4312)$ and $P_{c}(4400)$,
+and $J^{P}=3/2^{-}$ for $P_{c}(4380)$ and $P_{c}(4457)$\supercite{LIU2019237},
+this spin-parity assignment is used in this analysis.
+
+
+
+
+
+
+
+
+
+
+

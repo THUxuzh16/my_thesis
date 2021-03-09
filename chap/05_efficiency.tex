@@ -1,0 +1,89 @@
+
+\section{Efficiency}
+\label{sec:efficiency}
+
+The total efficiency for \LbLckkpi and \LbLcDs decays is defined as
+\begin{equation}
+\epsilon_{\rm tot} =\epsilon_{\rm acc}\cdot\epsilon_{\rm rec\& sel\&hlt |acc} \cdot \epsilon_{\rm L0 trig | sel\&hlt} ,
+\end{equation}
+where $\epsilon_{\rm acc}$ is the geometrical acceptance of the LHCb detector, 
+ $\epsilon_{\rm rec\&sel|acc}$ stands for the reconstruction and selection efficiency, 
+ $\epsilon_{\rm trig|sel}$ is the trigger efficiency.
+The summary of efficiencies is shown in Table~\ref{tab:efflist}.
+
+
+\begin{table}[htp]
+\centering
+\caption{Relative efficiency values. Uncertainties listed are due to finite MC statistic, and are discussed in detail in Sec.~\ref{sec:systematic}}
+\vspace{0.2cm}
+\label{tab:efflist}
+\begin{tabular}{lcc}\hline\hline
+	$\frac{\epsilon(\LbLckkpi)}{\epsilon(\LbLcDskkpi)}$ & value \\\hline
+
+Acceptance&\multicolumn{2}{c}{$0.9947 \pm 0.0061 $}\\
+Rec. Sel.and Hlt (No PID)&\multicolumn{2}{c}{$0.8286 \pm 0.0128 $}\\
+Tracking Correction&\multicolumn{2}{c}{$1.0003 \pm 0.0031 $}\\
+PID &\multicolumn{2}{c}{$1.0032 \pm 0.0064 $}\\
+L0 Trigger & $ 0.9458 \pm 0.0168$ \\
+\hline
+Total & $0.7822 \pm 0.0198 $\\
+\hline
+\end{tabular}
+\end{table}
+
+
+\subsection{Geometrical acceptance}
+The geometrical acceptance requires all final state particles in \LbLckkpi(\LbLcDs) decays to be within a polar angle $\theta$ from 10 to 400\mrad.
+It is studied with generator level MC events for both \LbLckkpi and \LbLcDs decays respectively, 
+generated without the daughter in \lhcb acceptance requirement. 
+Then the requirement is applied to the MC samples, 
+and the acceptance efficiency is calculated as $\epsilon_{\rm acc}=N_{\rm acc}/N_{\rm GL}$, 
+where $N_{\rm acc}$ is the number of events after the \lhcb acceptance cuts and $N_{\rm GL}$ is the number of events 
+with only the requirement of the fiducial cuts.
+
+
+\subsection{Reconstruction, selection and HLT efficiency}
+The reconstruction and selection efficiency is defined as $\epsilon_{\rm rec \& sel|acc}=N_{\rm rec \& sel \& hlt}/N_{\rm acc}$, 
+where $N_{\rm rec \& sel \&hlt }$ is the signal yield of the full simulation sample after event selection 
+and passing HLT1 and 2 requirements  (without PID requirement) and $N_{\rm acc}$ is the corresponding number of generated events in the \lhcb acceptance.
+The efficiency is estimated by candidate-by-candidate method using weighted Monta Carlo samples, while HLT and MVA are also included.
+
+\subsection{Tracking efficiency}
+The tracking efficiency is estimated from simulation, 
+and calibrated with data by introduction factor of the MC efficiencies. 
+The correction of MC efficiency is taken as a function of the momentum and pseudorapidity of the track, 
+and the event-by-event correction factor is taken as the product of the correction factors of each final tracks. 
+After the correction, we calculated the ratio tracking efficiencies with the weight.
+
+
+\subsection{\lone Trigger efficiency}
+\label{sec:triggereff}
+
+The trigger efficiency tables are taken from calibration data, with 2011 and 2012 separately. 
+These tables are used to compute L0 Hadron TOS decision, in bins of their real ET when arriving to the HCAL surface, 
+and separately for the inner and outer regions of the calorimeter. 
+We reweight our MC sample using these tables and the trigger efficiency on event is computed 
+by combining the efficiencies corresponding to each one of the final tracks, 
+assuming \Lb fires the L0 trigger if at least one track triggers it.
+Details see the
+\href{https://twiki.cern.ch/twiki/bin/viewauth/LHCbPhysics/CalorimeterObjectsToolsGroupDOC#L0_Hadron_trigger_efficiencies}{link}.
+
+
+\subsection{PID selection efficiency}
+\label{sec:getPIDeff}
+It is known that the PID variables are not well described by the simulation, 
+therefore a data-driven method is used instead. 
+The PID efficiencies for the $\proton, \antiproton, \pi^\pm, K^\pm$ are applied using the \texttt{PIDCALIB} package, 
+which gives 3-D histograms that shows the efficiency of a certain PID requirement of a track as a function of the momentum and  pseudorapidity of the track, 
+and the multiplicity of the event. 
+The single event efficiency are taken from this method, 
+and the total PID efficiency of \LbLckkpi(\LbLcDs) is derived by averaging the single event efficiencies of the candidates 
+in the full simulated signal samples that pass all the event selections (except for PID cut).
+
+For the calibration of proton PID efficiencies, 
+we use the calibration samples from $\Lc$ decays to cover the similar kinematic space as the protons from our decay modes.
+
+
+
+
+

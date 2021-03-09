@@ -1,0 +1,207 @@
+
+@PhdThesis{ThomasBritton:2016,
+  author    = "Britton, Thomas",
+  title     = "{First amplitude analysis of $B^+\to\jpsi\phi K^+$ decays}",
+  school =       {Syracuse University, Syracuse, NY, USA},
+  year =         {2016},
+note =        "{\href{https://surface.syr.edu/etd/510}{https://surface.syr.edu/etd/510}}" 
+}
+
+
+
+@article {Lamb439,
+	author = {Lamb, Willis E.},
+	title = {Fine Structure of the Hydrogen Atom},
+	volume = {123},
+	number = {3194},
+	pages = {439--442},
+	year = {1956},
+	doi = {10.1126/science.123.3194.439},
+	publisher = {American Association for the Advancement of Science},
+	issn = {0036-8075},
+	URL = {https://science.sciencemag.org/content/123/3194/439},
+	eprint = {https://science.sciencemag.org/content/123/3194/439.full.pdf},
+	journal = {Science}
+}
+
+
+@article{PhysRev.76.1739,
+  title = {Are Mesons Elementary Particles?},
+  author = {Fermi, E. and Yang, C. N.},
+  journal = {Phys. Rev.},
+  volume = {76},
+  issue = {12},
+  pages = {1739--1743},
+  numpages = {0},
+  year = {1949},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.76.1739},
+  url = {https://link.aps.org/doi/10.1103/PhysRev.76.1739}
+}
+
+
+@article{PhysRevLett.12.204,
+  title = {Observation of a Hyperon with Strangeness Minus Three},
+  author = {Barnes, V. E. and Connolly, P. L. and Crennell, D. J. and Culwick, B. B. and Delaney, W. C. and Fowler, W. B. and Hagerty, P. E. and Hart, E. L. and Horwitz, N. and Hough, P. V. C. and Jensen, J. E. and Kopp, J. K. and Lai, K. W. and Leitner, J. and Lloyd, J. L. and London, G. W. and Morris, T. W. and Oren, Y. and Palmer, R. B. and Prodell, A. G. and Radoji\ifmmode \check{c}\else \v{c}\fi{}i\ifmmode \acute{c}\else \'{c}\fi{}, D. and Rahm, D. C. and Richardson, C. R. and Samios, N. P. and Sanford, J. R. and Shutt, R. P. and Smith, J. R. and Stonehill, D. L. and Strand, R. C. and Thorndike, A. M. and Webster, M. S. and Willis, W. J. and Yamamoto, S. S.},
+  journal = {Phys. Rev. Lett.},
+  volume = {12},
+  issue = {8},
+  pages = {204--206},
+  numpages = {0},
+  year = {1964},
+  month = {Feb},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.12.204},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.12.204}
+}
+
+
+%%%%  Zc reference 
+
+@article{Henner:2020owh,
+    author = "Henner, V.K. and Belozerova, T.S.",
+    title = "{Analysis of Overlapping Resonances Using the K-Matrix and Breit\textendash{}Wigner Methods}",
+    doi = "10.1134/S1063779620040395",
+    journal = "Phys. Part. Nucl.",
+    volume = "51",
+    number = "4",
+    pages = "673--677",
+    year = "2020"
+}
+
+@article{PhysRev.126.360,
+  title = {Woolly Cusps},
+  author = {Nauenberg, M. and Pais, A.},
+  journal = {Phys. Rev.},
+  volume = {126},
+  issue = {1},
+  pages = {360--364},
+  numpages = {0},
+  year = {1962},
+  month = {Apr},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.126.360},
+  url = {https://link.aps.org/doi/10.1103/PhysRev.126.360}
+}
+
+
+
+@article{Lee:2008uy,
+    author = "Lee, Su Houng and Nielsen, Marina and Wiedner, Ulrich",
+    title = "{D(s)D* molecule as an axial meson}",
+    eprint = "0803.1168",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    doi = "10.3938/jkps.55.424",
+    journal = "J. Korean Phys. Soc.",
+    volume = "55",
+    pages = "424",
+    year = "2009"
+}
+
+@article{Ferretti:2020ewe,
+    author = "Ferretti, J. and Santopinto, E.",
+    title = "{Hidden-charm and bottom tetra- and pentaquarks with strangeness in the hadro-quarkonium and compact tetraquark models}",
+    eprint = "2001.01067",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    doi = "10.1007/JHEP04(2020)119",
+    journal = "JHEP",
+    volume = "04",
+    pages = "119",
+    year = "2020"
+}
+
+
+@article{Chen:2013wca,
+    author = "Chen, Dian-Yong and Liu, Xiang and Matsuki, Takayuki",
+    title = "{Predictions of Charged Charmoniumlike Structures with Hidden-Charm and Open-Strange Channels}",
+    eprint = "1303.6842",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    doi = "10.1103/PhysRevLett.110.232001",
+    journal = "Phys. Rev. Lett.",
+    volume = "110",
+    number = "23",
+    pages = "232001",
+    year = "2013"
+}
+@article{Dias:2013qga,
+    author = "Dias, Jorgivan M. and Liu, Xiang and Nielsen, Marina",
+    title = "{Predicition for the decay width of a charged state near the $D_s\bar{D}^*/D^*_s\bar{D}$ threshold}",
+    eprint = "1307.7100",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    doi = "10.1103/PhysRevD.88.096014",
+    journal = "Phys. Rev. D",
+    volume = "88",
+    number = "9",
+    pages = "096014",
+    year = "2013"
+}
+@article{Voloshin:2019ilw,
+    author = "Voloshin, M.B.",
+    title = "{Strange hadrocharmonium}",
+    eprint = "1901.01936",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    reportNumber = "FTPI-MINN-19/02, UMN-TH-3811/19",
+    doi = "10.1016/j.physletb.2019.135022",
+    journal = "Phys. Lett. B",
+    volume = "798",
+    pages = "135022",
+    year = "2019"
+}
+
+@article{Barnes:2005pb,
+    author = "Barnes, T. and Godfrey, S. and Swanson, E.S.",
+    title = "{Higher charmonia}",
+    eprint = "hep-ph/0505002",
+    archivePrefix = "arXiv",
+    doi = "10.1103/PhysRevD.72.054026",
+    journal = "Phys. Rev. D",
+    volume = "72",
+    pages = "054026",
+    year = "2005"
+}
+
+}
+@article{Bugg:2008ig,
+      author         = "Bugg, D.V.",
+      title          = "{Re-analysis of data on $a_0$(1450) and $a_0$(980)}",
+      journal        = "Phys.Rev.",
+      volume         = "D78",
+      pages          = "074023",
+      doi            = "10.1103/PhysRevD.78.074023",
+      year           = "2008",
+      eprint         = "0808.2706",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ex",
+      SLACcitation   = "%%CITATION = ARXIV:0808.2706;%%",
+}
+
+
+
+
+@article{PhysRevLett.10.531,
+  title = {Unitary Symmetry and Leptonic Decays},
+  author = {Cabibbo, Nicola},
+  journal = {Phys. Rev. Lett.},
+  volume = {10},
+  issue = {12},
+  pages = {531--533},
+  numpages = {0},
+  year = {1963},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.10.531},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.10.531}
+}
+
+
+
+
+
+
+

@@ -1,0 +1,541 @@
+\section{Systematic uncertainties}
+\label{chap:sys}
+
+Our main results are the properties and fit fractions of the resonances in the default model, 
+as well as the significances of the resonances and of their $J^P$ assignments. 
+Systematic uncertainties are assessed for these quantities in our default model. 
+For the significance values, smallest one among these systematic studies is used for the final result.
+We consider the following systematic sources: 
+\begin{itemize}
+   \item Uncertainties due to the fixed masses and widths of known $K^*$ resonances. 
+   To evaluate them we perform fit with  these masses and widths as free parameters but with Gaussian constraints on them to the values listed in Table~\ref{tab:K}. Labelled as ``Fixed M\&Q".
+    
+   \item MC efficiency. 
+   The BDT training variables are compared between weighted MC and sWeighted data. %(see Appendix~\ref{SUPPsec:app_mva_var_mc_data}). 
+   The variable $\chisqip$ of $B$ is not well modelled, thus we smear it in MC to match the data, and repeat the default fit. 
+   This variation is labelled ``$\chisqip$ $smear$" in the tables of the systematic variations. 
+   
+   \item We explore uncertainty in the background model by varying the $\Bp$ mass sidebands used to derive the background PDF. (Label ``sideband").
+    
+   \item The systematic uncertainty in the background fraction ($\beta$) is estimated by varying the background shape in the $B$ mass fit, 
+   from the second order polynomial function to an exponential function: $\beta=4.02\pm 0.08\pm 0.22\%$.
+   We then vary it in the amplitude fit within its total uncertainty. (Label ``$\beta=$").
+    
+   \item Change the L0 trigger requirement from L0 Global Decision to TOS on L0 Muon or Dimuon Decision. 
+   (Label ``L0 Trigger").
+   
+   \item Calibrate ProbNNk from PIDGen package, while the nominal calibration is performed using PIDcorr package. 
+   (Label ``PID corr").
+    
+   \item Below are amplitude modelling systematic uncertainties, in which we take the largest variation as final uncertainties. 
+    
+   \item Hadron-size parameter in the Blatt-Weisskopf barrier factor ($d$) is 3\,GeV$^{-1}$ in the default fit. 
+   We vary it between 1.5 and 4.5\,GeV$^{-1}$ to evaluate systematic errors. (Label ``BW d").
+    
+   \item Uncertainty in selection of amplitude components is considered as follows: 
+   1) the difference between the default and extended $K^*$ models, Labelled as ``Extended"; 
+   2) different parameterizations of the $X(4140)$ state, labelled as ``Flatte";  
+   3) addition of one extra $X$ state of different $J$ from 0 to 2 into the extended model, labelled as "Additional X". 
+   None of them has significance of more than 5\,$\sigma$. 
+   The most significant one is a $2^-$ $X$ with the mass of 4530\mev and the width of 70\mev, 
+   giving the largest $\ln\Like$ improvement, corresponding to a significance of 4.3$\,\sigma$. 
+   4) $Z(4420)$ $1^-$ hypothesis. (Label ``$1^-$ $Z$"). 
+    
+   \item Uncertainty due to choice of NR component in the $X$ sector. 
+   We use one NR component for $0^+$, which is set to constant with Blatt-Weisskopf barrier factors. 
+   Alternative parameterization is tried, such as 1st order polynomial in  $m^2_{\jpsi\phi}$. 
+   The improvement is small. 
+   The other NR S-wave contributions in $X$ decays, \ie $1^+$ or $2^+$, are tried. 
+   Their significances are less than $5\sigma$. 
+   We take them as systematic uncertainty in modeling of the amplitude. (Label that containing ``$XNR$").
+    
+   \item The smallest allowed orbital angular momentum $L$ is used in Eq.~\ref{SUPeq:resshape}. As an alternative, 
+   we associate the $L$ dependent terms in the numerator (Blatt-Weisskopf factors, $p^L$, $q^L$) with each $LS$ coupling and use its corresponding $L$ value. 
+    %(particle-two convention is used to obtain physics $LS$ couplings). - TS hardly anybody will understand this 
+   The width term of Breit-Wigner function in Eq.~\ref{SUPeq:mwidth}, still uses the lowest allowed $L$ value, 
+   because the width is expected to be dominated by it. 
+   From the fit, the higher $L$ contribution(s) are less than 5\% in most cases of the $X$ and $Z$ resonances. (Label as ``L vars").
+
+
+    \item The default $\phi$ mass selection window is $\pm15$ MeV. 
+    We remove candidates in which more than one $\Kp\Km$ pair fall within this window, which removes 3.2\% of the events. 
+    After these cuts non-$\phi$ fraction of the selected $\Bp\to \jpsi \Kp\Km\Kp$ events is 2.1\% from the previous publication~\supercite{LHCb-PAPER-2016-018,LHCb-PAPER-2016-019}. 
+    In our amplitude fits, we neglect this component. To evaluate systematics of this approximation we narrow down the $\phi$ mass selection window to $\pm7$ MeV, 
+    which reduces the $\phi$ signal yield by 13\%, 
+    while decreasing the non-$\phi$ fraction by a factor of 2. 
+    We repeat the fit with the default amplitude model. Labelled as ``$\phi$ win". 
+    Alternately, we fit $K^+K^-$ mass distribution for a range below $1050$ with $\phi$ and no $\phi$ components, and generate sWeights to subtract no $\phi$ contribution. 
+    The amplitude fit is reperformed, difference between this fit and the nominal fit is taken as systematic uncertainty. Labelled ``non $\phi$".
+
+    \item We also consider modification of the width in the denominator of the BW function for the $K^*$ resonances. 
+    In fact, all $K^*$ states are expected to have sizable widths to the other decay modes, $K\pi$, $K\rho$, $K(892)\pi$, etc. 
+    Since ratios of these partial widths to the $\phi K$ partial width are unknown, 
+    it is not possible to implement such formulation exactly. 
+    However, as a systematic check we have performed a fit in which mass dependence of the width is driven by the lightest decay mode possible, 
+    which is $K\pi$ for natural spin-parity resonances, and $K\omega$ for the others. 
+    This  also changes $L_{K^*}$ value. (Label ``K BW").
+   % \item Check adding one more $X$ or $Z$ onto extended model fit.
+
+   
+    \item K-Matrix model for overlapping $K^*$ components, instead of the BW sum (See Appendix~\ref{SUPPsec:kmatrix})
+    (Label ``K-Matrix").
+   
+    \item Change the BW model to Flatte model to describe $Z_{cs}(4000)$ in order to investigate possible $D_sD^*0$ threshold effects. 
+    (Label ``Z(4000) Flatte").
+   
+    \item As an alternative to the nominal background parameterization in the fit, which assumes the factorization in six-dimensions, we use 
+    approach of the multidimensional moments described in details in Appendix~\ref{SUPPsec:app_B_sideband}.
+    (Label ``BKG factorization").
+
+\end{itemize}
+
+\begin{table}[tbph]
+\scriptsize  
+\begin{center}
+\caption{Summary of the systematic errors on the parameters of the $K^{*+} \to \phi K^+ $ states with $J^P=1^+$. 
+All numbers for masses and width are in \mev and fit fraction in \%.}
+\label{tab:sys_K1}
+\begin{tabular}{c|c|cc|cc|c}
+\hline
+
+ \multirow{2}*{Systematic}  &  $K(1^+)$      &\multicolumn{2}{c|}{$K(\nslj{2}{1}{P}{1})$}               &\multicolumn{2}{c|}{$K(\nslj{2}{3}{P}{1})$}               &$K_1(1400)$        \\  
+                        & FF                 &$M_0$               &$\Gamma_0$          &$M_0$               &$\Gamma_0$          &FF                \\  
+\hline
+Fixed M\&W              &0.59                &0.56                &-3.10               &-0.31               &5.54                &0.53              \\ 
+\hline
+$\chisqip smear$        &-0.08               &1.06                &2.62                &0.90                &-2.80               &0.01              \\ 
+\hline
+Right sideband          &-0.86               &-0.14               &-0.60               &-1.92               &4.14                &-0.67             \\ 
+\hline
+Left sideband           &0.89                &-1.31               &6.29                &2.42                &-0.60               &0.68              \\ 
+\hline
+$\beta=0.043$           &-0.05               &-0.38               &0.75                &0.15                &-0.07               &0.01              \\  
+$\beta=0.037$           &0.09                &-0.85               &1.32                &-0.06               &1.83                &0.00              \\  
+\hline
+L0 Trigger              &0.54                &0.59                &-2.10               &-3.10               &0.08                &0.63              \\
+\hline
+PID corr                &-2.59               &-2.36               &-10.44              &6.44                &16.02               &-1.36             \\
+\hline
+$\phi$win 7             &-5.19               &-8.73               &54.82               &73.12               &99.12               &-3.96             \\  
+non $\phi$              &-4.70               &-2.24               &51.09               &63.94               &118.36              &-2.51             \\
+Poly $m(XNR)$           &-2.29               &-13.82              &68.40               &122.19              &317.14              &0.21              \\  
+$XNR(1^+)$              &-4.51               &-9.56               &49.29               &-43.49              &-84.37              &0.74              \\  
+$XNR(2^+)$              &5.14                &11.37               &23.26               &-33.74              &51.54               &0.50              \\  
+BW d=1.5                &2.87                &1.24                &18.21               &-10.98              &14.26               &1.16              \\  
+BW d=4.5                &-1.42               &-1.50               &1.76                &4.21                &4.64                &-0.77             \\  
+L vars                  &-4.18               &5.12                &78.89               &71.30               &148.42              &-0.87             \\  
+Flatte                  &-0.27               &-6.16               &-0.33               &10.02               &6.83                &0.47              \\  
+Extended                &-2.13               &-45.36              &230.20              &-29.18              &-118.00             &-0.29             \\  
+Additional X            &-1.12               &-4.67               &4.32                &11.51               &3.43                &-0.48             \\  
+$1^- Z$                 &-14.50              &1.72                &4.73                &18.76               &165.40              &-10.77            \\ 
+$K^* BW$                &0.01                &-10.69              &-9.48               &5.49                &17.41               &-1.15             \\
+K-Matrix                &-6.45               &14.53               &30.27               &80.71               &-155.88             &-7.33             \\
+Z(4000) Flatte          &0.14                &-6.02               &4.81                &10.16               &-1.97               &0.14              \\
+BKG factorization       &-0.31               &-7.27               &2.42                &8.91                &-0.01               &-0.08             \\
+\hline
+Total Sys.    &\tabincell{c}{(-14.80 ,\\+5.99  )}  &\tabincell{c}{(-45.47,\\+14.86 )}  &\tabincell{c}{(-16.17,\\+230.57)}  &\tabincell{c}{(-44.19,\\+122.44)}  &\tabincell{c}{(-156.89,\\+317.6)}  &\tabincell{c}{(-10.93 ,\\+2.19  )}    \\  
+
+
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+\begin{table}[tbph]
+\scriptsize  
+\begin{center}
+\caption{Summary of the systematic errors on the parameters of the $K^{*+} \to \phi K^+ $ states with $J^P=1^-$ and $J^P=2^-$. 
+All numbers for masses and width are in \mev and fit fraction in \%. }
+\label{tab:sys_K2}
+\begin{tabular}{c|ccc|c}
+\hline
+
+\multirow{2}*{Systematic}  &  $K(1^-)$  &$K^*(1680)$          &$K^*(1410)$            &$K(2^-)$        \\
+                    & FF                 &FF                  &FF                    &FF                \\  
+\hline
+Fixed M\&W          &4.69                &2.70                &1.62                  &0.16             \\  
+\hline
+$\chisqip smear$    &0.07                &-0.08               &0.85                  &0.00        \\  
+\hline
+Right sideband      &0.30                &0.08                &0.72                  &-0.03       \\  
+\hline
+Left sideband       &-0.34               &-0.17               &-0.63                 &-0.58          \\  
+\hline
+$\beta=0.043$       &-0.13               &-0.08               &-0.24                 &0.01       \\  
+$\beta=0.037$       &-0.03               &-0.06               &0.04                  &-0.04         \\  
+\hline
+L0 Trigger          &-0.38               &0.26                &0.29                  &-0.04 \\
+\hline
+PID corr            &0.10                &-0.26               &0.39                  &0.10\\
+\hline
+$\phi$win 7         &0.77                &-1.31               &-3.80                 &-0.63       \\  
+non $\phi$          &-6.70               &-3.37               &-9.67                 &-0.46       \\
+Poly $m(XNR)$       &0.70                &0.28                &1.60                  &-0.44         \\  
+$XNR(1^+)$          &-18.79              &-1.79               &-14.20                &-0.77        \\  
+$XNR(2^+$)          &0.48                &-1.46               &2.02                  &0.29          \\  
+BW d=1.5            &6.15                &-4.10               &10.68                 &-0.26          \\  
+BW d=4.5            &-2.75               &4.54                &-6.65                 &0.19         \\  
+L vars              &-2.24               &-2.88               &-2.56                 &-0.17        \\  
+Flatte              &-1.35               &0.49                &-0.98                 &-0.01       \\  
+Extended            &2.12   0            &-7.34               &-4.23                 &-0.02       \\  
+$1^- Z$             &-1.11               &-5.82               &-2.70                 &1.94        \\ 
+$K^* BW$            &-3.36               &1.50                &-16.69                &0.56                \\
+K-Matrix            &8.27                &34.35               &-16.95                &-0.91      \\
+Z(4000) Flatte      &0.09                &-0.11               &-0.65                 &0.08      \\
+BKG factorization   &-0.62               &0.19                &-1.70                 &0.01      \\   
+\hline
+Total Sys.          &\tabincell{c}{(-19.37,\\+9.53  )}  &\tabincell{c}{(-7.83 ,\\+34.46  )}  &\tabincell{c}{(-17.08,\\+10.89 )} &\tabincell{c}{(-1.10 ,\\+2.03  )}   \\ 
+
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+\begin{table}[tbph]
+\scriptsize  
+\begin{center}
+\caption{Summary of the systematic errors on the parameters of the $K^{*+} \to \phi K^+ $ states with $J^P=2^+$ and $J^P=0^-$. 
+All numbers for masses and width are in \mev and fit fraction in \%.}
+\label{tab:sys_K3}
+\begin{tabular}{c|ccc|c}
+\hline
+
+\multirow{2}*{Systematic}  & \multicolumn{3}{c|}{$K_2^*(1980)$}                        &$K(1460)$        \\
+                        & $M_0$              &$\Gamma_0$          &FF                  &FF                \\  
+\hline
+Fixed M\&W              &-1.09               &20.69               &0.06                &0.04                \\  
+\hline 
+$\chisqip smear$        &0.61                &-2.50               &-0.14               &0.11                \\  
+\hline 
+Right sideband          &0.67                &13.72               &0.06                &-0.06               \\  
+\hline
+Left sideband           &-0.05               &-16.17              &-0.08               &0.06                \\  
+\hline
+$\beta=0.043$           &0.10                &1.16                &0.00                &-0.03               \\  
+$\beta=0.037$           &0.69                &-1.09               &-0.01               &0.06                \\  
+\hline
+L0 Trigger              &-2.33               &-7.87               &-0.22               &0.30                \\
+\hline
+PID corr                &-3.89               &21.26               &0.00                &0.00                \\
+\hline
+$\phi$win 7             &-14.94              &-16.39              &0.14                &-2.43               \\  
+non $\phi$              &-29.18              &-93.12              &0.01                &-3.73               \\
+Poly $m(XNR)$           &-11.65              &40.03               &0.39                &-1.31               \\  
+$XNR(1^+)$              &-11.50              &277.98              &-0.51               &-1.21               \\  
+$XNR(2^+)$              &18.72               &3.83                &-0.47               &-0.22               \\  
+BW d=1.5                &55.25               &196.17              &0.01                &0.45                \\  
+BW d=4.5                &-21.89              &-43.92              &0.30                &-0.67               \\  
+L vars                  &9.73                &133.00              &0.05                &-0.02               \\  
+Flatte                  &1.55                &-21.41              &-0.19               &0.06                \\  
+Extended                &193.57              &477.92              &0.12                &0.83                \\  
+Additional X            &-2.02               &3.22                &-0.02               &-0.17               \\  
+$1^- Z$                 &-15.04              &-21.18              &0.56                &-0.79               \\ 
+$K^* BW$                &-65.44              &-9.86               &1.01                &0.41                  \\
+K-Matrix                &-25.84              &5.03                &0.11                &-0.36               \\
+Z(4000) Flatte          &-3.06               &1.68                &0.04                &0.00                \\
+BKG factorization       &-3.34               &-3.33               &0.02                &-0.27               \\
+\hline
+Total Sys.              &\tabincell{c}{(-29.57,\\+193.63)}  &\tabincell{c}{(-100.35,\\+479.38)}   &\tabincell{c}{(-0.58 ,\\+0.63 )}   &\tabincell{c}{(-3.75 ,\\+0.89  )}  \\ 
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  XXXXXX  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\begin{table}[tbph]
+\scriptsize
+\begin{center}
+\caption{Summary of the systematic errors on the parameters of the $X \to \jpsi \phi $ states with $J^P=0^+$. 
+All numbers for masses and width are in \mev and fit fraction in \%.}
+\label{tab:sys_X1}
+\begin{tabular}{c|c|ccc|ccc|c}
+\hline
+
+\multirow{2}*{Systematic}  & $X(0^+)$        &\multicolumn{3}{c|}{$X(4500)$}                                 &\multicolumn{3}{c|}{$X(4700)$}                               &$NR_{\jpsi\phi}$        \\
+                        &FF                  &$M_0$               &$\Gamma_0$          &FF                  &$M_0$               &$\Gamma_0$          &FF                  &FF                \\  
+\hline
+Fixed M\&W              &2.42                &0.15                &-0.03               &0.05                &-0.39               &-0.60               &-0.13               &3.65                    \\   
+\hline
+$\chisqip smear$        &-0.05               &0.27                &0.35                &0.08                &0.12                &1.33                &0.22                &-0.15                      \\      
+\hline
+Right sideband          &-0.59               &0.09                &0.28                &0.03                &0.34                &0.86                &0.13                &-0.85                      \\      
+\hline
+Left sideband           &0.71                &-0.04               &-0.15               &0.00                &-0.20               &-0.98               &-0.16               &1.09                       \\ 
+\hline
+$\beta=0.043$           &0.18                &0.08                &0.02                &0.04                &0.20                &-0.02               &0.00                &0.29                      \\      
+$\beta=0.037$           &-0.11               &-0.03               &-0.07               &-0.04               &-0.20               &-0.23               &-0.06               &-0.19                      \\    
+\hline
+L0 Trigger              &-0.17               &0.15                &-1.83               &-0.05               &-0.88               &-1.73               &-0.47               &-0.78   \\
+\hline
+PID corr                &0.91                &-0.10               &0.64                &0.11                &0.65                &0.45                &0.27                &1.60    \\
+\hline 
+$\phi$win 7             &-2.33               &0.91                &4.77                &1.27                &8.49                &5.96                &2.56                &-2.43                     \\      
+non $\phi$              &0.55                &1.33                &9.23                &2.41                &15.86               &15.44               &4.85                &4.05                  \\
+Poly $m(XNR)$           &-3.79               &-2.91               &2.37                &0.61                &2.38                &10.70               &4.52                &-1.59                     \\      
+$XNR(1^+)$              &13.00               &2.70                &6.91                &1.75                &4.03                &7.68                &2.69                &17.70                    \\      
+$XNR(2^+)$              &-3.11               &0.95                &-1.06               &0.26                &-1.08               &-0.30               &-0.36               &-4.63                  \\      
+BW d=1.5                &-0.20               &0.90                &0.48                &0.08                &0.40                &1.17                &0.69                &-0.53                   \\      
+BW d=4.5                &-0.61               &-0.62               &0.30                &0.04                &0.68                &-0.00               &-0.27               &-0.51                  \\      
+L vars                  &-1.03               &0.38                &3.53                &1.22                &7.89                &12.24               &4.18                &-1.84                      \\      
+Flatte                  &0.51                &-0.44               &0.18                &0.04                &-0.18               &0.26                &0.25                &0.66                   \\      
+Extended                &3.38                &2.50                &-3.81               &0.07                &0.47                &1.64                &0.32                &5.15                      \\      
+Additional X            &1.10                &-1.77               &-2.18               &-0.06               &0.06                &1.89                &0.52                &2.83                   \\   
+$1^- Z$                 &-5.43               &1.41                &-6.70               &-0.49               &-1.21               &-4.52               &-1.09               &-9.09                   \\     
+$K^* BW$                &0.76                &0.40                &-2.03               &-0.17               &-1.70               &1.59                &0.11                &0.87                    \\
+K-Matrix                &-3.27               &0.14                &9.84                &1.58                &5.80                &11.23               &3.65                &-4.03               \\
+Z(4000) Flatte          &0.32                &-0.14               &-0.31               &-0.07               &-0.05               &-0.01               &0.06                &0.37        \\
+BKG factorization       &0.28                &0.61                &1.13                &0.08                &0.63                &-2.06               &-0.25               &0.29                 \\
+\hline
+Total Sys.              &\tabincell{c}{(-6.09 ,\\+13.29 )}  &\tabincell{c}{(-2.93 ,\\+2.72  )}  &\tabincell{c}{(-6.99 ,\\+10.04  )}  &\tabincell{c}{(-0.52 ,\\+2.42  )}  
+&\tabincell{c}{(-2.10, \\+15.91  )}  &\tabincell{c}{(-5.27 ,\\+15.67 )}  &\tabincell{c}{(-1.26 ,\\+4.89  )}  &\tabincell{c}{(-10.06 ,\\+18.22 )}   \\  
+
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+\begin{table}[tbph]
+\scriptsize
+\begin{center}
+\caption{Summary of the systematic errors on the parameters of the $X \to \jpsi \phi $ states with $J^P=1^+$. 
+All numbers for masses and width are in \mev and fit fraction in \%. }
+\label{tab:sys_X2}
+\begin{tabular}{c|c|ccc|ccc|ccc}
+\hline
+
+\multirow{2}*{Systematic}  & $X(1^+)$        &\multicolumn{3}{c|}{$X(4140)$}                                &\multicolumn{3}{c|}{$X(4274)$}                                &\multicolumn{3}{c}{$X(4685)$}          \\
+                        &FF                  &$M_0$               &$\Gamma_0$          &FF                  &$M_0$               &$\Gamma_0$          &FF                  &$M_0$               &$\Gamma_0$          &FF        \\  
+\hline
+Fixed M\&W              &2.02                &0.12                &5.76                &1.64                &0.26                &0.03                &0.03                &-0.14               &2.72                &0.25      \\    
+\hline
+$\chisqip smear$        &0.13                &2.05                &-0.12               &0.06                &0.76                &0.65                &0.00                &-0.53               &1.11                &0.12      \\      
+\hline
+Right sideband          &-0.09               &0.14                &1.07                &0.19                &-0.13               &-0.01               &0.00                &-0.13               &1.07                &-0.13     \\     
+\hline
+Left sideband           &-0.02               &-0.45               &-3.51               &-0.42               &-0.01               &-0.17               &-0.01               &-0.09               &-2.21               &0.09      \\     
+\hline
+$\beta=0.043$           &-0.16               &-0.12               &-1.45               &-0.12               &-0.11               &-0.10               &0.01                &0.01                &-0.70               &-0.09     \\      
+$\beta=0.037$           &0.00                &-0.02               &-0.24               &-0.07               &0.03                &0.03                &-0.01               &-0.33               &0.21                &0.03      \\     
+\hline
+L0 Trigger              &0.25                &3.40                &-3.78               &0.01                &0.66                &0.18                &0.04                &-0.58               &1.12                &0.11 \\
+\hline 
+PID corr                &-1.86               &9.65                &-5.07               &-1.57               &0.52                &0.83                &0.02                &-0.82               &-4.42               &-0.26    \\
+\hline
+$\phi$win 7             &-3.65               &0.30                &-22.51              &-3.05               &-2.07               &-2.83               &-0.11               &8.60                &-26.60              &-1.17     \\     
+non $\phi$              &-6.93               &1.94                &-45.90              &-5.75               &-5.18               &-3.77               &-0.22               &12.40               &-39.80              &-1.80     \\
+Poly $m(XNR)$           &-4.03               &6.31                &-10.17              &-2.53               &-2.06               &-2.45               &-0.27               &4.26                &-22.07              &-1.28     \\      
+$XNR(1^+)$              &-9.51               &-33.65              &-3.63               &18.32               &0.15                &4.36                &0.78                &-15.72              &35.54               &3.84      \\      
+$XNR(2^+)$              &3.31                &-0.90               &-6.99               &2.43                &0.75                &-0.02               &0.08                &1.88                &-6.87               &-0.03     \\      
+BW d=1.5                &6.12                &-5.67               &16.37               &3.55                &1.06                &1.51                &0.14                &0.29                &1.55                &2.14      \\      
+BW d=4.5                &-3.02               &6.10                &1.30                &-1.05               &-0.05               &-0.46               &-0.08               &0.06                &-3.53               &-1.06     \\      
+L vars                  &-3.79               &0.30                &-38.61              &-3.00               &-4.03               &-3.38               &-0.19               &2.45                &-24.33              &-1.48     \\      
+Flatte                  &-2.30               &                    &                    &0.22                &0.25                &4.26                &0.61                &-3.77               &15.14               &1.37      \\      
+Extended                &5.15                &-10.87              &-26.02              &3.55                &-1.94               &-0.15               &0.20                &-3.61               &-6.53               &-0.94     \\      
+Additional X            &-0.66               &-0.64               &-4.77               &-0.74               &-1.12               &-0.07               &-0.06               &0.74                &-3.11               &-0.18     \\   
+$1^- Z$                 &-0.48               &-1.84               &-33.39              &0.50                &0.63                &0.48                &-0.24               &-9.41               &-5.60               &-1.52     \\  
+ $K^* BW$               &-5.72               &14.57               &2.72                &-3.30               &-0.31               &-1.44               &-0.16               &-0.06               &-8.09               &-0.82    \\
+ K-Matrix               &0.17                &8.69                &-7.91               &-0.23               &0.06                &-3.07               &-0.25               &4.10                &-11.95              &-0.06  \\
+ Z(4000) Flatte         &0.03                &1.27                &3.82                &0.19                &0.09                &0.29                &0.00                &-0.85               &2.79                &0.18   \\
+ BKG factorization      &-0.76               &1.08                &1.48                &-0.26               &-0.18               &0.14                &0.01                &-1.04               &-1.72               &-0.15                            \\
+\hline
+Total Sys.              &\tabincell{c}{(-9.90 ,\\+7.46  )}  &\tabincell{c}{(-35.23,\\+17.93)}  &\tabincell{c}{(-46.86,\\+18.89)}  &\tabincell{c}{(-6.20,\\+18.47 )}  &\tabincell{c}{(-5.31 ,\\+1.58  )}  &\tabincell{c}{(-3.92 ,\\+4.49  )}  &\tabincell{c}{(-0.28 ,\\+0.78  )}  &\tabincell{c}{(-15.77,\\+12.46  )}  &\tabincell{c}{(-40.25,\\+36.04 )}  &\tabincell{c}{(-1.85 ,\\+3.86  )}  \\
+
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+
+
+
+\begin{table}[tbph]
+\scriptsize
+\begin{center}
+\caption{Summary of the systematic errors on the parameters of the $X \to \jpsi \phi $ states with $J^P=1^-$ and $J^P=2^-$ . 
+All numbers for masses and width are in \mev and fit fraction in \%.  }
+\label{tab:sys_X3}
+\begin{tabular}{c|ccc|ccc}
+\hline
+
+\multirow{2}*{Systematic}   &\multicolumn{3}{c|}{$X(4630)$}                                &\multicolumn{3}{c}{$X(4150)$}                                \\
+                            &$M_0$               &$\Gamma_0$          &FF                  &$M_0$               &$\Gamma_0$          &FF                  \\  
+\hline
+Fixed M\&W                  &0.72                &-1.38               &0.06                &1.10                &5.49                &0.10                \\      
+\hline
+$\chisqip smear$            &1.38                &-0.25               &-0.06               &-3.86               &2.81                &0.09                \\      
+\hline
+Right sideband              &-6.71               &6.88                &0.03                &1.92                &0.64                &0.02                \\      
+\hline
+Left sideband               &6.97                &-11.30              &-0.08               &-2.95               &-0.96               &-0.02               \\  
+\hline
+$\beta=0.043$               &-0.62               &0.62                &0.00                &-0.52               &-0.04               &0.00                \\      
+$\beta=0.037$               &1.37                &-1.79               &0.00                &-0.20               &-0.24               &-0.01               \\   
+\hline
+L0 Trigger                  &5.29                &-11.86              &-0.03               &-10.69              &15.05               &0.14             \\
+\hline
+PID corr                    &-8.33               &6.88                &0.08                &5.87                &-6.66               &-0.10              \\ 
+\hline
+$\phi$ win 7                &-97.98              &-49.06              &-0.95               &8.65                &-9.15               &-0.36               \\   
+non $\phi$                  &-101.91             &-48.19              &-0.66               &-6.87               &8.03                &-0.28                       \\
+Poly $m(XNR)$               &-104.91             &-63.91              &-1.23               &21.50               &-12.76              &-0.41               \\      
+$XNR(1^+)$                  &-93.58              &-33.65              &-1.45               &14.79               &2.62                &-0.05               \\      
+$XNR(2^+)$                  &11.71               &22.79               &0.24                &-20.93              &47.18               &0.34                \\      
+BW d=1.5                    &11.47               &-9.22               &-0.46               &-20.75              &9.62                &0.42                \\      
+BW d=4.5                    &-10.96              &4.57                &0.24                &19.55               &-10.57              &-0.32               \\      
+L min sys                   &-108.92             &-62.51              &-1.29               &-17.99              &8.94                &-0.04               \\      
+Flatte                      &0.59                &0.31                &-0.15               &10.54               &-18.08              &-0.29               \\      
+Extended                    &-14.84              &18.05               &0.10                &-30.11              &56.48               &0.81                \\      
+Additional X                &-3.75               &2.36                &-0.07               &-0.83               &-1.03               &-0.02               \\   
+$1^- Z$                     &24.01               &132.82              &2.94                &29.42               &-23.92              &-0.97               \\     
+%non $\phi$                  &-6.87               &8.03                &-0.28               &-101.91             &-48.19              &-0.66               \\
+$K^* BW$                    &0.15                &17.14               &0.28                &27.38               &-22.18              &-0.63             \\
+ K-Matrix                   &-104.00             &-70.16              &-1.29               &-11.93              &28.62               &0.71            \\
+ Z(4000) Flatte             &-4.27               &4.03                &0.08                &2.85                &-1.41               &-0.05           \\
+ BKG factorization          &-11.67              &6.63                &-0.23               &3.70                &-2.77               &-0.14               \\
+\hline
+Tot.                        &\tabincell{c}{(-109.81,\\+18.23 )}  &\tabincell{c}{(-72.74,\\+134.20 )}  &\tabincell{c}{(-1.46 ,\\+2.94  )}  &\tabincell{c}{(-32.93,\\+32.30 )}  &\tabincell{c}{(-29.71,\\+59.16 )}  &\tabincell{c}{(-0.99 ,\\+0.84  )}  \\  
+
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+
+
+\begin{table}[tbph]
+\scriptsize
+\begin{center}
+\caption{Summary of the systematic errors on the parameters of the $Z \to \jpsi \Kp $ states with $J^P=1^+$. 
+All numbers for masses and width are in \mev and fit fraction in \%.  }
+\label{tab:sys_Z}
+\begin{tabular}{c|c|ccc|ccc}
+\hline
+
+\multirow{2}*{Systematic}   &$Z(1^+)$            &\multicolumn{3}{c|}{$Z(4000)$}                                &\multicolumn{3}{c}{$Z(4220)$}                                 \\
+                            &FF                  &$M_0$               &$\Gamma_0$          &FF                  &$M_0$               &$\Gamma_0$          &FF                  \\  
+\hline
+Fixed M\&W                  &-3.34               &-0.22               &-3.60               &-0.83               &-2.28               &-15.58              &-1.67               \\  
+\hline
+$\chisqip smear$            &1.71                &0.21                &1.01                &0.09                &5.15                &4.49                &1.05                \\  
+\hline
+Right sideband              &-0.48               &0.01                &0.58                &0.11                &-2.25               &-3.10               &-0.28               \\ 
+\hline
+Left sideband               &0.41                &-0.30               &-1.16               &-0.24               &3.56                &3.22                &0.23                \\ 
+\hline
+$\beta=0.043$               &-0.37               &-0.06               &-0.00               &0.01                &-1.14               &-2.22               &-0.25               \\  
+$\beta=0.037$               &0.13                &-0.02               &0.26                &0.02                &0.41                &0.96                &0.05                \\  
+\hline
+L0 Trigger                  &1.77                &0.45                &0.58                &0.19                &0.64                &13.05               &1.20                \\
+\hline
+PID corr                    &-2.75               &-1.06               &-1.82               &-0.69               &2.10                &4.93                &-1.67               \\
+\hline
+$\phi$ win                  &-7.57               &-4.71               &-23.91              &-2.75               &6.10                &-24.54              &-3.38               \\  
+non $\phi$                  &-8.43               &-2.87               &-18.39              &-1.79               &-12.51              &-25.80              &-4.51               \\
+Poly $m(XNR)$               &-3.66               &-4.24               &-16.36              &-2.56               &16.25               &-5.14               &-0.74               \\  
+$XNR(1^+)$                  &10.10               &1.49                &-21.25              &-2.53               &38.13               &89.32               &9.20                \\  
+$XNR(2^+)$                  &5.47                &2.16                &3.09                &1.26                &-2.85               &62.58               &5.16                \\  
+BW d=1.5                    &2.22                &-0.29               &-5.27               &-0.58               &7.60                &18.83               &1.85                \\  
+BW d=4.5                    &-1.07               &0.08                &1.81                &0.04                &-1.46               &-8.52               &-0.50               \\  
+L vars                      &-2.47               &2.75                &-3.19               &-1.18               &-2.71               &-55.64              &-1.31               \\  
+Flatte                      &2.29                &0.52                &-2.80               &-0.45               &11.99               &33.00               &2.01                \\  
+Extended                    &-9.92               &-2.35               &-6.66               &-1.16               &-22.73              &-61.76              &-5.33               \\  
+Additional X                &-1.54               &-0.68               &2.07                &0.30                &-4.79               &-11.37              &-1.28               \\  
+$1^- Z$                     &                    &-14.00              &-21.09              &-3.46               &                    &                    &                    \\  
+$K^* BW$                    &-5.98               &0.08                &-0.66               &-0.32               &-13.37              &-29.68              &-2.82               \\
+K-Matrix                    &-2.83               &-3.75               &-20.80              &-2.85               &8.10                &-8.14               &-0.46               \\
+Z(4000) Flatte              &-0.78               &0.18                &51.91               &2.83                &-17.81              &-10.97              &1.00                \\
+BKG factorization           &-0.46               &0.10                &-0.32               &-0.12               &-0.91               &0.36                &-0.27               \\
+\hline
+Tot.                        &\tabincell{c}{(-11.11 ,\\+11.28 )}  &\tabincell{c}{(-14.05 ,\\+3.12  )}  &\tabincell{c}{(-24.31,\\+52.10  )}  &\tabincell{c}{(-3.07,\\+3.05  )}  &\tabincell{c}{(-23.92,\\+38.85 )}  &\tabincell{c}{(-65.55,\\+91.98 )}  &\tabincell{c}{(-6.06 ,\\+9.64  )}  \\  
+
+
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+
+
+
+\begin{table}[tbph]
+\begin{center}
+\caption{Fit results from  the 9K+5X+3X+2Z model with $Z(4220)$ $J^P=1^+$. Significance is evaluated from the change of the $2\ln\Like$ assuming ndf to be {\bf twice} the reduction in number of free parameters when removing the component in the fit. The ndf is not multiply by two for the $K^*$ resonance whose mass and width are fixed.}\label{tab:fit_sys}
+\begin{tabular}{cccccc}
+\hline
+\multicolumn{2}{c}{Contribution} &Significance & \multicolumn{3}{c}{Fit results}  \\
+                  &                           &                 & $M_0$ [MeV]   & $\Gamma_0$ [MeV]      & FF\%          \\
+\hline \hline
+       &     All $K(1^+)$    &        &    &   &  $25.1\pm3.6_{-14.8}^{+6.0}$          \\
+$\nslj{2}{1}{P}{1}$   &  $K(1^+)$            & 4.5$\sigma$  &  $1861\pm10_{-45.5}^{+14.9} $  & $149\pm41_{-16.2}^{+230.6}$ & \\
+$\nslj{2}{3}{P}{1}$   &  $K^{\prime}$($1^+$) & 4.5$\sigma$  &  $1911\pm37_{-44.2}^{122.4} $  &  $276\pm50_{-156.9}^{+317.6}$   &       \\
+$\nslj{1}{3}{P}{1}$   &  $K_1(1400)$         & 9.2$\sigma$   &  &             &  $15.1\pm2.7_{-10.9}^{+2.2}$    \\
+\hline
+
+&     All $K(2^-)$    &        &        & &  $2.1\pm0.4_{-1.1}^{+2.0}$           \\
+$\nslj{1}{1}{D}{2}$   &  $K_2 (1770)$   & 7.9$\sigma$       &    &    &     \\
+$\nslj{1}{3}{D}{2}$   &  $K_2(1820)$    & 5.8$\sigma$       &    &    &     \\       
+
+\hline
+& All $K(1^-)$        & & & & $50.3\pm4.1_{-19.4}^{+9.5}$ \\ 
+$\nslj{1}{3}{D}{1}$   &  $K^*(1680)$    & 4.7$\sigma$   &   &    &  $13.5\pm2.3_{-7.8}^{+34.5}$     \\  
+$\nslj{2}{3}{S}{1}$   &  $K^*(1410)$    & 7.7$\sigma$   &   &    &  $37.9\pm5.2_{-17.1}^{+10.9}$   \\
+\hline
+
+& $K(2^+)$\\
+$\nslj{2}{3}{P}{2}$   &  $K^*_2(1980)$  & 1.6$\sigma$   &  $1988\pm22_{-29.6}^{+193.6} $   &   $318\pm82_{-100.4}^{+479.4}$   & $2.3\pm0.5_{-0.6}^{+0.6}$        \\  
+\hline 
+& $K(0^-)$\\
+$\nslj{2}{1}{S}{0}$   &  $K(1460)$      & 12$\sigma$       &    &      & $10.2\pm1.2_{-3.8}^{+0.9}$    \\  
+
+\hline 
+\hline
+&$X(2^-)$ & & & &   \\
+  &$X(4150)$            & $4.8\sigma$ & $4146\pm 18_{-32.9}^{+32.3}$ & $135\pm28_{-29.7}^{+59.2}$   & $2.0\pm0.5_{-1.0}^{+0.8}$ \\
+\hline
+&$X(1^-)$ & & & &   \\
+  &$X(4630)$            & $5.5\sigma$ & $4626\pm 16_{-109.8}^{+18.2}$ & $174\pm27_{-72.7}^{+134.2}$  & $2.6\pm0.5_{-1.5}^{+2.9}$ \\
+\hline
+
+ &All $X(0^+)$ & & & & $19.5\pm4.8_{-6.1}^{+13.3}$  \\
+ &$X(4500)$           & $20\sigma$ & $4474\pm 3 _{-2.9}^{+2.7}$ & $77\pm6_{7.0}^{+10.0}$ &  $5.6\pm0.7_{-0.5}^{+2.4}$ \\
+ &$X(4700)$           & $17\sigma$ & $4694\pm 4 _{-2.1}^{+15.9}$ & $87\pm8_{-5.3}^{+15.7}$ &  $8.9\pm1.2_{-1.3}^{+4.9}$ \\
+ &$NR_{J/\psi \phi}$  & $4.8 \sigma $& & &$28.0\pm7.5_{-10.1}^{+18.2}$ \\
+\hline
+ &All $X(1^+)$ & & & & $26.0\pm3.4_{-9.9}^{+7.5}$ \\
+ &$X(4140)$           & $13\sigma$ & $4118\pm 11 _{-35.2}^{+17.9}$ & $162\pm21_{-46.9}^{+18.9}$ & $17.2\pm2.9_{-6.2}^{+18.5}$ \\
+ &$X(4274)$           & $18\sigma$ & $4294\pm 4 _{-5.3}^{+1.6}$  & $53\pm5_{-3.9}^{+4.5}$   & $2.8\pm0.49_{-0.3}^{+0.8}$ \\
+ &$X(4685)$           & $15\sigma$ & $4684\pm 7_{-15.8}^{+12.5}$  & $126\pm15 _{-40.3}^{+36.0}$ & $7.2\pm1.0 _{-1.9}^{+3.9}$ \\
+\hline\hline
+&All $Z_{cs}(1^+)$ & & & & $25.0\pm4.9_{-11.1}^{+11.3}$ \\
+  &$Z_{cs}(4000)$          & $15\sigma$ & $4003\pm 6_{-14.1}^{+3.1}$  & $131\pm15_{-24.3}^{+52.1}$  & $9.4\pm2.1_{-3.1}^{+3.1}$ \\
+  &$Z_{cs}(4220)$          & $5.9\sigma$ & $4216\pm 24_{-23.9}^{+38.9}$ & $233\pm52_{-65.6}^{+92.0}$ & $10.3\pm3.8_{-6.1}^{+9.6}$ \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+
+
+
+
+
